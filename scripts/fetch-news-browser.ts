@@ -246,7 +246,6 @@ async function main() {
       console.log(`  → 抓取 ${source.name} (${source.category})...`);
       
       const page = await browser.newPage();
-      await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36');
       
       const items = await fetchSource(page, source);
       allNews.push(...items);
