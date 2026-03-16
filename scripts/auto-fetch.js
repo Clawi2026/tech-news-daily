@@ -7,20 +7,80 @@ const { chromium } = require('playwright');
 const fs = require('fs');
 const path = require('path');
 
-// 10 个新闻源配置
+// 10 个新闻源配置 - 只抓取科技新闻
 const NEWS_SOURCES = [
   // 国外媒体（7 个）
-  { name: 'TechCrunch', url: 'https://techcrunch.com', language: 'en', category: '科技创业' },
-  { name: 'The Verge', url: 'https://www.theverge.com', language: 'en', category: '科技文化' },
-  { name: 'Ars Technica', url: 'https://arstechnica.com', language: 'en', category: '深度科技' },
-  { name: 'Wired', url: 'https://www.wired.com', language: 'en', category: '科技趋势' },
-  { name: 'BBC Technology', url: 'https://www.bbc.com/news/technology', language: 'en', category: '综合科技' },
-  { name: 'CNET', url: 'https://www.cnet.com', language: 'en', category: '数码产品' },
-  { name: 'Bloomberg Tech', url: 'https://www.bloomberg.com/technology', language: 'en', category: '科技财经' },
-  // 国内媒体（3 个）
-  { name: '36Kr', url: 'https://www.36kr.com', language: 'zh', category: '中国科技' },
-  { name: '虎嗅', url: 'https://www.huxiu.com', language: 'zh', category: '商业科技' },
-  { name: '少数派', url: 'https://sspai.com', language: 'zh', category: '数码生活' }
+  { 
+    name: 'TechCrunch', 
+    url: 'https://techcrunch.com/category/startups/', 
+    language: 'en', 
+    category: '科技创业',
+    keywords: ['AI', 'startup', 'tech', 'app', 'software', 'robot', 'chip', 'data']
+  },
+  { 
+    name: 'The Verge', 
+    url: 'https://www.theverge.com/tech', 
+    language: 'en', 
+    category: '科技文化',
+    keywords: ['tech', 'gadget', 'AI', 'phone', 'computer', 'software']
+  },
+  { 
+    name: 'Ars Technica', 
+    url: 'https://arstechnica.com/', 
+    language: 'en', 
+    category: '深度科技',
+    keywords: ['technology', 'science', 'AI', 'computing', 'software']
+  },
+  { 
+    name: 'Wired', 
+    url: 'https://www.wired.com/', 
+    language: 'en', 
+    category: '科技趋势',
+    keywords: ['technology', 'AI', 'science', 'digital', 'tech']
+  },
+  { 
+    name: 'BBC Technology', 
+    url: 'https://www.bbc.com/news/technology', 
+    language: 'en', 
+    category: '综合科技',
+    keywords: ['technology', 'tech', 'digital', 'AI', 'computer']
+  },
+  { 
+    name: 'CNET', 
+    url: 'https://www.cnet.com/tech/', 
+    language: 'en', 
+    category: '数码产品',
+    keywords: ['tech', 'gadget', 'phone', 'computer', 'review']
+  },
+  { 
+    name: 'Bloomberg Tech', 
+    url: 'https://www.bloomberg.com/technology', 
+    language: 'en', 
+    category: '科技财经',
+    keywords: ['tech', 'technology', 'startup', 'AI', 'company']
+  },
+  // 国内媒体（3 个）- 只看科技版块
+  { 
+    name: '36Kr', 
+    url: 'https://www.36kr.com/', 
+    language: 'zh', 
+    category: '中国科技',
+    keywords: ['科技', 'AI', '互联网', '创业', '数码']
+  },
+  { 
+    name: '虎嗅', 
+    url: 'https://www.huxiu.com/technology/', 
+    language: 'zh', 
+    category: '商业科技',
+    keywords: ['科技', '互联网', 'AI', '数码', '创业']
+  },
+  { 
+    name: '少数派', 
+    url: 'https://sspai.com/', 
+    language: 'zh', 
+    category: '数码生活',
+    keywords: ['数码', '软件', 'APP', '科技', '效率']
+  }
 ];
 
 // 翻译 API
@@ -43,16 +103,16 @@ async function translateText(text, from, to = 'zh') {
 
 // 抓取单个新闻源
 async function fetchSource(browser, source) {
-  console.log(`  → 抓取 ${source.name}...`);
+  console.log(`  → 抓取 ${source.name} (${source.category})...`);
   
   try {
     const page = await browser.newPage();
     await page.goto(source.url, { waitUntil: 'networkidle', timeout: 30000 });
-    await page.waitForTimeout(2000); // 等待页面加载
+    await page.waitForTimeout(3000); // 等待页面加载
     
-    const articles = await page.evaluate(() => {
+    const articles = await page.evaluate((source) => {
       const items = [];
-      const articleElements = document.querySelectorAll('article, .post, .card, [class*="article"], [class*="post"]');
+      const articleElements = document.querySelectorAll('article, .post, .card, [class*="article"], [class*="post"], li');
       
       articleElements.forEach((el) => {
         const titleEl = el.querySelector('h1, h2, h3, [class*="title"]');
@@ -66,7 +126,14 @@ async function fetchSource(browser, source) {
           const description = descEl?.textContent?.trim() || '';
           const pubDate = timeEl?.getAttribute('datetime') || timeEl?.textContent?.trim() || new Date().toISOString();
           
-          if (title.length > 10 && link && !items.find(i => i.link === link)) {
+          // 过滤：只看科技新闻
+          const titleLower = title.toLowerCase();
+          const descLower = description.toLowerCase();
+          const isTech = source.keywords.some(kw => 
+            titleLower.includes(kw.toLowerCase()) || descLower.includes(kw.toLowerCase())
+          );
+          
+          if (title.length > 10 && title.length < 200 && link && isTech && !items.find(i => i.link === link)) {
             items.push({
               title,
               link: link.startsWith('http') ? link : new URL(link, window.location.origin).href,
@@ -76,11 +143,11 @@ async function fetchSource(browser, source) {
           }
         }
         
-        if (items.length >= 5) return items;
+        if (items.length >= 10) return items;
       });
       
-      return items.slice(0, 5);
-    });
+      return items.slice(0, 10);
+    }, source);
     
     await page.close();
     console.log(`    找到 ${articles.length} 条新闻`);

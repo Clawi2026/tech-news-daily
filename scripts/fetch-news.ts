@@ -128,8 +128,9 @@ async function main() {
     
     for (const item of items.slice(0, 10)) { // 每个源最多 10 条
       const translatedTitle = await translateText(item.title, source.language);
+      const descText = typeof item.description === 'string' ? item.description : JSON.stringify(item.description);
       const translatedDesc = await translateText(
-        item.description.replace(/<[^>]*>/g, '').substring(0, 200),
+        descText.replace(/<[^>]*>/g, '').substring(0, 200),
         source.language
       );
       
