@@ -1,0 +1,94 @@
+[
+  {
+    "id": "demo001",
+    "title": "OpenAI 发布新模型 GPT-5，性能大幅提升",
+    "originalTitle": "OpenAI Releases GPT-5 with Major Performance Improvements",
+    "description": "OpenAI 今日正式发布 GPT-5，新模型在推理能力和多模态处理方面有显著提升...",
+    "link": "https://techcrunch.com/2026/03/16/openai-gpt5",
+    "source": "TechCrunch",
+    "category": "科技创业",
+    "language": "en",
+    "publishedAt": "2026-03-16T08:00:00Z",
+    "fetchedAt": "2026-03-16T08:00:00Z"
+  },
+  {
+    "id": "demo002",
+    "title": "苹果 Vision Pro 2 即将发布，售价更低",
+    "originalTitle": "Apple Vision Pro 2 Coming Soon with Lower Price",
+    "description": "据 Bloomberg 报道，苹果计划在今年下半年发布第二代 Vision Pro，售价将降至 2500 美元...",
+    "link": "https://www.theverge.com/apple-vision-pro-2",
+    "source": "The Verge",
+    "category": "科技文化",
+    "language": "en",
+    "publishedAt": "2026-03-16T07:30:00Z",
+    "fetchedAt": "2026-03-16T07:30:00Z"
+  },
+  {
+    "id": "demo003",
+    "title": "字节跳动发布新款 AI 助手，挑战 ChatGPT",
+    "description": "字节跳动今日发布全新 AI 助手豆包 2.0，支持多模态对话和代码生成...",
+    "link": "https://www.36kr.com/bytedance-ai-assistant",
+    "source": "36Kr",
+    "category": "中国科技",
+    "language": "zh",
+    "publishedAt": "2026-03-16T06:00:00Z",
+    "fetchedAt": "2026-03-16T06:00:00Z"
+  },
+  {
+    "id": "demo004",
+    "title": "特斯拉 FSD 在中国获批，自动驾驶时代来临",
+    "description": "特斯拉完全自动驾驶功能 FSD 正式获得中国监管部门批准，将于下月推送...",
+    "link": "https://www.huxiu.com/tesla-fsd-china",
+    "source": "虎嗅",
+    "category": "商业科技",
+    "language": "zh",
+    "publishedAt": "2026-03-16T05:00:00Z",
+    "fetchedAt": "2026-03-16T05:00:00Z"
+  },
+  {
+    "id": "demo005",
+    "title": "Google 搜索将迎来重大变革，AI 摘要成默认功能",
+    "originalTitle": "Google Search Gets Major Overhaul with AI Summaries",
+    "description": "Google 宣布搜索页面将默认显示 AI 生成的摘要，传统蓝色链接将成为次要选项...",
+    "link": "https://arstechnica.com/google-search-ai",
+    "source": "Ars Technica",
+    "category": "深度科技",
+    "language": "en",
+    "publishedAt": "2026-03-16T04:00:00Z",
+    "fetchedAt": "2026-03-16T04:00:00Z"
+  },
+  {
+    "id": "demo006",
+    "title": "小米汽车销量突破 10 万辆，超越预期",
+    "description": "小米汽车 SU7 上市仅 3 个月，累计销量已突破 10 万辆，超出市场普遍预期...",
+    "link": "https://www.36kr.com/xiaomi-car-sales",
+    "source": "36Kr",
+    "category": "中国科技",
+    "language": "zh",
+    "publishedAt": "2026-03-16T03:00:00Z",
+    "fetchedAt": "2026-03-16T03:00:00Z"
+  },
+  {
+    "id": "demo007",
+    "title": "Meta 发布新款 VR 头显 Quest 4，价格亲民",
+    "originalTitle": "Meta Unveils Quest 4 VR Headset at Affordable Price",
+    "description": "Meta 正式发布 Quest 4，起售价仅 399 美元，搭载全新骁龙 XR 芯片...",
+    "link": "https://techcrunch.com/meta-quest-4",
+    "source": "TechCrunch",
+    "category": "科技创业",
+    "language": "en",
+    "publishedAt": "2026-03-16T02:00:00Z",
+    "fetchedAt": "2026-03-16T02:00:00Z"
+  },
+  {
+    "id": "demo008",
+    "title": "英伟达新一代 AI 芯片发布，性能提升 10 倍",
+    "description": "英伟达今日发布 Blackwell 架构新一代 AI 芯片 B200，性能较上一代提升 10 倍...",
+    "link": "https://www.huxiu.com/nvidia-b200",
+    "source": "虎嗅",
+    "category": "商业科技",
+    "language": "zh",
+    "publishedAt": "2026-03-16T01:00:00Z",
+    "fetchedAt": "2026-03-16T01:00:00Z"
+  }
+]
