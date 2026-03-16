@@ -2,8 +2,8 @@ name: Hourly News Fetch
 
 on:
   schedule:
-    # 每小时整点运行（北京时间）
-    - cron: '0 * * * *'
+    # 每小时整点运行（UTC 时间，对应北京时间 8:00-23:00）
+    - cron: '0 0-15 * * *'
   workflow_dispatch: # 允许手动触发
 
 jobs:
@@ -23,10 +23,13 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Install Playwright browsers
+        run: npx playwright install chromium --with-deps
+
       - name: Fetch news with browser
         run: npx tsx scripts/fetch-news-browser.ts
         env:
-          BROWSER_TIMEOUT: 60000
+          BROWSER_TIMEOUT: 120000
 
       - name: Commit and push news data
         run: |
