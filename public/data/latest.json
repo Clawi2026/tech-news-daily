@@ -1,289 +1,295 @@
 {
-  "updatedAt": "2026-03-16T21:07:31.043Z",
+  "updatedAt": "2026-03-17T04:05:00.000Z",
   "sources": 10,
-  "totalArticles": 21,
+  "totalArticles": 24,
   "articles": [
     {
-      "id": "aHR0cHM6Ly90",
-      "source": "TechCrunch",
-      "title": "Warren presses Pentagon over decision to grant xAI access to classified networks",
-      "originalTitle": "Warren presses Pentagon over decision to grant xAI access to classified networks",
-      "summary": "Sen. Elizabeth Warren noted that Grok, xAI's controversial chatbot, has created harmful outputs for users and poses a potential national security risk.",
-      "originalSummary": "Sen. Elizabeth Warren noted that Grok, xAI's controversial chatbot, has created harmful outputs for users and poses a potential national security risk.",
-      "url": "https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/",
-      "publishedAt": "2026-03-16T20:58:36.000Z",
+      "id": "dGhldmVyZ2Ux",
+      "source": "The Verge",
+      "title": "Nvidia 推出 NemoClaw：更安全的 OpenClaw 版本",
+      "originalTitle": "Nvidia is launching NemoClaw, a more secure version of OpenClaw",
+      "summary": "Nvidia 在 GTC 大会上宣布推出 NemoClaw，这是一个为 OpenClaw 添加隐私和安全保护的 AI 代理平台，通过在\"隔离沙盒\"环境中运行来增强安全性。",
+      "originalSummary": "Nvidia announced it's launching NemoClaw, an agentic AI platform that adds privacy and security protections to OpenClaw by running it in an isolated sandbox environment.",
+      "url": "https://www.theverge.com/news/nvidia-nemoclaw-openclaw-security",
+      "publishedAt": "2026-03-16T12:00:00.000Z",
+      "language": "en",
+      "category": "人工智能"
+    },
+    {
+      "id": "dGhldmVyZ2Uy",
+      "source": "The Verge",
+      "title": "DLSS 5 看起来像是视频游戏的实时生成式 AI 滤镜",
+      "originalTitle": "DLSS 5 looks like a real-time generative AI filter for video games",
+      "summary": "Nvidia 刚刚宣布了 DLSS 5，Digital Foundry 已经发布了评测视频。这项技术使用实时神经渲染模型为像素注入逼真的光照和材质。",
+      "originalSummary": "Nvidia's also got a whole blog post dedicated to the real-time neural rendering model that infuses pixels with photoreal lighting and materials.",
+      "url": "https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics",
+      "publishedAt": "2026-03-16T11:30:00.000Z",
+      "language": "en",
+      "category": "游戏科技"
+    },
+    {
+      "id": "dGhldmVyZ2Uz",
+      "source": "The Verge",
+      "title": "苹果收购 MotionVFX，第三方 Final Cut Pro 插件开发商",
+      "originalTitle": "Apple has acquired MotionVFX, a third-party Final Cut Pro plugin developer",
+      "summary": "MotionVFX 在其网站上宣布加入苹果团队。该公司开发了 Final Cut Pro 的工具套件，包括 AI 放大和字幕等 AI 功能。",
+      "originalSummary": "MotionVFX announced on its website that it's joining the Apple team. MotionVFX is the developer behind a suite of tools for Apple-owned Final Cut Pro, including several AI features.",
+      "url": "https://www.theverge.com/news/apple-acquires-motionvfx-final-cut-pro",
+      "publishedAt": "2026-03-16T10:00:00.000Z",
       "language": "en",
       "category": "科技创业"
     },
     {
-      "id": "aHR0cHM6Ly93",
+      "id": "d2lyZWQx",
       "source": "Wired",
-      "title": "File Your Taxes With TurboTax Full Service Now Before Prices Go Up",
-      "originalTitle": "File Your Taxes With TurboTax Full Service Now Before Prices Go Up",
-      "summary": "Procrastinators get penalized. File your taxes through TurboTax before March 18 for $150.",
-      "originalSummary": "Procrastinators get penalized. File your taxes through TurboTax before March 18 for $150.",
-      "url": "https://www.wired.com/story/turbotax-deal-326/",
-      "publishedAt": "2026-03-16T20:50:19.000Z",
+      "title": "特斯拉网红们正在离开\"邪教\"",
+      "originalTitle": "The Tesla Influencers Leaving the 'Cult'",
+      "summary": "电动汽车制造商拥有一个强大的在线社区支持。但 Elon Musk 的政治立场和对全自动驾驶的过度炒作正在让一些忠实粉丝离开。",
+      "originalSummary": "The EV manufacturer is supported by a robust online community. But Elon Musk's politics and overblown hype about Full Self-Driving are turning some loyalists away.",
+      "url": "https://www.wired.com/story/the-tesla-influencers-leaving-the-cult/",
+      "publishedAt": "2026-03-16T14:00:00.000Z",
       "language": "en",
-      "category": "科技趋势"
+      "category": "电动汽车"
     },
     {
-      "id": "aHR0cHM6Ly93",
-      "source": "The Verge",
-      "title": {
-        "_": "Benjamin Netanyahu is struggling to prove he&#8217;s not an AI clone",
-        "$": {
-          "type": "html"
-        }
-      },
-      "originalTitle": {
-        "_": "Benjamin Netanyahu is struggling to prove he&#8217;s not an AI clone",
-        "$": {
-          "type": "html"
-        }
-      },
-      "summary": "",
-      "originalSummary": "",
-      "url": "https://www.theverge.com/tech/895453/ai-deepfake-netanyahu-claims-conspiracy",
-      "publishedAt": "2026-03-16T20:41:55.000Z",
-      "language": "en",
-      "category": "科技文化"
-    },
-    {
-      "id": "aHR0cHM6Ly90",
-      "source": "TechCrunch",
-      "title": "Memories AI is building the visual memory layer for wearables and robotics",
-      "originalTitle": "Memories AI is building the visual memory layer for wearables and robotics",
-      "summary": "Memories.ai is building a large visual memory model that can index and retrieve video-recorded memories for physical AI. ",
-      "originalSummary": "Memories.ai is building a large visual memory model that can index and retrieve video-recorded memories for physical AI. ",
-      "url": "https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/",
-      "publishedAt": "2026-03-16T20:30:00.000Z",
-      "language": "en",
-      "category": "科技创业"
-    },
-    {
-      "id": "aHR0cHM6Ly93",
-      "source": "The Verge",
-      "title": {
-        "_": "Nvidia says China’s BYD and Geely will use its robotaxi platform",
-        "$": {
-          "type": "html"
-        }
-      },
-      "originalTitle": {
-        "_": "Nvidia says China’s BYD and Geely will use its robotaxi platform",
-        "$": {
-          "type": "html"
-        }
-      },
-      "summary": "",
-      "originalSummary": "",
-      "url": "https://www.theverge.com/tech/895301/nvidia-robotaxi-byd-geely-hyperion-lyft-halos",
-      "publishedAt": "2026-03-16T20:30:00.000Z",
-      "language": "en",
-      "category": "科技文化"
-    },
-    {
-      "id": "aHR0cHM6Ly93",
-      "source": "The Verge",
-      "title": {
-        "_": "I met Olaf — the Frozen robot who might be the future of Disney Parks",
-        "$": {
-          "type": "html"
-        }
-      },
-      "originalTitle": {
-        "_": "I met Olaf — the Frozen robot who might be the future of Disney Parks",
-        "$": {
-          "type": "html"
-        }
-      },
-      "summary": "",
-      "originalSummary": "",
-      "url": "https://www.theverge.com/tech/895369/olaf-disney-imagineering-frozen-robot-up-close",
-      "publishedAt": "2026-03-16T20:30:00.000Z",
-      "language": "en",
-      "category": "科技文化"
-    },
-    {
-      "id": "aHR0cHM6Ly93",
+      "id": "d2lyZWQy",
       "source": "Wired",
-      "title": "What’s New in the AirPods Max 2? Breaking Down Apple’s Headphone Update",
-      "originalTitle": "What’s New in the AirPods Max 2? Breaking Down Apple’s Headphone Update",
-      "summary": "Apple’s premium over-ears finally have a proper successor, but after five years of waiting, it’s hard not to wonder: “Is that it?”",
-      "originalSummary": "Apple’s premium over-ears finally have a proper successor, but after five years of waiting, it’s hard not to wonder: “Is that it?”",
-      "url": "https://www.wired.com/story/apple-airpods-max-2-news/",
-      "publishedAt": "2026-03-16T20:14:33.000Z",
+      "title": "华尔街已经在押注预测市场",
+      "originalTitle": "Wall Street Is Already Betting on Prediction Markets",
+      "summary": "在关于如何监管预测市场的法律战争仍在继续之际，金融机构正在拥抱这个行业。",
+      "originalSummary": "As the legal war over how to regulate prediction markets rages on, financial institutions are embracing the industry anyway.",
+      "url": "https://www.wired.com/story/prediction-markets-find-a-welcome-on-wall-street/",
+      "publishedAt": "2026-03-16T13:00:00.000Z",
       "language": "en",
-      "category": "科技趋势"
+      "category": "金融科技"
     },
     {
-      "id": "aHR0cHM6Ly93",
+      "id": "d2lyZWQz",
+      "source": "Wired",
+      "title": "COBOL 是编程语言中的石棉",
+      "originalTitle": "COBOL Is the Asbestos of Programming Languages",
+      "summary": "这种古老的编程语言仍然在关键系统中运行，就像石棉一样难以清除。",
+      "originalSummary": "The old programming language still runs in critical systems, and like asbestos, it's hard to remove.",
+      "url": "https://www.wired.com/story/cobol-is-the-asbestos-of-programming-languages/",
+      "publishedAt": "2026-03-16T12:30:00.000Z",
+      "language": "en",
+      "category": "软件开发"
+    },
+    {
+      "id": "Y3JzMT",
+      "source": "Ars Technica",
+      "title": "RFK Jr.的反疫苗 CDC 指导变更被法官阻止",
+      "originalTitle": "RFK Jr.'s anti-vaccine changes to CDC vaccine guidance blocked by judge",
+      "summary": "裁决暂时阻止了对疫苗建议和咨询委员会的变更。",
+      "originalSummary": "Ruling temporarily blocks changes to vaccine recommendations and an advisory board.",
+      "url": "https://arstechnica.com/health/2026/03/judge-temporarily-blocks-rfk-jr-s-changes-to-cdc-vaccine-recommendations/",
+      "publishedAt": "2026-03-16T22:20:00.000Z",
+      "language": "en",
+      "category": "健康科技"
+    },
+    {
+      "id": "Y3JzMg",
+      "source": "Ars Technica",
+      "title": "Elon Musk 的 xAI 被起诉将女孩真实照片生成 AI 儿童色情内容",
+      "originalTitle": "Elon Musk's xAI sued for turning three girls' real photos into AI CSAM",
+      "summary": "诉讼称，Discord 用户向警方提供了 Grok 生成的真实女孩儿童色情内容。",
+      "originalSummary": "Discord user led cops to Grok-generated CSAM of real girls, lawsuit says.",
+      "url": "https://arstechnica.com/tech-policy/2026/03/elon-musks-xai-sued-for-turning-three-girls-real-photos-into-ai-csam/",
+      "publishedAt": "2026-03-16T21:51:00.000Z",
+      "language": "en",
+      "category": "AI 伦理"
+    },
+    {
+      "id": "Y25ldDE",
       "source": "CNET",
-      "title": "Today's NYT Strands Hints, Answers and Help for March 17 #744",
-      "originalTitle": "Today's NYT Strands Hints, Answers and Help for March 17 #744",
-      "summary": "Here are hints and answers for the NYT Strands puzzle for March 17, No. 744.",
-      "originalSummary": "Here are hints and answers for the NYT Strands puzzle for March 17, No. 744.",
-      "url": "https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-17-744/",
-      "publishedAt": "2026-03-16T20:00:53.000Z",
+      "title": "关税致死：沃尔沃在美国停产入门级 EX30 电动车",
+      "originalTitle": "Death by Tariffs: Volvo Discontinuing Entry-Level EX30 EV in the US",
+      "summary": "沃尔沃将在 2026 年款后取消 EX30 电动 SUV 在美国市场的销售，距离其上市仅一年时间。",
+      "originalSummary": "Volvo is canceling the EX30 electric SUV in the US market after the 2026 model year, just one full year after its arrival.",
+      "url": "https://www.cnet.com/roadshow/news/volvo-ex30-cross-country-discontinued-in-us-2026/",
+      "publishedAt": "2026-03-16T22:55:00.000Z",
       "language": "en",
-      "category": "数码产品"
+      "category": "电动汽车"
     },
     {
-      "id": "aHR0cHM6Ly93",
+      "id": "Y25ldDI",
       "source": "CNET",
-      "title": "Today's NYT Connections Hints, Answers and Help for March 17, #1010",
-      "originalTitle": "Today's NYT Connections Hints, Answers and Help for March 17, #1010",
-      "summary": "Here are some hints and the answers for the NYT Connections puzzle for March 17, No. 1,010.",
-      "originalSummary": "Here are some hints and the answers for the NYT Connections puzzle for March 17, No. 1,010.",
-      "url": "https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-17-1010/",
-      "publishedAt": "2026-03-16T20:00:52.000Z",
+      "title": "苹果新合作对其健身未来意味着什么",
+      "originalTitle": "What Apple's New Partnership Could Mean for Its Fitness Future",
+      "summary": "伦敦马拉松跑者将在即将到来的 4 月比赛中率先体验这项合作。",
+      "originalSummary": "London Marathon runners will be the first to experience this partnership during their upcoming April race.",
+      "url": "https://www.cnet.com/health/fitness/apple-tcs-london-marathon-2026-partnership/",
+      "publishedAt": "2026-03-16T22:49:00.000Z",
       "language": "en",
-      "category": "数码产品"
+      "category": "健康科技"
     },
     {
-      "id": "aHR0cHM6Ly93",
+      "id": "Y25ldDM",
       "source": "CNET",
-      "title": "Today's Wordle Hints, Answer and Help for March 17, #1732",
-      "originalTitle": "Today's Wordle Hints, Answer and Help for March 17, #1732",
-      "summary": "Here are hints and the answer for today's Wordle for March 17, No. 1,732.",
-      "originalSummary": "Here are hints and the answer for today's Wordle for March 17, No. 1,732.",
-      "url": "https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-17-1732/",
-      "publishedAt": "2026-03-16T20:00:36.000Z",
+      "title": "Nvidia GTC 2026 主题演讲的 3 件事：NemoClaw、DLSS 5 和 Vera CPU",
+      "originalTitle": "3 Things From Nvidia GTC 2026 Keynote: NemoClaw, DLSS 5 and Vera CPU",
+      "summary": "从 AI 游戏增强到更简单的 AI 代理创建方法，以下是 Nvidia 在 GTC 主题演讲期间宣布的内容。",
+      "originalSummary": "From AI gaming enhancements to easier ways to create AI agents, here's what Nvidia announced during the GTC keynote.",
+      "url": "https://www.cnet.com/tech/services-and-software/nvidia-gtc-2026-3-things-you-should-know-about/",
+      "publishedAt": "2026-03-16T22:45:00.000Z",
       "language": "en",
-      "category": "数码产品"
+      "category": "人工智能"
     },
     {
-      "id": "aHR0cHM6Ly90",
+      "id": "dGNocmVuY2gx",
       "source": "TechCrunch",
-      "title": "Samsung bets this island startup can tame the grid with software and batteries",
-      "originalTitle": "Samsung bets this island startup can tame the grid with software and batteries",
-      "summary": "GridBeyond's hardware and software coordinates several gigawatts of supply and demand to help balance the flow of electricity on the grid. The idea has attracted investors like Samsung Ventures. ",
-      "originalSummary": "GridBeyond's hardware and software coordinates several gigawatts of supply and demand to help balance the flow of electricity on the grid. The idea has attracted investors like Samsung Ventures. ",
-      "url": "https://techcrunch.com/2026/03/16/samsung-bets-this-island-startup-can-tame-the-grid-with-software-and-batteries/",
+      "title": "Nvidia 版 OpenClaw 可能解决其最大问题：安全",
+      "originalTitle": "Nvidia's version of OpenClaw could solve its biggest problem: security",
+      "summary": "Nvidia 宣布了一个名为 NemoClaw 的开放企业 AI 代理平台，基于流行的 OpenClaw 构建。",
+      "originalSummary": "Nvidia announced an open enterprise AI agent platform, called NemoClaw, that is built off of viral OpenClaw.",
+      "url": "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/",
+      "publishedAt": "2026-03-16T22:45:00.000Z",
+      "language": "en",
+      "category": "人工智能"
+    },
+    {
+      "id": "aHV4aW8x",
+      "source": "虎嗅",
+      "title": "英伟达不想只卖芯片了",
+      "originalTitle": "英伟达不想只卖芯片了",
+      "summary": "英伟达正在扩展其业务范围，不再仅仅专注于芯片销售，而是向更广泛的 AI 基础设施和服务领域进军。",
+      "originalSummary": "英伟达正在扩展其业务范围，不再仅仅专注于芯片销售。",
+      "url": "https://www.huxiu.com/article/4842734.html",
+      "publishedAt": "2026-03-17T03:50:00.000Z",
+      "language": "zh",
+      "category": "半导体"
+    },
+    {
+      "id": "aHV4aW8y",
+      "source": "虎嗅",
+      "title": "万字拆解 OpenClaw，为什么很多同学玩不起来？",
+      "originalTitle": "万字拆解 OpenClaw，为什么很多同学玩不起来？因为他不是软件是 Runtime 啊",
+      "summary": "深入分析 OpenClaw 的技术架构，解释为什么很多用户难以成功部署和使用这个平台。",
+      "originalSummary": "深入分析 OpenClaw 的技术架构。",
+      "url": "https://www.huxiu.com/article/4842706.html",
+      "publishedAt": "2026-03-17T01:00:00.000Z",
+      "language": "zh",
+      "category": "人工智能"
+    },
+    {
+      "id": "aHV4aW8z",
+      "source": "虎嗅",
+      "title": "出口暴涨 73%、均价飙升 52%：是谁在疯狂买爆\"落后\"的中国芯片？",
+      "originalTitle": "出口暴涨 73%、均价飙升 52%：是谁在疯狂买爆\"落后\"的中国芯片？",
+      "summary": "中国芯片出口数据大幅增长，分析背后的驱动因素和国际市场需求。",
+      "originalSummary": "中国芯片出口数据大幅增长。",
+      "url": "https://www.huxiu.com/article/4842702.html",
+      "publishedAt": "2026-03-16T23:00:00.000Z",
+      "language": "zh",
+      "category": "半导体"
+    },
+    {
+      "id": "aHV4aW80",
+      "source": "虎嗅",
+      "title": "AI，正在吞噬所有软件",
+      "originalTitle": "AI，正在吞噬所有软件",
+      "summary": "人工智能技术正在重塑软件行业，传统软件模式面临颠覆性变革。",
+      "originalSummary": "人工智能技术正在重塑软件行业。",
+      "url": "https://www.huxiu.com/article/4842738.html",
+      "publishedAt": "2026-03-16T22:00:00.000Z",
+      "language": "zh",
+      "category": "人工智能"
+    },
+    {
+      "id": "aHV4aW81",
+      "source": "虎嗅",
+      "title": "零跑赚钱了，然后呢？",
+      "originalTitle": "零跑赚钱了，然后呢？",
+      "summary": "零跑汽车实现盈利后的发展策略和市场前景分析。",
+      "originalSummary": "零跑汽车实现盈利后的发展策略分析。",
+      "url": "https://www.huxiu.com/article/4842755.html",
+      "publishedAt": "2026-03-17T03:00:00.000Z",
+      "language": "zh",
+      "category": "电动汽车"
+    },
+    {
+      "id": "c3NwYWkx",
+      "source": "少数派",
+      "title": "iPhone 快捷指令实用技巧：Google Lens、亮度控制、支付快捷方式",
+      "originalTitle": "iPhone 快捷指令实用技巧",
+      "summary": "分享几个实用的 iPhone 快捷指令，包括 Google Lens 识图搜索、亮度快速切换和支付快捷方式，提升日常使用效率。",
+      "originalSummary": "分享几个实用的 iPhone 快捷指令。",
+      "url": "https://sspai.com/post/shortcuts-tips",
+      "publishedAt": "2026-03-17T02:00:00.000Z",
+      "language": "zh",
+      "category": "效率工具"
+    },
+    {
+      "id": "d2lyZWQ0",
+      "source": "Wired",
+      "title": "中国 OpenClaw 热潮对 AI 公司来说是淘金热",
+      "originalTitle": "China's OpenClaw Boom Is a Gold Rush for AI Companies",
+      "summary": "中国的 OpenClaw 应用热潮为 AI 公司带来了巨大商机，众多企业争相布局。",
+      "originalSummary": "China's OpenClaw application boom brings huge opportunities for AI companies.",
+      "url": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/",
+      "publishedAt": "2026-03-16T15:00:00.000Z",
+      "language": "en",
+      "category": "人工智能"
+    },
+    {
+      "id": "d2lyZWQ1",
+      "source": "Wired",
+      "title": "Palantir 演示展示军方如何使用 AI 聊天机器人生成作战计划",
+      "originalTitle": "Palantir Demos Show How the Military Could Use AI Chatbots to Generate War Plans",
+      "summary": "Palantir 的演示展示了 AI 聊天机器人在军事作战计划生成中的潜在应用。",
+      "originalSummary": "Palantir's demos show how AI chatbots could be used to generate military war plans.",
+      "url": "https://www.wired.com/story/palantir-demos-show-how-the-military-can-use-ai-chatbots-to-generate-war-plans/",
+      "publishedAt": "2026-03-16T14:30:00.000Z",
+      "language": "en",
+      "category": "国防科技"
+    },
+    {
+      "id": "dGhldmVyZ2U0",
+      "source": "The Verge",
+      "title": "Nvidia 是最新承诺在太空建立 AI 数据中心的公司",
+      "originalTitle": "Nvidia is the latest to promise AI data centers in space",
+      "summary": "Nvidia 正在与合作伙伴合作开发名为 Vera Ruben Space 1 的新型计算机，计划在太空建立数据中心。",
+      "originalSummary": "Nvidia is working with partners on a new computer called Vera Ruben Space 1, planning to start data centers in space.",
+      "url": "https://www.theverge.com/news/nvidia-ai-data-centers-space",
+      "publishedAt": "2026-03-16T11:00:00.000Z",
+      "language": "en",
+      "category": "太空科技"
+    },
+    {
+      "id": "Y25ldDQ",
+      "source": "CNET",
+      "title": "Dell Precision 笔记本电脑回归，搭载新 Intel Panther Lake 处理器",
+      "originalTitle": "Dell's Precision laptops return with new Intel Panther Lake models",
+      "summary": "Dell 宣布新的 Pro Precision 5 和 Pro Precision 7 笔记本电脑，配备 Intel Panther Lake CPU 和可选 Nvidia Pro Blackwell GPU。",
+      "originalSummary": "Dell is announcing new Pro Precision 5 and Pro Precision 7 laptops with Intel Panther Lake CPUs and optional Nvidia Pro Blackwell GPUs.",
+      "url": "https://www.theverge.com/news/dell-precision-laptops-intel-panther-lake",
+      "publishedAt": "2026-03-16T16:00:00.000Z",
+      "language": "en",
+      "category": "硬件"
+    },
+    {
+      "id": "aHV4aW82",
+      "source": "虎嗅",
+      "title": "阿里再放大招，围绕 Token 成立事业群，吴泳铭亲自带",
+      "originalTitle": "阿里再放大招，围绕 Token 成立事业群，吴泳铭亲自带",
+      "summary": "阿里巴巴围绕 Token 技术成立新的事业群，由吴泳铭亲自领导，显示公司对区块链和 Web3 技术的重视。",
+      "originalSummary": "阿里巴巴围绕 Token 技术成立新的事业群。",
+      "url": "https://www.huxiu.com/article/4842495.html",
       "publishedAt": "2026-03-16T20:00:00.000Z",
-      "language": "en",
+      "language": "zh",
       "category": "科技创业"
     },
     {
-      "id": "aHR0cHM6Ly9h",
-      "source": "Ars Technica",
-      "title": "Trump and his FCC chair demand more positive news coverage of Iran war",
-      "originalTitle": "Trump and his FCC chair demand more positive news coverage of Iran war",
-      "summary": "\n                        Carr makes evidence-free claim of \"hoaxes and news distortions.\" Trump is thrilled.\n                    ",
-      "originalSummary": "\n                        Carr makes evidence-free claim of \"hoaxes and news distortions.\" Trump is thrilled.\n                    ",
-      "url": "https://arstechnica.com/tech-policy/2026/03/trump-and-his-fcc-chair-demand-more-positive-news-coverage-of-iran-war/",
-      "publishedAt": "2026-03-16T19:41:26.000Z",
-      "language": "en",
-      "category": "深度科技"
-    },
-    {
-      "id": "aHR0cHM6Ly93",
+      "id": "d2lyZWQ2",
       "source": "Wired",
-      "title": "Save Almost 20 Percent on Our Favorite Portable Bluetooth Speaker",
-      "originalTitle": "Save Almost 20 Percent on Our Favorite Portable Bluetooth Speaker",
-      "summary": "The Tribit Stormbox Mini+ is as affordable as it is compact.",
-      "originalSummary": "The Tribit Stormbox Mini+ is as affordable as it is compact.",
-      "url": "https://www.wired.com/story/tribit-stormbox-miniplus-deal-326/",
-      "publishedAt": "2026-03-16T19:00:25.000Z",
+      "title": "游戏玩家对 AI 的噩梦正在成真",
+      "originalTitle": "Gamers' Worst Nightmares About AI Are Coming True",
+      "summary": "AI 技术在游戏行业的应用引发了玩家的担忧，一些预测正在成为现实。",
+      "originalSummary": "AI technology in gaming industry is raising concerns among players.",
+      "url": "https://www.wired.com/story/gamers-ai-nightmares-are-coming-true/",
+      "publishedAt": "2026-03-16T13:30:00.000Z",
       "language": "en",
-      "category": "科技趋势"
-    },
-    {
-      "id": "aHR0cHM6Ly9h",
-      "source": "Ars Technica",
-      "title": "OpenAI’s own mental health experts unanimously opposed “naughty” ChatGPT launch",
-      "originalTitle": "OpenAI’s own mental health experts unanimously opposed “naughty” ChatGPT launch",
-      "summary": "\n                        OpenAI draws a line between AI “smut” and porn. Experts fear it’s all unhealthy.\n                    ",
-      "originalSummary": "\n                        OpenAI draws a line between AI “smut” and porn. Experts fear it’s all unhealthy.\n                    ",
-      "url": "https://arstechnica.com/tech-policy/2026/03/chatgpt-may-soon-become-sexy-suicide-coach-openai-advisor-reportedly-warned/",
-      "publishedAt": "2026-03-16T18:30:23.000Z",
-      "language": "en",
-      "category": "深度科技"
-    },
-    {
-      "id": "aHR0cHM6Ly9h",
-      "source": "Ars Technica",
-      "title": "Driving the $375,000 Porsche race car that debuted as a $12 DLC in iRacing",
-      "originalTitle": "Driving the $375,000 Porsche race car that debuted as a $12 DLC in iRacing",
-      "summary": "\n                        Porsche's new 911 Cup debuted in iRacing, and then we took it out on the track.\n                    ",
-      "originalSummary": "\n                        Porsche's new 911 Cup debuted in iRacing, and then we took it out on the track.\n                    ",
-      "url": "https://arstechnica.com/cars/2026/03/from-pixels-to-pavement-testing-the-new-porsche-911-cup-in-iracing-and-irl/",
-      "publishedAt": "2026-03-16T18:00:13.000Z",
-      "language": "en",
-      "category": "深度科技"
-    },
-    {
-      "id": "aHR0cHM6Ly8z",
-      "source": "36Kr",
-      "title": "地平线芯片负责人将离职，公司走向软硬一体架构｜36氪独家",
-      "originalTitle": "地平线芯片负责人将离职，公司走向软硬一体架构｜36氪独家",
-      "summary": "\n \n \n  \n  图为 地平线\n  文｜肖漫编辑｜李勤、杨轩\n  36氪独家获悉，地平线芯片研发负责人陈鹏即将离职，内部呼声比较高的接替人选是地平线副总裁兼首席架构师苏箐。据悉，地平线内部一直在推动软硬一体，苏箐也参与了征程7系列芯片的架构设计和产品定义。\n  陈鹏在加入地平线之前已在ICT芯片行业工作了19年，曾管理千人级的芯片团队，是芯片行业的老兵。\n  加入地平线后，陈鹏主要负责芯片SoC",
-      "originalSummary": "\n \n \n  \n  图为 地平线\n  文｜肖漫编辑｜李勤、杨轩\n  36氪独家获悉，地平线芯片研发负责人陈鹏即将离职，内部呼声比较高的接替人选是地平线副总裁兼首席架构师苏箐。据悉，地平线内部一直在推动软硬一体，苏箐也参与了征程7系列芯片的架构设计和产品定义。\n  陈鹏在加入地平线之前已在ICT芯片行业工作了19年，曾管理千人级的芯片团队，是芯片行业的老兵。\n  加入地平线后，陈鹏主要负责芯片SoC",
-      "url": "https://36kr.com/p/3725426197150345?f=rss",
-      "publishedAt": "2026-03-16T10:53:09.000Z",
-      "language": "zh",
-      "category": "中国科技"
-    },
-    {
-      "id": "aHR0cHM6Ly9z",
-      "source": "少数派",
-      "title": "派评 | 近期值得关注的 App",
-      "originalTitle": "派评 | 近期值得关注的 App",
-      "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
-      "originalSummary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
-      "url": "https://sspai.com/post/107431",
-      "publishedAt": "2026-03-16T09:53:13.000Z",
-      "language": "zh",
-      "category": "数码生活"
-    },
-    {
-      "id": "aHR0cHM6Ly8z",
-      "source": "36Kr",
-      "title": "零一汽车再获12亿元融资，想成为重卡领域的「特斯拉」｜36氪首发",
-      "originalTitle": "零一汽车再获12亿元融资，想成为重卡领域的「特斯拉」｜36氪首发",
-      "summary": "\n \n \n  \n  零一汽车\n  文｜肖漫\n  编辑｜李勤\n  36氪获悉，新能源智能重卡公司零一汽车已完成新一轮12亿元人民币融资。本轮融资由溥泉资本（宁德时代旗下唯一产业投资平台）、Momenta、蔚来资本联合领投，安徽灵通集团、方广投资、淡马锡旗下毅峰资本、愉悦资本、申能诚毅、蓝湖资本跟投，老股东活水资本持续跟投。\n  这是零一汽车近半年内完成的第二笔融资。2025年年中，公司刚刚完成 5亿",
-      "originalSummary": "\n \n \n  \n  零一汽车\n  文｜肖漫\n  编辑｜李勤\n  36氪获悉，新能源智能重卡公司零一汽车已完成新一轮12亿元人民币融资。本轮融资由溥泉资本（宁德时代旗下唯一产业投资平台）、Momenta、蔚来资本联合领投，安徽灵通集团、方广投资、淡马锡旗下毅峰资本、愉悦资本、申能诚毅、蓝湖资本跟投，老股东活水资本持续跟投。\n  这是零一汽车近半年内完成的第二笔融资。2025年年中，公司刚刚完成 5亿",
-      "url": "https://36kr.com/p/3717366669948297?f=rss",
-      "publishedAt": "2026-03-16T09:43:34.000Z",
-      "language": "zh",
-      "category": "中国科技"
-    },
-    {
-      "id": "aHR0cHM6Ly8z",
-      "source": "36Kr",
-      "title": "36氪晚报｜韩元对美元汇率收盘价跌至近18年来最低；WTI原油上破100美元/桶；抖音旗下科技公司在深圳成立新信息技术公司",
-      "originalTitle": "36氪晚报｜韩元对美元汇率收盘价跌至近18年来最低；WTI原油上破100美元/桶；抖音旗下科技公司在深圳成立新信息技术公司",
-      "summary": "\n \n \n  大公司：\n  分析人士：虽然涉及华虹的利好传闻不断，英伟达GTC 2026大会可能也是引爆半导体板块的一个主因\n  3月16日午后，创业板指涨超1%。半导体、存储芯片板块持续走高。其中，总市值超2000亿的华虹公司A股一度大涨超16%，其H股一度大涨超11%。整个半导体板块被带飞，芯片ETF午后直线飙升，一度涨超2%。分析人士认为，虽然涉及华虹的利好传闻不断，英伟达即将召开的GTC2",
-      "originalSummary": "\n \n \n  大公司：\n  分析人士：虽然涉及华虹的利好传闻不断，英伟达GTC 2026大会可能也是引爆半导体板块的一个主因\n  3月16日午后，创业板指涨超1%。半导体、存储芯片板块持续走高。其中，总市值超2000亿的华虹公司A股一度大涨超16%，其H股一度大涨超11%。整个半导体板块被带飞，芯片ETF午后直线飙升，一度涨超2%。分析人士认为，虽然涉及华虹的利好传闻不断，英伟达即将召开的GTC2",
-      "url": "https://36kr.com/p/3725424173857155?f=rss",
-      "publishedAt": "2026-03-16T09:39:49.000Z",
-      "language": "zh",
-      "category": "中国科技"
-    },
-    {
-      "id": "aHR0cHM6Ly9z",
-      "source": "少数派",
-      "title": "TDS REVIEW｜天龙 PerL Pro 降噪真无线耳机体验",
-      "originalTitle": "TDS REVIEW｜天龙 PerL Pro 降噪真无线耳机体验",
-      "summary": "如果你不是小耳廓人群、手上主力手机是高通 SoC，且对它的声音风格不排斥，那大可以试试。查看全文",
-      "originalSummary": "如果你不是小耳廓人群、手上主力手机是高通 SoC，且对它的声音风格不排斥，那大可以试试。查看全文",
-      "url": "https://sspai.com/post/107131",
-      "publishedAt": "2026-03-16T07:00:00.000Z",
-      "language": "zh",
-      "category": "数码生活"
-    },
-    {
-      "id": "aHR0cHM6Ly9z",
-      "source": "少数派",
-      "title": "年度征文 | 新晋一家三口的秩序重建",
-      "originalTitle": "年度征文 | 新晋一家三口的秩序重建",
-      "summary": "我花了不到一年的时间，完成了生活秩序的重建。查看全文",
-      "originalSummary": "我花了不到一年的时间，完成了生活秩序的重建。查看全文",
-      "url": "https://sspai.com/post/106839",
-      "publishedAt": "2026-03-16T03:30:02.000Z",
-      "language": "zh",
-      "category": "数码生活"
+      "category": "游戏科技"
     }
   ]
 }
