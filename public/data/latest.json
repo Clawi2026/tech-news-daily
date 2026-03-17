@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-03-17T22:09:06.302Z",
+  "lastUpdated": "2026-03-17T23:07:33.274Z",
   "sources": 10,
-  "totalArticles": 18,
+  "totalArticles": 21,
   "fetchStatus": {
     "success": [
       "TechCrunch",
@@ -9,232 +9,298 @@
       "Ars Technica",
       "Wired",
       "CNET",
+      "36Kr",
       "少数派"
     ],
     "partial": [],
     "failed": [
       "BBC Technology",
       "Bloomberg Tech",
-      "36Kr",
       "虎嗅"
     ]
   },
   "articles": [
     {
-      "id": "tc-001",
+      "id": "aHR0cHM6Ly93",
+      "source": "Wired",
+      "title": "Meta Is Shutting Down Horizon Worlds on Meta Quest",
+      "originalTitle": "Meta Is Shutting Down Horizon Worlds on Meta Quest",
+      "summary": "Meta’s flailing virtual reality social experience is being discontinued in June. It's part of Meta’s broader moves to slim down the business that became its namesake.",
+      "originalSummary": "Meta’s flailing virtual reality social experience is being discontinued in June. It's part of Meta’s broader moves to slim down the business that became its namesake.",
+      "url": "https://www.wired.com/story/meta-is-shutting-down-horizon-worlds-on-meta-quest/",
+      "publishedAt": "2026-03-17T22:24:51.000Z",
+      "language": "en",
+      "category": "科技趋势"
+    },
+    {
+      "id": "aHR0cHM6Ly93",
+      "source": "CNET",
+      "title": "Amazon Speeds Up Delivery Even More With 1- and 3-Hour Options",
+      "originalTitle": "Amazon Speeds Up Delivery Even More With 1- and 3-Hour Options",
+      "summary": "The retailer says the one-hour option is available in hundreds of cities, with discounted shipping for Prime members.",
+      "originalSummary": "The retailer says the one-hour option is available in hundreds of cities, with discounted shipping for Prime members.",
+      "url": "https://www.cnet.com/news/amazon-speeds-up-delivery-even-more-with-1-and-3-hour-options/",
+      "publishedAt": "2026-03-17T21:56:00.000Z",
+      "language": "en",
+      "category": "数码产品"
+    },
+    {
+      "id": "aHR0cHM6Ly93",
+      "source": "CNET",
+      "title": "Samsung Halts Sale of Galaxy Z TriFold After Just 3 Months",
+      "originalTitle": "Samsung Halts Sale of Galaxy Z TriFold After Just 3 Months",
+      "summary": "The 10-inch device cost nearly $3,000 and will no longer be available to buy in the US or South Korea.",
+      "originalSummary": "The 10-inch device cost nearly $3,000 and will no longer be available to buy in the US or South Korea.",
+      "url": "https://www.cnet.com/tech/mobile/samsung-ends-sales-galaxy-z-trifold/",
+      "publishedAt": "2026-03-17T21:45:00.000Z",
+      "language": "en",
+      "category": "数码产品"
+    },
+    {
+      "id": "aHR0cHM6Ly90",
       "source": "TechCrunch",
-      "title": "Kalshi 法律纠纷升级，亚利桑那州提起刑事诉讼",
-      "originalTitle": "Kalshi's legal troubles pile up, as Arizona files first ever criminal charges over 'illegal gambling business'",
-      "summary": "预测市场平台 Kalshi 面临亚利桑那州提起的刑事诉讼，指控其运营非法赌博业务。",
-      "originalSummary": "It's the latest salvo in an escalating battle between state regulators and an industry that claims it's not beholden to them.",
+      "title": "Kalshi’s legal troubles pile up, as Arizona files first ever criminal charges over ‘illegal gambling business’",
+      "originalTitle": "Kalshi’s legal troubles pile up, as Arizona files first ever criminal charges over ‘illegal gambling business’",
+      "summary": "It's the latest salvo in an escalating battle between state regulators and an industry that claims it's not beholden to them.  ",
+      "originalSummary": "It's the latest salvo in an escalating battle between state regulators and an industry that claims it's not beholden to them.  ",
       "url": "https://techcrunch.com/2026/03/17/kalshis-legal-troubles-pile-up-as-arizona-files-first-ever-criminal-charges-over-illegal-gambling-business/",
-      "publishedAt": "2026-03-17T21:39:17Z",
+      "publishedAt": "2026-03-17T21:39:17.000Z",
       "language": "en",
-      "category": "金融科技"
+      "category": "科技创业"
     },
     {
-      "id": "at-001",
+      "id": "aHR0cHM6Ly9h",
       "source": "Ars Technica",
-      "title": "World ID 想为 AI 智能体提供加密人类身份认证",
-      "originalTitle": "World ID wants you to put a cryptographically unique human identity behind your AI agents",
-      "summary": "虹膜扫描支持的身份验证可以帮助阻止智能体集群压倒在线系统。",
-      "originalSummary": "Iris-scan backed tokens could help stop agent swarms from overwhelming online systems.",
+      "title": "Apple can delist apps \"with or without cause,\" judge says in loss for Musi app",
+      "originalTitle": "Apple can delist apps \"with or without cause,\" judge says in loss for Musi app",
+      "summary": "\n                        Judge tosses Musi case against Apple, sanctions lawyers for \"mak[ing] up facts.\"\n                    ",
+      "originalSummary": "\n                        Judge tosses Musi case against Apple, sanctions lawyers for \"mak[ing] up facts.\"\n                    ",
+      "url": "https://arstechnica.com/tech-policy/2026/03/judge-upholds-apple-delisting-of-free-musi-app-that-streams-songs-from-youtube/",
+      "publishedAt": "2026-03-17T21:38:33.000Z",
+      "language": "en",
+      "category": "深度科技"
+    },
+    {
+      "id": "aHR0cHM6Ly93",
+      "source": "CNET",
+      "title": "Encyclopedia Britannica and Merriam-Webster Sue OpenAI",
+      "originalTitle": "Encyclopedia Britannica and Merriam-Webster Sue OpenAI",
+      "summary": "The lawsuit continues a trend of content owners suing AI companies for copyright infringement.",
+      "originalSummary": "The lawsuit continues a trend of content owners suing AI companies for copyright infringement.",
+      "url": "https://www.cnet.com/tech/services-and-software/encyclopedia-britannica-and-merriam-webster-sue-openai/",
+      "publishedAt": "2026-03-17T21:38:22.000Z",
+      "language": "en",
+      "category": "数码产品"
+    },
+    {
+      "id": "aHR0cHM6Ly9h",
+      "source": "Ars Technica",
+      "title": "How World ID wants to put a unique human identity on every AI agent",
+      "originalTitle": "How World ID wants to put a unique human identity on every AI agent",
+      "summary": "\n                        Iris-scan backed tokens could help stop agent swarms from overwhelming online systems.\n                    ",
+      "originalSummary": "\n                        Iris-scan backed tokens could help stop agent swarms from overwhelming online systems.\n                    ",
       "url": "https://arstechnica.com/ai/2026/03/world-id-wants-you-to-put-a-cryptographically-unique-human-identity-behind-your-ai-agents/",
-      "publishedAt": "2026-03-17T21:28:27Z",
+      "publishedAt": "2026-03-17T21:28:27.000Z",
       "language": "en",
-      "category": "人工智能"
+      "category": "深度科技"
     },
     {
-      "id": "tc-002",
+      "id": "aHR0cHM6Ly90",
       "source": "TechCrunch",
-      "title": "Mistral 推出 Forge，让企业构建自己的 AI 模型",
-      "originalTitle": "Mistral bets on 'build-your-own AI' as it takes on OpenAI, Anthropic in the enterprise",
-      "summary": "Mistral Forge 让企业从头训练定制 AI 模型，挑战依赖微调和检索方法的竞争对手。",
-      "originalSummary": "Mistral Forge lets enterprises train custom AI models from scratch on their own data.",
+      "title": "Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise",
+      "originalTitle": "Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise",
+      "summary": "Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches.",
+      "originalSummary": "Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches.",
       "url": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
-      "publishedAt": "2026-03-17T21:00:00Z",
+      "publishedAt": "2026-03-17T21:00:00.000Z",
       "language": "en",
-      "category": "人工智能"
+      "category": "科技创业"
     },
     {
-      "id": "cn-001",
-      "source": "CNET",
-      "title": "英伟达 GTC 2026：Jensen Huang 主题演讲 AI 和机器人新闻汇总",
-      "originalTitle": "Nvidia GTC: Catch Up on All the AI and Robotics News from Jensen Huang's Keynote",
-      "summary": "英伟达 GTC 主题演讲如期而至，机器人登台亮相。",
-      "originalSummary": "It wouldn't be a Nvidia keynote without a robot on stage, and GTC did not disappoint.",
-      "url": "https://www.cnet.com/news-live/nvidia-gtc-2026-live-blog-updates/",
-      "publishedAt": "2026-03-17T21:00:00Z",
-      "language": "en",
-      "category": "人工智能"
-    },
-    {
-      "id": "tc-003",
+      "id": "aHR0cHM6Ly90",
       "source": "TechCrunch",
-      "title": "为什么 Garry Tan 的 Claude Code 设置受到喜爱和争议",
-      "originalTitle": "Why Garry Tan's Claude Code setup has gotten so much love, and hate",
-      "summary": "数千人尝试 Garry Tan 在 GitHub 上分享的 Claude Code 设置，包括 Claude、ChatGPT 和 Gemini 都有意见。",
-      "originalSummary": "Thousands of people are trying Garry Tan's Claude Code setup, which was shared on GitHub.",
+      "title": "Why Garry Tan’s Claude Code setup has gotten so much love, and hate",
+      "originalTitle": "Why Garry Tan’s Claude Code setup has gotten so much love, and hate",
+      "summary": "Thousands of people are trying Garry Tan's Claude Code setup, which was shared on GitHub. And everyone has an opinion: even Claude, ChatGPT, and Gemini.",
+      "originalSummary": "Thousands of people are trying Garry Tan's Claude Code setup, which was shared on GitHub. And everyone has an opinion: even Claude, ChatGPT, and Gemini.",
       "url": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/",
-      "publishedAt": "2026-03-17T20:50:04Z",
+      "publishedAt": "2026-03-17T20:50:04.000Z",
       "language": "en",
-      "category": "人工智能"
+      "category": "科技创业"
     },
     {
-      "id": "vg-001",
+      "id": "aHR0cHM6Ly93",
       "source": "The Verge",
-      "title": "我去五角大楼看 Pete Hegseth 训斥战地记者",
-      "originalTitle": "I went to the Pentagon to watch Pete Hegseth scold war reporters",
-      "summary": "在美国与伊朗战争的第 13 天，记者在五角大楼简报室目睹国防部长对战争报道的管控。",
-      "originalSummary": "It is day 13 of America's surprise war with Iran - by sheer coincidence, it's Friday the 13th.",
+      "title": {
+        "_": "I went to the Pentagon to watch Pete Hegseth scold war reporters",
+        "$": {
+          "type": "html"
+        }
+      },
+      "originalTitle": {
+        "_": "I went to the Pentagon to watch Pete Hegseth scold war reporters",
+        "$": {
+          "type": "html"
+        }
+      },
+      "summary": "",
+      "originalSummary": "",
       "url": "https://www.theverge.com/policy/896312/pentagon-briefing-iran-war-pete-hegseth",
-      "publishedAt": "2026-03-17T20:47:35Z",
+      "publishedAt": "2026-03-17T20:47:35.000Z",
       "language": "en",
-      "category": "科技政策"
+      "category": "科技文化"
     },
     {
-      "id": "cn-002",
-      "source": "CNET",
-      "title": "FIFA 与 YouTube 合作 2026 年世界杯",
-      "originalTitle": "FIFA Joins Forces With YouTube for World Cup 2026",
-      "summary": "该协议将为粉丝提供更多参与世界杯的方式。",
-      "originalSummary": "The deal will give fans more ways to engage with the tournament.",
-      "url": "https://www.cnet.com/tech/services-and-software/youtube-fifa-world-cup-2026/",
-      "publishedAt": "2026-03-17T20:41:00Z",
-      "language": "en",
-      "category": "科技趋势"
-    },
-    {
-      "id": "vg-002",
+      "id": "aHR0cHM6Ly93",
       "source": "The Verge",
-      "title": "Beats Studio Pro 耳机在亚马逊春季大促前降价近 200 美元",
-      "originalTitle": "The Beats Studio Pro are nearly $200 off ahead of Amazon's big spring sale",
-      "summary": "苹果旗下 Beats 的高端降噪耳机在亚马逊春季大促前降至历史低价。",
-      "originalSummary": "Earlier this week, Apple unveiled the AirPods Max 2.",
+      "title": {
+        "_": "The Beats Studio Pro are nearly $200 off ahead of Amazon’s big spring sale",
+        "$": {
+          "type": "html"
+        }
+      },
+      "originalTitle": {
+        "_": "The Beats Studio Pro are nearly $200 off ahead of Amazon’s big spring sale",
+        "$": {
+          "type": "html"
+        }
+      },
+      "summary": "",
+      "originalSummary": "",
       "url": "https://www.theverge.com/gadgets/896279/beats-studio-pro-anc-headphones-amazon-big-spring-sale-deal-2026",
-      "publishedAt": "2026-03-17T20:38:08Z",
+      "publishedAt": "2026-03-17T20:38:08.000Z",
       "language": "en",
-      "category": "数码产品"
+      "category": "科技文化"
     },
     {
-      "id": "wd-001",
+      "id": "aHR0cHM6Ly93",
       "source": "Wired",
-      "title": "DoorDash 预订服务拿下美国最难订的餐厅",
-      "originalTitle": "DoorDash Reservations Scored America's Most Exclusive Restaurants",
-      "summary": "在预订黄牛兴起（和衰落）后，DoorDash 等应用正在争夺独家餐厅预订市场。",
-      "originalSummary": "After the rise (and fall) of reservation scalping, DoorDash and apps fight to book exclusive restaurants.",
+      "title": "DoorDash Reservations Scored America’s Most Exclusive Restaurants",
+      "originalTitle": "DoorDash Reservations Scored America’s Most Exclusive Restaurants",
+      "summary": "After the rise (and fall) of reservation scalping, DoorDash and a host of apps are fighting to book you a seat at the country’s most exclusive restaurants.",
+      "originalSummary": "After the rise (and fall) of reservation scalping, DoorDash and a host of apps are fighting to book you a seat at the country’s most exclusive restaurants.",
       "url": "https://www.wired.com/story/doordash-reservations-exclusive-restaurants/",
-      "publishedAt": "2026-03-17T20:32:13Z",
+      "publishedAt": "2026-03-17T20:32:13.000Z",
       "language": "en",
       "category": "科技趋势"
     },
     {
-      "id": "cn-003",
-      "source": "CNET",
-      "title": "Anker Liberty 5 Pro Max 耳机将在充电盒中集成 AI 语音 recorder",
-      "originalTitle": "Anker's Upcoming Liberty 5 Pro Max Buds Will Have an AI Voice Recorder in Their Charging Case",
-      "summary": "泄露显示 Anker 的新耳机将搭载自研 AI 芯片 Anker Thus。",
-      "originalSummary": "Leaks reveal Anker's new Liberty 5 Pro and Pro Max earbuds will feature an in-house-developed AI chip.",
-      "url": "https://www.cnet.com/tech/mobile/ankers-upcoming-liberty-5-pro-max-buds-will-have-an-ai-voice-recorder-in-charging-case/",
-      "publishedAt": "2026-03-17T20:10:17Z",
-      "language": "en",
-      "category": "数码产品"
-    },
-    {
-      "id": "at-002",
-      "source": "Ars Technica",
-      "title": "亚利桑那州起诉预测市场 Kalshi 运营非法赌博",
-      "originalTitle": "Arizona indicts prediction market Kalshi for running illegal gambling operation",
-      "summary": "亚利桑那州成为首个对预测市场平台提起刑事诉讼的州。",
-      "originalSummary": "Desert state becomes first to file criminal case against prediction market.",
-      "url": "https://arstechnica.com/tech-policy/2026/03/arizona-indicts-prediction-market-kalshi-for-running-illegal-gambling-operation/",
-      "publishedAt": "2026-03-17T19:28:26Z",
-      "language": "en",
-      "category": "科技政策"
-    },
-    {
-      "id": "vg-003",
+      "id": "aHR0cHM6Ly93",
       "source": "The Verge",
-      "title": "Meta 将于 6 月关闭 VR 版 Horizon Worlds",
-      "originalTitle": "Meta is shutting down its VR metaverse on June 15th",
-      "summary": "Meta 宣布将 Horizon Worlds 的 VR 版本于 6 月 15 日关闭，转向移动优先战略。",
-      "originalSummary": "Meta announces VR version of Horizon Worlds will shut down on June 15.",
-      "url": "https://www.theverge.com/2026/3/17/meta-vr-mobile-metaverse-horizon-worlds",
-      "publishedAt": "2026-03-17T19:00:00Z",
+      "title": {
+        "_": "Remedy’s live-service shooter Firebreak is getting its final major update",
+        "$": {
+          "type": "html"
+        }
+      },
+      "originalTitle": {
+        "_": "Remedy’s live-service shooter Firebreak is getting its final major update",
+        "$": {
+          "type": "html"
+        }
+      },
+      "summary": "",
+      "originalSummary": "",
+      "url": "https://www.theverge.com/entertainment/896278/fbc-firebreak-last-update-remedy",
+      "publishedAt": "2026-03-17T19:36:45.000Z",
       "language": "en",
-      "category": "元宇宙"
+      "category": "科技文化"
     },
     {
-      "id": "at-003",
+      "id": "aHR0cHM6Ly9h",
       "source": "Ars Technica",
-      "title": "特朗普政府要求更积极的伊朗战争报道",
-      "originalTitle": "Trump and his FCC chair demand more positive news coverage of Iran war",
-      "summary": "FCC 主席威胁要撤销播放\"虚假新闻\"的广播公司许可证。",
-      "originalSummary": "FCC Chairman threatens to revoke licenses over war coverage.",
-      "url": "https://arstechnica.com/tech-policy/2026/03/trump-and-his-fcc-chair-demand-more-positive-news-coverage-of-iran-war/",
-      "publishedAt": "2026-03-17T18:00:00Z",
+      "title": "Arizona indicts prediction market Kalshi for running illegal gambling operation",
+      "originalTitle": "Arizona indicts prediction market Kalshi for running illegal gambling operation",
+      "summary": "\n                        Desert state becomes first to file criminal case against prediction platform.\n                    ",
+      "originalSummary": "\n                        Desert state becomes first to file criminal case against prediction platform.\n                    ",
+      "url": "https://arstechnica.com/tech-policy/2026/03/arizona-indicts-prediction-market-kalshi-for-running-illegal-gambling-operation/",
+      "publishedAt": "2026-03-17T19:28:26.000Z",
       "language": "en",
-      "category": "科技政策"
+      "category": "深度科技"
     },
     {
-      "id": "wd-002",
+      "id": "aHR0cHM6Ly93",
       "source": "Wired",
-      "title": "Sonos 头戴式耳机降价 100 美元",
+      "title": "These Sonos Over-Ear Headphones Are $100 Off",
       "originalTitle": "These Sonos Over-Ear Headphones Are $100 Off",
-      "summary": "这款超舒适的耳机拥有顶级主动降噪功能，还能与现有 Sonos 设备集成。",
-      "originalSummary": "This super comfortable headset has top-tier active noise canceling.",
+      "summary": "This super comfortable headset has some top-tier active noise canceling. Unlike other headphones, it also integrates with your existing Sonos gear.",
+      "originalSummary": "This super comfortable headset has some top-tier active noise canceling. Unlike other headphones, it also integrates with your existing Sonos gear.",
       "url": "https://www.wired.com/story/sonos-ace-deal-326/",
-      "publishedAt": "2026-03-17T17:45:22Z",
+      "publishedAt": "2026-03-17T17:45:22.000Z",
       "language": "en",
-      "category": "数码产品"
+      "category": "科技趋势"
     },
     {
-      "id": "wd-003",
-      "source": "Wired",
-      "title": "戴森新款 PencilWash 现已上市",
-      "originalTitle": "Dyson's New PencilWash Is Here",
-      "summary": "继上周发布最新扫地机器人和大型湿式清洁器后，戴森推出新品。",
-      "originalSummary": "The debut follows the release of Dyson's newest robot vacuum and a larger wet cleaner.",
-      "url": "https://www.wired.com/story/dyson-pencilwash-now-available/",
-      "publishedAt": "2026-03-17T16:49:41Z",
-      "language": "en",
-      "category": "智能家居"
+      "id": "aHR0cHM6Ly8z",
+      "source": "36Kr",
+      "title": "科氪｜不止平整，更懂高效！全球最平整折叠手机 OPPO Find N6 全球发布",
+      "originalTitle": "科氪｜不止平整，更懂高效！全球最平整折叠手机 OPPO Find N6 全球发布",
+      "summary": "\n \n \n  2026 年 3 月 17 日，中国·东莞 —— 今日，折叠旗舰 OPPO Find N6 在 OPPO 滨海湾园区面向全球正式发布。在这座为工程师打造的创新乐园里，OPPO 以 8 年深耕折叠领域的技术沉淀，通过新一代钛合金天穹铰链与天穹记忆玻璃两大颠覆性黑科技，彻底破解困扰折叠屏行业 8 年的折痕难题，让 Find N6 成为德国莱茵 TÜV 实验室测试过的「全球最平整折叠手机」",
+      "originalSummary": "\n \n \n  2026 年 3 月 17 日，中国·东莞 —— 今日，折叠旗舰 OPPO Find N6 在 OPPO 滨海湾园区面向全球正式发布。在这座为工程师打造的创新乐园里，OPPO 以 8 年深耕折叠领域的技术沉淀，通过新一代钛合金天穹铰链与天穹记忆玻璃两大颠覆性黑科技，彻底破解困扰折叠屏行业 8 年的折痕难题，让 Find N6 成为德国莱茵 TÜV 实验室测试过的「全球最平整折叠手机」",
+      "url": "https://36kr.com/p/3727140263410825?f=rss",
+      "publishedAt": "2026-03-17T15:15:33.000Z",
+      "language": "zh",
+      "category": "中国科技"
     },
     {
-      "id": "ssp-001",
+      "id": "aHR0cHM6Ly8z",
+      "source": "36Kr",
+      "title": "桌游DM、儿童陪护……在清华，我们看到了龙虾九种「叛逆」的玩法",
+      "originalTitle": "桌游DM、儿童陪护……在清华，我们看到了龙虾九种「叛逆」的玩法",
+      "summary": "\n \n \n  文｜王欣逸 钟楚笛\n  编辑｜周鑫雨\n  3月15日，清华校园。看惯了市面上一水儿的提效工具、高深莫测的部署教程，在由清北学生社区AttraX发起的“Outlier” OpenClaw黑客松路演上，我们看到了一些跳脱的、叛逆的“龙虾”玩法。\n  OpenClaw，俗称龙虾，当下最火的Agent开源框架。它能在计算机本地及云端部署，全面接管用户电脑，自动完成文件处理、邮件收发等任务。\n",
+      "originalSummary": "\n \n \n  文｜王欣逸 钟楚笛\n  编辑｜周鑫雨\n  3月15日，清华校园。看惯了市面上一水儿的提效工具、高深莫测的部署教程，在由清北学生社区AttraX发起的“Outlier” OpenClaw黑客松路演上，我们看到了一些跳脱的、叛逆的“龙虾”玩法。\n  OpenClaw，俗称龙虾，当下最火的Agent开源框架。它能在计算机本地及云端部署，全面接管用户电脑，自动完成文件处理、邮件收发等任务。\n",
+      "url": "https://36kr.com/p/3727015748107398?f=rss",
+      "publishedAt": "2026-03-17T12:39:17.000Z",
+      "language": "zh",
+      "category": "中国科技"
+    },
+    {
+      "id": "aHR0cHM6Ly8z",
+      "source": "36Kr",
+      "title": "36氪晚报｜苹果首席运营官Sabih Khan现身深圳；马斯克：电动超跑Roadster或将于四月下旬亮相；华为面向AI推理场景发布新一代AI数据基础设施",
+      "originalTitle": "36氪晚报｜苹果首席运营官Sabih Khan现身深圳；马斯克：电动超跑Roadster或将于四月下旬亮相；华为面向AI推理场景发布新一代AI数据基础设施",
+      "summary": "\n \n \n  大公司：\n  西门子与Rittal达成数据中心能源基础设施战略合作伙伴关系\n  西门子和Rittal已建立战略合作伙伴关系，共同开发面向未来的产品，为数据中心更高效的电力分发提供可持续解决方案。（财联社）\n  腾讯音乐：2025年全年总收入329亿元，同比增长15.8%\n  36氪获悉，腾讯音乐发布截至2025年12月31日止第四季度及全年的未经审计财务业绩。腾讯音乐第四季度总收入8",
+      "originalSummary": "\n \n \n  大公司：\n  西门子与Rittal达成数据中心能源基础设施战略合作伙伴关系\n  西门子和Rittal已建立战略合作伙伴关系，共同开发面向未来的产品，为数据中心更高效的电力分发提供可持续解决方案。（财联社）\n  腾讯音乐：2025年全年总收入329亿元，同比增长15.8%\n  36氪获悉，腾讯音乐发布截至2025年12月31日止第四季度及全年的未经审计财务业绩。腾讯音乐第四季度总收入8",
+      "url": "https://36kr.com/p/3726912161184128?f=rss",
+      "publishedAt": "2026-03-17T10:56:04.000Z",
+      "language": "zh",
+      "category": "中国科技"
+    },
+    {
+      "id": "aHR0cHM6Ly9z",
       "source": "少数派",
       "title": "社区速递 133 | 派友热议 AI Coding 方案、西圣 Pencil X 平替笔体验",
       "originalTitle": "社区速递 133 | 派友热议 AI Coding 方案、西圣 Pencil X 平替笔体验",
-      "summary": "少数派 Matrix 周报重启，添加更多社区内容和作者投稿。",
-      "originalSummary": "少数派 Matrix 周报重启，添加更多社区内容和作者投稿。",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿的新玩意呈现给大家。💬一派热议 ...查看全文",
+      "originalSummary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿的新玩意呈现给大家。💬一派热议 ...查看全文",
       "url": "https://sspai.com/post/107466",
-      "publishedAt": "2026-03-17T08:52:57Z",
+      "publishedAt": "2026-03-17T08:52:57.000Z",
       "language": "zh",
-      "category": "效率工具"
+      "category": "数码生活"
     },
     {
-      "id": "ssp-002",
+      "id": "aHR0cHM6Ly9z",
       "source": "少数派",
-      "title": "为心脏健康持续护航，Apple Watch 房颤迹象记录软件功能上线",
-      "originalTitle": "为心脏健康持续护航，Apple Watch 房颤迹象记录软件功能上线",
-      "summary": "房颤历史记录功能通过国家药监局审批，Apple Watch Series 6 及更新机型升级 watchOS 26 后可开启。",
-      "originalSummary": "房颤历史记录功能通过国家药监局审批，正式在国内上线。",
-      "url": "https://sspai.com/post/107453",
-      "publishedAt": "2026-03-17T04:00:00Z",
+      "title": "年度征文 | 冬游九寨，或许这个季节更适合叙述她的美",
+      "originalTitle": "年度征文 | 冬游九寨，或许这个季节更适合叙述她的美",
+      "summary": "希望九寨之行是个契机，在新的一年，继续踏足荒野，去感受，去风里从头再来。查看全文",
+      "originalSummary": "希望九寨之行是个契机，在新的一年，继续踏足荒野，去感受，去风里从头再来。查看全文",
+      "url": "https://sspai.com/post/106439",
+      "publishedAt": "2026-03-17T07:43:01.000Z",
       "language": "zh",
-      "category": "数码产品"
+      "category": "数码生活"
     },
     {
-      "id": "ssp-003",
+      "id": "aHR0cHM6Ly9z",
       "source": "少数派",
-      "title": "派早报：Apple 发布 AirPods Max 2，NVIDIA 发布 DLSS 5 等",
-      "originalTitle": "派早报：Apple 发布 AirPods Max 2，NVIDIA 发布 DLSS 5 等",
-      "summary": "少数派 14 周年庆，软件商城、会员服务和付费栏目准备优惠。",
-      "originalSummary": "少数派 14 周年庆，准备丰厚优惠。",
-      "url": "https://sspai.com/post/107450",
-      "publishedAt": "2026-03-17T00:38:30Z",
+      "title": "投票开启｜BeatBox 盖板设计实录：用一块透明亚克力，把奇妙灵感凝成实体",
+      "originalTitle": "投票开启｜BeatBox 盖板设计实录：用一块透明亚克力，把奇妙灵感凝成实体",
+      "summary": "不仅仅是一块盖板最好的设计往往不是正襟危坐的苦思冥想，而是对生活平凡瞬间的细致观察。在整理BeatBox盖板设计大赛的作品时，我们发现，这块方寸之间的透明面板，正成为连接数字音乐与实体触感的桥梁。它不 ...查看全文",
+      "originalSummary": "不仅仅是一块盖板最好的设计往往不是正襟危坐的苦思冥想，而是对生活平凡瞬间的细致观察。在整理BeatBox盖板设计大赛的作品时，我们发现，这块方寸之间的透明面板，正成为连接数字音乐与实体触感的桥梁。它不 ...查看全文",
+      "url": "https://sspai.com/post/106917",
+      "publishedAt": "2026-03-17T06:30:00.000Z",
       "language": "zh",
-      "category": "科技新闻"
+      "category": "数码生活"
     }
   ]
 }
