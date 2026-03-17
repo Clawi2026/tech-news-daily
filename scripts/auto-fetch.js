@@ -201,8 +201,18 @@ async function main() {
     await browser.close();
   }
   
+  // 去重：基于 URL 去重
+  const seen = new Set();
+  const dedupedNews = allNews.filter(article => {
+    if (seen.has(article.link)) return false;
+    seen.add(article.link);
+    return true;
+  });
+  
+  console.log(`\n📊 去重统计：原始 ${allNews.length} 条 → 去重后 ${dedupedNews.length} 条（移除 ${allNews.length - dedupedNews.length} 条重复）`);
+  
   // 按发布时间排序
-  allNews.sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime());
+  dedupedNews.sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime());
   
   // 保存文件
   const outputDir = path.join(__dirname, '../public/data');
@@ -214,10 +224,10 @@ async function main() {
   const outputPath = path.join(outputDir, `${today}.json`);
   const latestPath = path.join(outputDir, 'latest.json');
   
-  fs.writeFileSync(latestPath, JSON.stringify(allNews, null, 2), 'utf8');
-  fs.writeFileSync(outputPath, JSON.stringify(allNews, null, 2), 'utf8');
+  fs.writeFileSync(latestPath, JSON.stringify(dedupedNews, null, 2), 'utf8');
+  fs.writeFileSync(outputPath, JSON.stringify(dedupedNews, null, 2), 'utf8');
   
-  console.log(`\n✅ 完成！共抓取 ${allNews.length} 条新闻`);
+  console.log(`\n✅ 完成！共抓取 ${dedupedNews.length} 条新闻`);
   console.log(`📁 保存到：${latestPath}`);
   
   // 统计

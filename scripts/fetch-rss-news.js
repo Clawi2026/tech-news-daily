@@ -66,7 +66,7 @@ async function fetchRSS(source) {
                   [];
     
     const articles = [];
-    for (const item of items.slice(0, 3)) { // 每个源最多 3 条
+    for (const item of items.slice(0, 5)) { // 每个源最多 5 条
       const title = item.title?.[0] || item.title || '无标题';
       const link = item.link?.[0]?.$?.href || item.link?.[0] || item.link || '#';
       const description = item.description?.[0] || item.summary?.[0] || item.content?.[0]?._ || '';
@@ -129,15 +129,19 @@ async function main() {
   const outputPath = path.join(outputDir, `${today}.json`);
   const latestPath = path.join(outputDir, 'latest.json');
   
-  const outputData = {
-    updatedAt: new Date().toISOString(),
-    sources: NEWS_SOURCES.length,
-    totalArticles: allNews.length,
-    articles: allNews
-  };
+  // 去重：基于 URL 去重
+  const seen = new Set();
+  const dedupedNews = allNews.filter(article => {
+    if (seen.has(article.url)) return false;
+    seen.add(article.url);
+    return true;
+  });
   
-  fs.writeFileSync(latestPath, JSON.stringify(outputData, null, 2), 'utf8');
-  fs.writeFileSync(outputPath, JSON.stringify(outputData, null, 2), 'utf8');
+  console.log(`📊 去重后：${dedupedNews.length} 条（移除 ${allNews.length - dedupedNews.length} 条重复）`);
+  
+  // 输出数组格式（前端期望的格式）
+  fs.writeFileSync(latestPath, JSON.stringify(dedupedNews, null, 2), 'utf8');
+  fs.writeFileSync(outputPath, JSON.stringify(dedupedNews, null, 2), 'utf8');
   
   console.log('');
   console.log(`✅ 完成！共抓取 ${allNews.length} 条新闻`);

@@ -56,21 +56,108 @@ function parseRSS(xml, source) {
   return items.slice(0, 3);
 }
 
-// 翻译
+// 翻译 API 配置
+// 长期方案：百度翻译 API（免费 200 万字符/月）
+// 注册：https://fanyi-api.baidu.com/product/11
+const BAIDU_APP_ID = process.env.BAIDU_APP_ID || '';
+const BAIDU_SECRET_KEY = process.env.BAIDU_SECRET_KEY || '';
+
+// 翻译 API 列表（按优先级）
+const TRANSLATE_APIS = [
+  {
+    name: '百度翻译',
+    translate: async (text, from, to) => {
+      if (!BAIDU_APP_ID || !BAIDU_SECRET_KEY) {
+        throw new Error('未配置百度翻译 API');
+      }
+      const crypto = require('crypto');
+      const salt = Date.now().toString();
+      const signStr = `${BAIDU_APP_ID}${text}${salt}${BAIDU_SECRET_KEY}`;
+      const sign = crypto.createHash('md5').update(signStr).digest('hex');
+      
+      const url = 'https://fanyi-api.baidu.com/api/trans/vip/translate';
+      const params = new URLSearchParams({
+        q: text,
+        from: from === 'en' ? 'en' : 'auto',
+        to: 'zh',
+        appid: BAIDU_APP_ID,
+        salt: salt,
+        sign: sign
+      });
+      
+      const res = await fetch(`${url}?${params}`, { timeout: 10000 });
+      const data = await res.json();
+      if (data.trans_result && Array.isArray(data.trans_result)) {
+        return data.trans_result.map(x => x.dst).join('');
+      }
+      if (data.error_code) throw new Error(`百度翻译错误：${data.error_msg}`);
+      throw new Error('翻译失败');
+    }
+  },
+  {
+    name: 'MyMemory',
+    translate: async (text, from, to) => {
+      const url = `https://api.mymemory.translated.net/get?q=${encodeURIComponent(text)}&langpair=${from}|${to}`;
+      const res = await fetch(url, { timeout: 5000 });
+      const data = await res.json();
+      if (data.responseStatus === 200 && data.responseData?.translatedText) {
+        return data.responseData.translatedText;
+      }
+      if (data.responseStatus === 429) throw new Error('配额用完');
+      throw new Error(data.message || 'Translation failed');
+    }
+  },
+  {
+    name: 'LibreTranslate',
+    translate: async (text, from, to) => {
+      const instances = [
+        'https://libretranslate.com/translate',
+        'https://translate.terraprint.com/translate',
+        'https://trans.zillyhuhn.com/translate'
+      ];
+      for (const baseUrl of instances) {
+        try {
+          const res = await fetch(baseUrl, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ q: text, source: from === 'en' ? 'en' : 'auto', target: to, format: 'text' }),
+            timeout: 10000
+          });
+          if (!res.ok) throw new Error(`HTTP ${res.status}`);
+          const data = await res.json();
+          if (data.translatedText) return data.translatedText;
+        } catch (e) {
+          continue;
+        }
+      }
+      throw new Error('所有实例失败');
+    }
+  }
+];
+
+// 多 API 翻译（自动切换）
 async function translateText(text, from, to = 'zh') {
   if (from === 'zh' || !text || text.length === 0) return text;
-  try {
-    const truncated = text.length > 500 ? text.substring(0, 500) : text;
-    const url = `https://api.mymemory.translated.net/get?q=${encodeURIComponent(truncated)}&langpair=${from}|${to}`;
-    const response = await fetch(url, { timeout: 5000 });
-    const data = await response.json();
-    if (data.responseStatus === 200 && data.responseData?.translatedText) {
-      return data.responseData.translatedText;
+  
+  // 短文本不翻译（节省配额）
+  if (text.length < 10) return text;
+  
+  for (const api of TRANSLATE_APIS) {
+    try {
+      const truncated = text.length > 500 ? text.substring(0, 500) : text;
+      const result = await api.translate(truncated, from, to);
+      if (result && result !== text) {
+        console.log(`    ✓ 翻译成功 (${api.name})`);
+        return result;
+      }
+    } catch (error) {
+      console.log(`    ⚠ ${api.name} 失败：${error.message}`);
+      continue;
     }
-    return text;
-  } catch (error) {
-    return text;
   }
+  
+  console.log(`    ❌ 所有翻译 API 失败，使用原文`);
+  return text;
 }
 
 // 抓取单个源
@@ -127,15 +214,19 @@ async function main() {
   const outputDir = path.join(__dirname, '../public/data');
   if (!fs.existsSync(outputDir)) fs.mkdirSync(outputDir, { recursive: true });
   
-  const outputData = {
-    updatedAt: new Date().toISOString(),
-    sources: NEWS_SOURCES.length,
-    totalArticles: allNews.length,
-    articles: allNews
-  };
+  // 去重
+  const seen = new Set();
+  const dedupedNews = allNews.filter(article => {
+    if (seen.has(article.url)) return false;
+    seen.add(article.url);
+    return true;
+  });
+  
+  console.log(`\n📊 去重：${allNews.length} → ${dedupedNews.length} 条（移除 ${allNews.length - dedupedNews.length} 条重复）`);
   
   const latestPath = path.join(outputDir, 'latest.json');
-  fs.writeFileSync(latestPath, JSON.stringify(outputData, null, 2), 'utf8');
+  // 输出数组格式（前端期望）
+  fs.writeFileSync(latestPath, JSON.stringify(dedupedNews, null, 2), 'utf8');
   
   console.log('');
   console.log(`✅ 完成！共抓取 ${allNews.length} 条新闻`);
