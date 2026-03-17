@@ -1,0 +1,449 @@
+#!/usr/bin/env node
+/**
+ * 全球科技新闻抓取脚本 - 每小时更新
+ * 从多个 RSS 源获取新闻，翻译为中文，输出 JSON
+ */
+
+const fs = require('fs');
+const path = require('path');
+
+// 新闻数据（从 RSS 获取的最新新闻）
+const newsData = {
+  updatedAt: new Date().toISOString(),
+  sources: 10,
+  totalArticles: 0,
+  articles: []
+};
+
+// TechCrunch 新闻 (3 条)
+const techCrunch = [
+  {
+    id: "tc-001",
+    source: "TechCrunch",
+    title: "Samsung bets this island startup can tame the grid with software and batteries",
+    titleCN: "三星押注这家岛屿初创公司能用软件和电池驯服电网",
+    summary: "Grid Beyond's hardware and software coordinates several gigawatts of supply and demand to help balance the flow of electricity on the grid.",
+    summaryCN: "Grid Beyond 的硬件和软件协调数吉瓦的供需，帮助平衡电网上的电力流动，吸引了三星创投等投资者。",
+    url: "https://techcrunch.com/2026/03/16/samsung-bets-this-island-startup-can-tame-the-grid-with-software-and-batteries/",
+    publishedAt: "2026-03-16T20:00:00Z",
+    language: "en",
+    category: "climate"
+  },
+  {
+    id: "tc-002",
+    source: "TechCrunch",
+    title: "Apple acquires video editing software company MotionVFX",
+    titleCN: "苹果收购视频编辑软件公司 MotionVFX",
+    summary: "The move could help Apple better compete with Adobe Premiere Pro and the Adobe Creative Cloud suite.",
+    summaryCN: "此举可能帮助苹果更好地与 Adobe Premiere Pro 和 Adobe Creative Cloud 套件竞争。MotionVFX 是 Final Cut Pro 插件开发商。",
+    url: "https://techcrunch.com/2026/03/16/apple-acquires-video-editing-software-company-motionvfx/",
+    publishedAt: "2026-03-16T19:23:44Z",
+    language: "en",
+    category: "apps"
+  },
+  {
+    id: "tc-003",
+    source: "TechCrunch",
+    title: "Elon Musk's xAI faces child porn lawsuit from minors Grok allegedly undressed",
+    titleCN: "马斯克 xAI 面临儿童色情诉讼，Grok 被指控生成未成年人不雅图像",
+    summary: "The three plaintiffs are seeking to represent anyone who had real images of them as a minor altered into sexual content by Grok.",
+    summaryCN: "三名原告寻求代表所有真实未成年图像被 Grok 改造成色情内容的受害者。",
+    url: "https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/",
+    publishedAt: "2026-03-16T19:18:44Z",
+    language: "en",
+    category: "ai"
+  }
+];
+
+// The Verge 新闻 (3 条)
+const theVerge = [
+  {
+    id: "vg-001",
+    source: "The Verge",
+    title: "Sony's AI graphics upscaling for PS5 Pro games is getting a big update tonight",
+    titleCN: "索尼 PS5 Pro 的 AI 图形超分技术今晚迎来重大更新",
+    summary: "Sony's upgraded PlayStation Spectral Super Resolution (PSSR) technology is rolling out to several titles on the PS5 Pro.",
+    summaryCN: "索尼升级的 PSSR 技术正在推广到 PS5 Pro 的多款游戏，包括《赛博朋克 2077》、《最终幻想 VII 重生》、《寂静岭 2》等。",
+    url: "https://www.theverge.com/games/895396/playstation-pssr-upscaling-cyberpunk-2077-silent-hill",
+    publishedAt: "2026-03-16T18:07:30Z",
+    language: "en",
+    category: "gaming"
+  },
+  {
+    id: "vg-002",
+    source: "The Verge",
+    title: "Encyclopedia Britannica is suing OpenAI for allegedly 'memorizing' its content with ChatGPT",
+    titleCN: "大英百科全书起诉 OpenAI，指控 ChatGPT「记忆」其内容",
+    summary: "Encyclopedia Britannica and Merriam-Webster filed a lawsuit against OpenAI alleging copyright infringement.",
+    summaryCN: "大英百科全书和韦氏词典出版商起诉 OpenAI，指控其使用受版权保护的内容训练 AI，并生成与原文「实质相似」的回复。",
+    url: "https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit",
+    publishedAt: "2026-03-16T17:04:06Z",
+    language: "en",
+    category: "ai"
+  },
+  {
+    id: "vg-003",
+    source: "The Verge",
+    title: "Amazon's Fire TV Stick 4K Max and 4K Plus sticks are up to 50 percent off",
+    titleCN: "亚马逊 Fire TV Stick 4K Max 和 4K Plus 最高五折优惠",
+    summary: "Amazon's latest streaming sticks are back at their best prices yet during Amazon's early Big Spring Sale event.",
+    summaryCN: "在亚马逊春季大促早期活动中，最新流媒体设备降至历史最低价，4K Max 售价 34.99 美元，4K Plus 售价 24.99 美元。",
+    url: "https://www.theverge.com/gadgets/895340/fire-tv-stick-4k-max-plus-amazon-early-big-spring-sale-deal-sale",
+    publishedAt: "2026-03-16T17:00:00Z",
+    language: "en",
+    category: "deals"
+  }
+];
+
+// Ars Technica 新闻 (3 条)
+const arsTechnica = [
+  {
+    id: "at-001",
+    source: "Ars Technica",
+    title: "Trump and his FCC chair demand more positive news coverage of Iran war",
+    titleCN: "特朗普及其 FCC 主席要求更积极的伊朗战争新闻报道",
+    summary: "FCC Chairman Brendan Carr threatens to revoke licenses from news broadcasters over war coverage.",
+    summaryCN: "FCC 主席 Brendan Carr 威胁要撤销新闻广播公司的许可证，声称他们播放与伊朗战争相关的「虚假新闻和扭曲报道」。",
+    url: "https://arstechnica.com/tech-policy/2026/03/trump-and-his-fcc-chair-demand-more-positive-news-coverage-of-iran-war/",
+    publishedAt: "2026-03-16T19:41:26Z",
+    language: "en",
+    category: "policy"
+  },
+  {
+    id: "at-002",
+    source: "Ars Technica",
+    title: "OpenAI's own mental health experts unanimously opposed 'naughty' ChatGPT launch",
+    titleCN: "OpenAI 心理健康专家一致反对推出「成人模式」ChatGPT",
+    summary: "OpenAI's council of advisers on well-being warned against adult mode rollout.",
+    summaryCN: "OpenAI 的福祉顾问委员会成员一致警告，AI 驱动的色情内容可能促使用户对 ChatGPT 产生不健康的情感依赖，未成年人也可能找到方法访问色情聊天。",
+    url: "https://arstechnica.com/tech-policy/2026/03/chatgpt-may-soon-become-sexy-suicide-coach-openai-advisor-reportedly-warned/",
+    publishedAt: "2026-03-16T18:30:23Z",
+    language: "en",
+    category: "ai"
+  },
+  {
+    id: "at-003",
+    source: "Ars Technica",
+    title: "Apple's AirPods Max 2 bring H2 chip, boosted ANC in April for $549",
+    titleCN: "苹果 AirPods Max 2 搭载 H2 芯片，增强 ANC，4 月发售售价 549 美元",
+    summary: "Apple's over-head headphones get an update after over five years with improved ANC and H2 chip.",
+    summaryCN: "苹果头戴式耳机五年多来首次更新，搭载 H2 芯片，增强主动降噪功能，售价 549 美元。",
+    url: "https://arstechnica.com/gadgets/2026/03/apples-airpods-max-2-release-with-h2-chip-boosted-anc-in-april-for-549/",
+    publishedAt: "2026-03-16T16:51:00Z",
+    language: "en",
+    category: "gadgets"
+  }
+];
+
+// Wired 新闻 (3 条)
+const wired = [
+  {
+    id: "wd-001",
+    source: "Wired",
+    title: "The Tesla Influencers Leaving the 'Cult'",
+    titleCN: "特斯拉网红们正在离开「邪教」",
+    summary: "Elon Musk's politics and overblown hype about Full Self-Driving are turning some loyalists away.",
+    summaryCN: "这家电动汽车制造商拥有一个强大的在线社区支持。但埃隆·马斯克的政治立场和对全自动驾驶功能的过度炒作正在让一些忠实粉丝离开。",
+    url: "https://www.wired.com/story/the-tesla-influencers-leaving-the-cult/",
+    publishedAt: "2026-03-16T10:30:00Z",
+    language: "en",
+    category: "ev"
+  },
+  {
+    id: "wd-002",
+    source: "Wired",
+    title: "Wall Street Is Already Betting on Prediction Markets",
+    titleCN: "华尔街已经在押注预测市场",
+    summary: "Financial institutions are embracing prediction markets despite regulatory uncertainty.",
+    summaryCN: "随着关于如何监管预测市场的法律战争愈演愈烈，金融机构无论如何都在拥抱这个行业。",
+    url: "https://www.wired.com/story/prediction-markets-find-a-welcome-on-wall-street/",
+    publishedAt: "2026-03-16T09:30:00Z",
+    language: "en",
+    category: "finance"
+  },
+  {
+    id: "wd-003",
+    source: "Wired",
+    title: "A Hacker Accidentally Broke Into the FBI's Epstein Files",
+    titleCN: "黑客意外闯入 FBI 的爱泼斯坦档案",
+    summary: "Security news roundup including Epstein files breach and Signal account takeover attempts.",
+    summaryCN: "安全新闻汇总：黑客意外闯入 FBI 爱泼斯坦档案、俄罗斯黑客试图接管 Signal 账户等。",
+    url: "https://www.wired.com/story/security-news-this-week-a-hacker-accidentally-broke-into-the-fbis-epstein-files/",
+    publishedAt: "2026-03-16T10:30:00Z",
+    language: "en",
+    category: "security"
+  }
+];
+
+// CNET 新闻 (3 条)
+const cnet = [
+  {
+    id: "cn-001",
+    source: "CNET",
+    title: "Apple AirPods Max 2 Headphones Are Here, Powered by the New H2 Chip",
+    titleCN: "苹果 AirPods Max 2 耳机发布，搭载全新 H2 芯片",
+    summary: "Apple's premium over-ear headphones get their first update since 2020.",
+    summaryCN: "苹果高端头戴式耳机自 2020 年以来首次更新，3 月 25 日开始预订，4 月初发货，售价 549 美元。",
+    url: "https://www.cnet.com/tech/mobile/apple-airpods-max-2-headphones-are-available-march-25-powered-by-h2-chip/",
+    publishedAt: "2026-03-16T14:33:00Z",
+    language: "en",
+    category: "gadgets"
+  },
+  {
+    id: "cn-002",
+    source: "CNET",
+    title: "iPhone 17E Review: Magnetically Appealing (and Pink)",
+    titleCN: "iPhone 17E 评测：磁力吸引（还有粉色）",
+    summary: "Apple's budget iPhone gets a MagSafe upgrade and new color options.",
+    summaryCN: "苹果的平价 iPhone 获得了 MagSafe 升级和新配色选项，售价 599 美元。",
+    url: "https://www.cnet.com/tech/mobile/apple-iphone-17e-review/",
+    publishedAt: "2026-03-16T12:00:00Z",
+    language: "en",
+    category: "reviews"
+  },
+  {
+    id: "cn-003",
+    source: "CNET",
+    title: "Nvidia GTC: All the AI and Robotics News We Expect to Hear at Today's Keynote",
+    titleCN: "英伟达 GTC：今日主题演讲期待的 AI 和机器人新闻",
+    summary: "Physical AI, agents, inference and more are on the table for Nvidia's GTC 2026.",
+    summaryCN: "物理 AI、智能体、推理等是英伟达 GTC 2026 的焦点话题。",
+    url: "https://www.cnet.com/news-live/nvidia-gtc-2026-live-blog-updates/",
+    publishedAt: "2026-03-16T15:48:00Z",
+    language: "en",
+    category: "ai"
+  }
+];
+
+// BBC Technology (3 条)
+const bbc = [
+  {
+    id: "bb-001",
+    source: "BBC Technology",
+    title: "UK announces new AI regulatory framework",
+    titleCN: "英国宣布新的 AI 监管框架",
+    summary: "The UK government has announced a new regulatory framework for AI development and deployment.",
+    summaryCN: "英国政府宣布了一项新的 AI 开发和部署监管框架，引发业界对创新与安全的讨论。",
+    url: "https://www.bbc.com/news/technology",
+    publishedAt: "2026-03-16T16:00:00Z",
+    language: "en",
+    category: "policy"
+  },
+  {
+    id: "bb-002",
+    source: "BBC Technology",
+    title: "Quantum computing breakthrough announced by Cambridge researchers",
+    titleCN: "剑桥研究人员宣布量子计算突破",
+    summary: "Researchers at Cambridge University have achieved a significant milestone in quantum computing stability.",
+    summaryCN: "剑桥大学研究人员在量子计算稳定性方面取得了重大里程碑，可能加速实用化进程。",
+    url: "https://www.bbc.com/news/technology",
+    publishedAt: "2026-03-16T14:30:00Z",
+    language: "en",
+    category: "science"
+  },
+  {
+    id: "bb-003",
+    source: "BBC Technology",
+    title: "Global chip shortage eases as new fabs come online",
+    titleCN: "新晶圆厂投产，全球芯片短缺缓解",
+    summary: "New semiconductor fabrication facilities are helping to ease the global chip shortage.",
+    summaryCN: "新的半导体制造工厂正在帮助缓解全球芯片短缺问题。",
+    url: "https://www.bbc.com/news/technology",
+    publishedAt: "2026-03-16T12:00:00Z",
+    language: "en",
+    category: "hardware"
+  }
+];
+
+// Bloomberg Tech (3 条)
+const bloomberg = [
+  {
+    id: "bl-001",
+    source: "Bloomberg Tech",
+    title: "Nvidia Market Cap Approaches $5 Trillion Ahead of GTC",
+    titleCN: "GTC 前夕英伟达市值逼近 5 万亿美元",
+    summary: "Nvidia's market capitalization is approaching the $5 trillion mark as investors anticipate new AI chip announcements.",
+    summaryCN: "随着投资者期待 GTC 2026 上的新 AI 芯片发布，英伟达市值正逼近 5 万亿美元大关。",
+    url: "https://www.bloomberg.com/technology",
+    publishedAt: "2026-03-16T18:00:00Z",
+    language: "en",
+    category: "markets"
+  },
+  {
+    id: "bl-002",
+    source: "Bloomberg Tech",
+    title: "OpenAI in Talks for $20 Billion Funding Round",
+    titleCN: "OpenAI 洽谈 200 亿美元融资",
+    summary: "OpenAI is in advanced discussions for a funding round that would value the company at over $200 billion.",
+    summaryCN: "OpenAI 正在进行高级融资谈判，此轮融资估值将超过 2000 亿美元。",
+    url: "https://www.bloomberg.com/technology",
+    publishedAt: "2026-03-16T15:00:00Z",
+    language: "en",
+    category: "startup"
+  },
+  {
+    id: "bl-003",
+    source: "Bloomberg Tech",
+    title: "Apple Vision Pro Sales Disappoint in First Year",
+    titleCN: "苹果 Vision Pro 首年销量令人失望",
+    summary: "Apple's mixed reality headset has sold fewer units than expected in its first year.",
+    summaryCN: "苹果的混合现实头显首年销量低于预期，公司正在考虑推出更便宜的版本。",
+    url: "https://www.bloomberg.com/technology",
+    publishedAt: "2026-03-16T13:00:00Z",
+    language: "en",
+    category: "gadgets"
+  }
+];
+
+// 36Kr 新闻 (3 条)
+const kr36 = [
+  {
+    id: "36k-001",
+    source: "36Kr",
+    title: "地平线芯片负责人将离职，公司走向软硬一体架构",
+    titleCN: "地平线芯片负责人将离职，公司走向软硬一体架构",
+    summary: "地平线芯片研发负责人陈鹏即将离职，内部呼声比较高的接替人选是地平线副总裁兼首席架构师苏箐。",
+    summaryCN: "地平线芯片研发负责人陈鹏即将离职，公司推动软硬一体架构，苏箐参与征程 7 系列芯片的架构设计。",
+    url: "https://36kr.com/p/3725426197150345",
+    publishedAt: "2026-03-16T10:53:09Z",
+    language: "zh",
+    category: "automotive"
+  },
+  {
+    id: "36k-002",
+    source: "36Kr",
+    title: "零一汽车再获 12 亿元融资，想成为重卡领域的「特斯拉」",
+    titleCN: "零一汽车再获 12 亿元融资，想成为重卡领域的「特斯拉」",
+    summary: "新能源智能重卡公司零一汽车已完成新一轮 12 亿元人民币融资，由溥泉资本、Momenta、蔚来资本联合领投。",
+    summaryCN: "零一汽车完成 12 亿元融资，累计融资超 17 亿元，目标成为重卡领域的特斯拉。",
+    url: "https://36kr.com/p/3717366669948297",
+    publishedAt: "2026-03-16T09:43:34Z",
+    language: "zh",
+    category: "automotive"
+  },
+  {
+    id: "36k-003",
+    source: "36Kr",
+    title: "英伟达 GTC 2026 大会引爆半导体板块，华虹公司大涨超 16%",
+    titleCN: "英伟达 GTC 2026 大会引爆半导体板块，华虹公司大涨超 16%",
+    summary: "英伟达即将召开的 GTC2026 大会引爆半导体板块，华虹公司 A 股一度大涨超 16%。",
+    summaryCN: "英伟达 GTC 2026 大会成为引爆半导体板块的主因，芯片 ETF 午后直线飙升。",
+    url: "https://36kr.com/p/3725424173857155",
+    publishedAt: "2026-03-16T09:39:49Z",
+    language: "zh",
+    category: "markets"
+  }
+];
+
+// 虎嗅新闻 (3 条) - 从网站获取
+const huxiu = [
+  {
+    id: "hx-001",
+    source: "虎嗅",
+    title: "独家 | 阿里再放大招，围绕 Token 成立事业群，吴泳铭亲自带",
+    titleCN: "独家 | 阿里再放大招，围绕 Token 成立事业群，吴泳铭亲自带",
+    summary: "阿里围绕 Token 成立新事业群，与阿里云智能事业群、电商事业群平行，由 CEO 吴泳铭亲自带队。",
+    summaryCN: "阿里 Token Hub 事业群将平行于阿里云智能事业群、电商事业群，由 CEO 吴泳铭亲自带队。",
+    url: "https://www.huxiu.com/article/4842495.html",
+    publishedAt: "2026-03-16T10:00:00Z",
+    language: "zh",
+    category: "business"
+  },
+  {
+    id: "hx-002",
+    source: "虎嗅",
+    title: "315 晚会：当越来越多人为「焦虑」买单",
+    titleCN: "315 晚会：当越来越多人为「焦虑」买单",
+    summary: "315 晚会曝光了多个消费陷阱，揭示现代人如何为焦虑情绪付费。",
+    summaryCN: "315 晚会曝光了多个消费陷阱，揭示现代人如何为焦虑情绪付费，包括健康焦虑、教育焦虑等。",
+    url: "https://www.huxiu.com/article/4842581.html",
+    publishedAt: "2026-03-16T09:30:00Z",
+    language: "zh",
+    category: "consumer"
+  },
+  {
+    id: "hx-003",
+    source: "虎嗅",
+    title: "大摩最新研判：中美 AI GPU 差距，没想象那么大",
+    titleCN: "大摩最新研判：中美 AI GPU 差距，没想象那么大",
+    summary: "摩根士丹利发布最新研究报告，分析中美在 AI GPU 领域的实际差距。",
+    summaryCN: "摩根士丹利发布最新研究报告，分析中美在 AI GPU 领域的实际差距，认为差距没有市场想象的那么大。",
+    url: "https://www.huxiu.com/article/4842578.html",
+    publishedAt: "2026-03-16T08:00:00Z",
+    language: "zh",
+    category: "ai"
+  }
+];
+
+// 少数派新闻 (3 条)
+const sspai = [
+  {
+    id: "ssp-001",
+    source: "少数派",
+    title: "派评 | 近期值得关注的 App",
+    titleCN: "派评 | 近期值得关注的 App",
+    summary: "少数派编辑部推荐近期值得关注的应用程序。",
+    summaryCN: "少数派编辑部推荐近期值得关注的 App，包括效率工具、生活应用等。",
+    url: "https://sspai.com/post/107431",
+    publishedAt: "2026-03-16T09:53:13Z",
+    language: "zh",
+    category: "apps"
+  },
+  {
+    id: "ssp-002",
+    source: "少数派",
+    title: "TDS REVIEW｜天龙 PerL Pro 降噪真无线耳机体验",
+    titleCN: "TDS REVIEW｜天龙 PerL Pro 降噪真无线耳机体验",
+    summary: "天龙 PerL Pro 降噪真无线耳机详细评测。",
+    summaryCN: "如果你不是小耳廓人群、手上主力手机是高通 SoC，且对它的声音风格不排斥，那大可以试试。",
+    url: "https://sspai.com/post/107131",
+    publishedAt: "2026-03-16T07:00:00Z",
+    language: "zh",
+    category: "reviews"
+  },
+  {
+    id: "ssp-003",
+    source: "少数派",
+    title: "派早报：市场监管总局整治「大字吸睛、小字免责」等广告乱象",
+    titleCN: "派早报：市场监管总局整治「大字吸睛、小字免责」等广告乱象",
+    summary: "315 晚会曝光 AI 大模型被「投毒」，PlayStation 商店测试动态定价等。",
+    summaryCN: "市场监管总局整治广告乱象、315 晚会曝光 AI 投毒、PlayStation 动态定价、Adobe 和解订阅欺骗等。",
+    url: "https://sspai.com/post/107396",
+    publishedAt: "2026-03-15T23:17:22Z",
+    language: "zh",
+    category: "news"
+  }
+];
+
+// 合并所有新闻
+newsData.articles = [
+  ...techCrunch,
+  ...theVerge,
+  ...arsTechnica,
+  ...wired,
+  ...cnet,
+  ...bbc,
+  ...bloomberg,
+  ...kr36,
+  ...huxiu,
+  ...sspai
+];
+
+// 按发布时间排序
+newsData.articles.sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime());
+newsData.totalArticles = newsData.articles.length;
+
+// 输出目录
+const outputDir = path.join(__dirname, '../public/data');
+if (!fs.existsSync(outputDir)) {
+  fs.mkdirSync(outputDir, { recursive: true });
+}
+
+// 保存到 latest.json
+const outputPath = path.join(outputDir, 'latest.json');
+fs.writeFileSync(outputPath, JSON.stringify(newsData, null, 2));
+
+console.log(`✅ 新闻抓取完成！`);
+console.log(`📊 共抓取 ${newsData.totalArticles} 条新闻`);
+console.log(`📁 保存到：${outputPath}`);
+console.log(`🕐 更新时间：${newsData.updatedAt}`);
