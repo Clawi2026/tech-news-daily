@@ -4,15 +4,22 @@ import { useEffect, useState } from 'react';
 
 interface NewsItem {
   id: string;
-  title: string;
-  originalTitle: string;
-  description: string;
-  link: string;
   source: string;
-  category: string;
-  language: string;
+  title: string;
+  titleCN: string;
+  summary: string;
+  summaryCN: string;
+  url: string;
   publishedAt: string;
-  fetchedAt: string;
+  language: string;
+  category: string;
+}
+
+interface NewsData {
+  updatedAt: string;
+  sources: number;
+  totalArticles: number;
+  articles: NewsItem[];
 }
 
 export default function Home() {
@@ -32,17 +39,16 @@ export default function Home() {
         throw new Error('HTTP ' + response.status);
       }
       const text = await response.text();
-      const data = JSON.parse(text);
+      const data: NewsData = JSON.parse(text);
       
-      if (!Array.isArray(data) || data.length === 0) {
+      if (!data.articles || !Array.isArray(data.articles) || data.articles.length === 0) {
         throw new Error('数据格式错误');
       }
       
-      setNews(data);
-      const firstDate = data[0]?.fetchedAt || data[0]?.publishedAt;
-      if (firstDate) {
+      setNews(data.articles);
+      if (data.updatedAt) {
         try {
-          setLastUpdate(new Date(firstDate).toLocaleString('zh-CN'));
+          setLastUpdate(new Date(data.updatedAt).toLocaleString('zh-CN'));
         } catch {
           setLastUpdate('刚刚');
         }
@@ -212,19 +218,19 @@ export default function Home() {
                 <p className="text-xs text-purple-400 mb-2">{item.category}</p>
 
                 <h2 className="text-lg font-bold text-white mb-2 line-clamp-2 group-hover:text-purple-300 transition-colors">
-                  {item.title}
+                  {item.titleCN || item.title}
                 </h2>
 
-                {item.language !== 'zh' && item.originalTitle !== item.title && (
-                  <p className="text-xs text-purple-400 mb-3 italic">&ldquo;{item.originalTitle}&rdquo;</p>
+                {item.language !== 'zh' && item.titleCN && item.titleCN !== item.title && (
+                  <p className="text-xs text-purple-400 mb-3 italic">&ldquo;{item.title}&rdquo;</p>
                 )}
 
                 <p className="text-purple-200 text-sm mb-4 line-clamp-3">
-                  {item.description || '点击阅读完整报道...'}
+                  {item.summaryCN || item.summary || '点击阅读完整报道...'}
                 </p>
 
                 <a
-                  href={item.link}
+                  href={item.url}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 text-purple-300 hover:text-purple-200 text-sm font-semibold transition-colors"
