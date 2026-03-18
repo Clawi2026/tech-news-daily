@@ -34,12 +34,20 @@ export default function Home() {
       const text = await response.text();
       const data = JSON.parse(text);
       
-      if (!Array.isArray(data) || data.length === 0) {
+      // 支持两种格式：数组 或 对象 (包含 articles 字段)
+      let articles: any[] = [];
+      if (Array.isArray(data)) {
+        articles = data;
+      } else if (data && typeof data === 'object' && Array.isArray(data.articles)) {
+        articles = data.articles;
+      }
+      
+      if (!articles || articles.length === 0) {
         throw new Error('数据格式错误');
       }
       
-      setNews(data);
-      const firstDate = data[0]?.fetchedAt || data[0]?.publishedAt;
+      setNews(articles);
+      const firstDate = articles[0]?.fetchedAt || articles[0]?.publishedAt;
       if (firstDate) {
         try {
           setLastUpdate(new Date(firstDate).toLocaleString('zh-CN'));

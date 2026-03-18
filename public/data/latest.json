@@ -1,8 +1,73 @@
 {
-  "updatedAt": "2026-03-18T04:09:44.553Z",
+  "updatedAt": "2026-03-18T06:01:55.832Z",
   "sources": 10,
   "totalArticles": 21,
+  "fetchStatus": {
+    "success": [
+      "TechCrunch",
+      "The Verge",
+      "Ars Technica",
+      "Wired",
+      "CNET",
+      "36Kr",
+      "少数派"
+    ],
+    "partial": [],
+    "failed": [
+      "Unknown",
+      "Unknown",
+      "Unknown"
+    ]
+  },
   "articles": [
+    {
+      "id": "aHR0cHM6Ly93",
+      "source": "Wired",
+      "title": "$20 Chewy Promo Code | March 2026",
+      "originalTitle": "$20 Chewy Promo Code | March 2026",
+      "summary": "Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more March 2026 discounts.",
+      "originalSummary": "Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more March 2026 discounts.",
+      "url": "https://www.wired.com/story/chewy-promo-code/",
+      "publishedAt": "2026-03-18T05:00:00.000Z",
+      "language": "en",
+      "category": "科技趋势"
+    },
+    {
+      "id": "aHR0cHM6Ly93",
+      "source": "Wired",
+      "title": "NordVPN Coupons and Deals: 77% Off in March 2026",
+      "originalTitle": "NordVPN Coupons and Deals: 77% Off in March 2026",
+      "summary": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
+      "originalSummary": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
+      "url": "https://www.wired.com/story/nordvpn-coupon/",
+      "publishedAt": "2026-03-18T05:00:00.000Z",
+      "language": "en",
+      "category": "科技趋势"
+    },
+    {
+      "id": "aHR0cHM6Ly93",
+      "source": "Wired",
+      "title": "50% Off DoorDash Promo Code | March 2026",
+      "originalTitle": "50% Off DoorDash Promo Code | March 2026",
+      "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and up to 50% off for existing customers.",
+      "originalSummary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and up to 50% off for existing customers.",
+      "url": "https://www.wired.com/story/doordash-promo-code/",
+      "publishedAt": "2026-03-18T05:00:00.000Z",
+      "language": "en",
+      "category": "科技趋势"
+    },
+    {
+      "id": "aHR0cHM6Ly9z",
+      "source": "少数派",
+      "title": "年度征文｜为时间和精力埋单：我的旅行峰值体验塑造方法论",
+      "originalTitle": "年度征文｜为时间和精力埋单：我的旅行峰值体验塑造方法论",
+      "summary": "希望这套旅行攻略方法论能带给大家一些启发和收获。查看全文",
+      "originalSummary": "希望这套旅行攻略方法论能带给大家一些启发和收获。查看全文",
+      "url": "https://sspai.com/post/106217",
+      "publishedAt": "2026-03-18T03:31:33.000Z",
+      "language": "zh",
+      "category": "数码生活"
+    },
     {
       "id": "aHR0cHM6Ly93",
       "source": "CNET",
@@ -76,18 +141,6 @@
       "category": "中国科技"
     },
     {
-      "id": "aHR0cHM6Ly93",
-      "source": "Wired",
-      "title": "Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems",
-      "originalTitle": "Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems",
-      "summary": "In response to Anthropic’s lawsuit, the government said it lawfully penalized the company for trying to limit how its Claude AI models could be used by the military.",
-      "originalSummary": "In response to Anthropic’s lawsuit, the government said it lawfully penalized the company for trying to limit how its Claude AI models could be used by the military.",
-      "url": "https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/",
-      "publishedAt": "2026-03-18T00:51:14.000Z",
-      "language": "en",
-      "category": "科技趋势"
-    },
-    {
       "id": "aHR0cHM6Ly9z",
       "source": "少数派",
       "title": "派早报：OPPO Find N6 发布，广汽、华为联合发布「启境」GT7 等",
@@ -98,18 +151,6 @@
       "publishedAt": "2026-03-17T23:23:21.000Z",
       "language": "zh",
       "category": "数码生活"
-    },
-    {
-      "id": "aHR0cHM6Ly93",
-      "source": "Wired",
-      "title": "Meta Is Shutting Down Horizon Worlds on Meta Quest",
-      "originalTitle": "Meta Is Shutting Down Horizon Worlds on Meta Quest",
-      "summary": "Meta’s flailing virtual reality social experience is being discontinued in June. It's part of Meta’s broader moves to slim down the business that became its namesake.",
-      "originalSummary": "Meta’s flailing virtual reality social experience is being discontinued in June. It's part of Meta’s broader moves to slim down the business that became its namesake.",
-      "url": "https://www.wired.com/story/meta-is-shutting-down-horizon-worlds-on-meta-quest/",
-      "publishedAt": "2026-03-17T22:24:51.000Z",
-      "language": "en",
-      "category": "科技趋势"
     },
     {
       "id": "aHR0cHM6Ly90",
@@ -174,20 +215,10 @@
     {
       "id": "aHR0cHM6Ly93",
       "source": "The Verge",
-      "title": {
-        "_": "I went to the Pentagon to watch Pete Hegseth scold war reporters",
-        "$": {
-          "type": "html"
-        }
-      },
-      "originalTitle": {
-        "_": "I went to the Pentagon to watch Pete Hegseth scold war reporters",
-        "$": {
-          "type": "html"
-        }
-      },
-      "summary": "",
-      "originalSummary": "",
+      "title": "I went to the Pentagon to watch Pete Hegseth scold war reporters",
+      "originalTitle": "I went to the Pentagon to watch Pete Hegseth scold war reporters",
+      "summary": "It is day 13 of America's surprise war with Iran - by sheer coincidence, it's Friday the 13th - and I am delirious. I haven't had a coffee since I woke up at 5AM, because I'm not allowed to bring outs",
+      "originalSummary": "It is day 13 of America's surprise war with Iran - by sheer coincidence, it's Friday the 13th - and I am delirious. I haven't had a coffee since I woke up at 5AM, because I'm not allowed to bring outs",
       "url": "https://www.theverge.com/policy/896312/pentagon-briefing-iran-war-pete-hegseth",
       "publishedAt": "2026-03-17T20:47:35.000Z",
       "language": "en",
@@ -196,20 +227,10 @@
     {
       "id": "aHR0cHM6Ly93",
       "source": "The Verge",
-      "title": {
-        "_": "The Beats Studio Pro are nearly $200 off ahead of Amazon’s big spring sale",
-        "$": {
-          "type": "html"
-        }
-      },
-      "originalTitle": {
-        "_": "The Beats Studio Pro are nearly $200 off ahead of Amazon’s big spring sale",
-        "$": {
-          "type": "html"
-        }
-      },
-      "summary": "",
-      "originalSummary": "",
+      "title": "The Beats Studio Pro are nearly $200 off ahead of Amazon’s big spring sale",
+      "originalTitle": "The Beats Studio Pro are nearly $200 off ahead of Amazon’s big spring sale",
+      "summary": "Earlier this week, Apple unveiled the AirPods Max 2. The forthcoming over-ear headphones build on their predecessor with an H2 chip that powers a range of new features; however, they still don’t offer",
+      "originalSummary": "Earlier this week, Apple unveiled the AirPods Max 2. The forthcoming over-ear headphones build on their predecessor with an H2 chip that powers a range of new features; however, they still don’t offer",
       "url": "https://www.theverge.com/gadgets/896279/beats-studio-pro-anc-headphones-amazon-big-spring-sale-deal-2026",
       "publishedAt": "2026-03-17T20:38:08.000Z",
       "language": "en",
@@ -217,33 +238,11 @@
     },
     {
       "id": "aHR0cHM6Ly93",
-      "source": "Wired",
-      "title": "DoorDash Reservations Scored America’s Most Exclusive Restaurants",
-      "originalTitle": "DoorDash Reservations Scored America’s Most Exclusive Restaurants",
-      "summary": "After the rise (and fall) of reservation scalping, DoorDash and a host of apps are fighting to book you a seat at the country’s most exclusive restaurants.",
-      "originalSummary": "After the rise (and fall) of reservation scalping, DoorDash and a host of apps are fighting to book you a seat at the country’s most exclusive restaurants.",
-      "url": "https://www.wired.com/story/doordash-reservations-exclusive-restaurants/",
-      "publishedAt": "2026-03-17T20:32:13.000Z",
-      "language": "en",
-      "category": "科技趋势"
-    },
-    {
-      "id": "aHR0cHM6Ly93",
       "source": "The Verge",
-      "title": {
-        "_": "Remedy’s live-service shooter Firebreak is getting its final major update",
-        "$": {
-          "type": "html"
-        }
-      },
-      "originalTitle": {
-        "_": "Remedy’s live-service shooter Firebreak is getting its final major update",
-        "$": {
-          "type": "html"
-        }
-      },
-      "summary": "",
-      "originalSummary": "",
+      "title": "Remedy’s live-service shooter Firebreak is getting its final major update",
+      "originalTitle": "Remedy’s live-service shooter Firebreak is getting its final major update",
+      "summary": "Remedy is winding down its team shooter FBC: Firebreak with a big update that launches today. But while the game won't be getting any new content going forward, the studio intends to keep it alive for",
+      "originalSummary": "Remedy is winding down its team shooter FBC: Firebreak with a big update that launches today. But while the game won't be getting any new content going forward, the studio intends to keep it alive for",
       "url": "https://www.theverge.com/entertainment/896278/fbc-firebreak-last-update-remedy",
       "publishedAt": "2026-03-17T19:36:45.000Z",
       "language": "en",
@@ -270,18 +269,6 @@
       "originalSummary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿的新玩意呈现给大家。💬一派热议 ...查看全文",
       "url": "https://sspai.com/post/107466",
       "publishedAt": "2026-03-17T08:52:57.000Z",
-      "language": "zh",
-      "category": "数码生活"
-    },
-    {
-      "id": "aHR0cHM6Ly9z",
-      "source": "少数派",
-      "title": "年度征文 | 冬游九寨，或许这个季节更适合叙述她的美",
-      "originalTitle": "年度征文 | 冬游九寨，或许这个季节更适合叙述她的美",
-      "summary": "希望九寨之行是个契机，在新的一年，继续踏足荒野，去感受，去风里从头再来。查看全文",
-      "originalSummary": "希望九寨之行是个契机，在新的一年，继续踏足荒野，去感受，去风里从头再来。查看全文",
-      "url": "https://sspai.com/post/106439",
-      "publishedAt": "2026-03-17T07:43:01.000Z",
       "language": "zh",
       "category": "数码生活"
     }
