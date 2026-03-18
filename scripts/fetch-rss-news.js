@@ -9,17 +9,16 @@ const { Parser } = require('xml2js');
 const fs = require('fs');
 const path = require('path');
 
-// 10 个新闻源配置
+// 9 个新闻源配置
 const NEWS_SOURCES = [
   { name: 'TechCrunch', url: 'https://techcrunch.com/feed/', language: 'en', category: '科技创业' },
   { name: 'The Verge', url: 'https://www.theverge.com/rss/index.xml', language: 'en', category: '科技文化' },
   { name: 'Ars Technica', url: 'https://feeds.arstechnica.com/arstechnica/index', language: 'en', category: '深度科技' },
   { name: 'Wired', url: 'https://www.wired.com/feed/rss', language: 'en', category: '科技趋势' },
-  { name: 'BBC Technology', url: 'http://feeds.bbci.co.uk/news/technology/rss.xml', language: 'en', category: '综合科技' },
+  { name: 'BBC Technology', url: 'https://feeds.bbci.co.uk/news/technology/rss.xml', language: 'en', category: '综合科技' },
   { name: 'CNET', url: 'https://www.cnet.com/rss/news/', language: 'en', category: '数码产品' },
   { name: 'Bloomberg Tech', url: 'https://www.bloomberg.com/technology/rss', language: 'en', category: '科技财经' },
   { name: '36Kr', url: 'https://www.36kr.com/feed', language: 'zh', category: '中国科技' },
-  { name: '虎嗅', url: 'https://www.huxiu.com/rss', language: 'zh', category: '商业科技' },
   { name: '少数派', url: 'https://sspai.com/feed', language: 'zh', category: '数码生活' }
 ];
 
