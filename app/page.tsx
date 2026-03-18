@@ -7,7 +7,8 @@ interface NewsItem {
   title: string;
   originalTitle: string;
   description: string;
-  link: string;
+  url: string;
+  link?: string; // 兼容旧字段
   source: string;
   category: string;
   language: string;
@@ -232,7 +233,7 @@ export default function Home() {
                 </p>
 
                 <a
-                  href={item.link}
+                  href={item.url || item.link}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 text-purple-300 hover:text-purple-200 text-sm font-semibold transition-colors"
