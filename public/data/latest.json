@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-18T07:02:09.047Z",
+  "updatedAt": "2026-03-18T08:02:20.559Z",
   "sources": 10,
   "totalArticles": 21,
   "fetchStatus": {
@@ -21,6 +21,18 @@
   },
   "articles": [
     {
+      "id": "aHR0cHM6Ly9z",
+      "source": "少数派",
+      "title": "打造我的「智能家」：使用 Claude Code 轻松使用 Home Assistant",
+      "originalTitle": "打造我的「智能家」：使用 Claude Code 轻松使用 Home Assistant",
+      "summary": "Home Assistant 凭借其强大、丰富、开放的 API 工具，必将成为这个 Agentic 时代智能家居的第一选择。查看全文",
+      "originalSummary": "Home Assistant 凭借其强大、丰富、开放的 API 工具，必将成为这个 Agentic 时代智能家居的第一选择。查看全文",
+      "url": "https://sspai.com/post/106992",
+      "publishedAt": "2026-03-18T06:30:00.000Z",
+      "language": "zh",
+      "category": "数码生活"
+    },
+    {
       "id": "aHR0cHM6Ly8z",
       "source": "36Kr",
       "title": "2000万只“龙虾”进入企业，阿里的新企业Agent故事 | 最前线",
@@ -35,9 +47,9 @@
     {
       "id": "aHR0cHM6Ly93",
       "source": "Wired",
-      "title": "50% Off DoorDash Promo Code | March 2026",
+      "title": "DoorDash促销代码五折优惠| 2026年3月",
       "originalTitle": "50% Off DoorDash Promo Code | March 2026",
-      "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and up to 50% off for existing customers.",
+      "summary": "查看今日最热门的DoorDash优惠码，首次订餐可享$ 25优惠、派送费优惠，现有顾客最高可享50%的优惠。",
       "originalSummary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and up to 50% off for existing customers.",
       "url": "https://www.wired.com/story/doordash-promo-code/",
       "publishedAt": "2026-03-18T05:00:00.000Z",
@@ -47,9 +59,9 @@
     {
       "id": "aHR0cHM6Ly93",
       "source": "Wired",
-      "title": "$20 Chewy Promo Code | March 2026",
+      "title": "$ 20耐嚼优惠码| 2026年3月",
       "originalTitle": "$20 Chewy Promo Code | March 2026",
-      "summary": "Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more March 2026 discounts.",
+      "summary": "探索耐嚼优惠券代码，首笔订单可享$ 30优惠、$ 20优惠、$ 49五折优惠、宠物食品五折优惠以及更多2026年3月优惠。",
       "originalSummary": "Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more March 2026 discounts.",
       "url": "https://www.wired.com/story/chewy-promo-code/",
       "publishedAt": "2026-03-18T05:00:00.000Z",
@@ -59,9 +71,9 @@
     {
       "id": "aHR0cHM6Ly93",
       "source": "Wired",
-      "title": "NordVPN Coupons and Deals: 77% Off in March 2026",
+      "title": "NordVPN优惠券： 2026年3月立减77%",
       "originalTitle": "NordVPN Coupons and Deals: 77% Off in March 2026",
-      "summary": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
+      "summary": "使用我们的NordVPN折扣码， 2年套餐最高可节省77% ，还可免费使用3个月。",
       "originalSummary": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
       "url": "https://www.wired.com/story/nordvpn-coupon/",
       "publishedAt": "2026-03-18T05:00:00.000Z",
@@ -83,9 +95,9 @@
     {
       "id": "aHR0cHM6Ly93",
       "source": "CNET",
-      "title": "Today's NYT Mini Crossword Answers for Wednesday, March 18",
+      "title": "3月18日（周三）的纽约时报迷你填字游戏答案",
       "originalTitle": "Today's NYT Mini Crossword Answers for Wednesday, March 18",
-      "summary": "Here are the answers for The New York Times Mini Crossword for March 18.",
+      "summary": "以下是《纽约时报》3月18日迷你填字游戏的答案。",
       "originalSummary": "Here are the answers for The New York Times Mini Crossword for March 18.",
       "url": "https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-march-18/",
       "publishedAt": "2026-03-18T02:16:00.000Z",
@@ -119,9 +131,9 @@
     {
       "id": "aHR0cHM6Ly93",
       "source": "CNET",
-      "title": "Do You Need to Upgrade Your MacBook Air? M5, M4, M3, M2, M1 Models Compared",
+      "title": "您是否需要升级MacBook Air ？ M5、M4、M3、M2、M1型号比较",
       "originalTitle": "Do You Need to Upgrade Your MacBook Air? M5, M4, M3, M2, M1 Models Compared",
-      "summary": "With the release of the new M5 MacBook Air, has the time come to replace your current model? Join me as I go through each of the past four generations to help you answer that question.",
+      "summary": "随着新款M5 MacBook Air的发布，是时候更换您当前的型号了吗？和我一起回顾过去四代人中的每一代，帮助你回答这个问题。",
       "originalSummary": "With the release of the new M5 MacBook Air, has the time come to replace your current model? Join me as I go through each of the past four generations to help you answer that question.",
       "url": "https://www.cnet.com/tech/computing/macbook-air-upgrade-guide-m5-vs-m4-m3-m2-m1/",
       "publishedAt": "2026-03-18T02:00:38.000Z",
@@ -131,9 +143,9 @@
     {
       "id": "aHR0cHM6Ly93",
       "source": "CNET",
-      "title": "SXSW 2026 Updates: The Latest on Creativity, AI and VR, Including a 'Real Estate Holodeck'",
+      "title": "SXSW 2026更新：创意、人工智能和虚拟现实的最新动态，包括“房地产全息甲板”",
       "originalTitle": "SXSW 2026 Updates: The Latest on Creativity, AI and VR, Including a 'Real Estate Holodeck'",
-      "summary": "We've heard from icons like Jamie Lee Curtis, Steven Spielberg and Serena Williams so far. Up next: robots?",
+      "summary": "到目前为止，我们已经从Jamie Lee Curtis ， Steven Spielberg和Serena Williams等偶像那里听到了消息。下一个：机器人？",
       "originalSummary": "We've heard from icons like Jamie Lee Curtis, Steven Spielberg and Serena Williams so far. Up next: robots?",
       "url": "https://www.cnet.com/news-live/sxsw-2026-updates-news-tech-culture/",
       "publishedAt": "2026-03-18T01:46:00.000Z",
@@ -155,9 +167,9 @@
     {
       "id": "aHR0cHM6Ly90",
       "source": "TechCrunch",
-      "title": "Kalshi’s legal troubles pile up, as Arizona files first ever criminal charges over ‘illegal gambling business’",
+      "title": "随着亚利桑那州首次对“非法赌博业务”提出刑事指控， Kalshi的法律问题越来越多",
       "originalTitle": "Kalshi’s legal troubles pile up, as Arizona files first ever criminal charges over ‘illegal gambling business’",
-      "summary": "It's the latest salvo in an escalating battle between state regulators and an industry that claims it's not beholden to them.  ",
+      "summary": "这是国家监管机构与声称不受其约束的行业之间不断升级的斗争中的最新一击。",
       "originalSummary": "It's the latest salvo in an escalating battle between state regulators and an industry that claims it's not beholden to them.  ",
       "url": "https://techcrunch.com/2026/03/17/kalshis-legal-troubles-pile-up-as-arizona-files-first-ever-criminal-charges-over-illegal-gambling-business/",
       "publishedAt": "2026-03-17T21:39:17.000Z",
@@ -167,9 +179,9 @@
     {
       "id": "aHR0cHM6Ly9h",
       "source": "Ars Technica",
-      "title": "Apple can delist apps \"with or without cause,\" judge says in loss for Musi app",
+      "title": "法官在Musi应用程序的损失中表示，苹果可以“有理由或无理由”退出应用程序",
       "originalTitle": "Apple can delist apps \"with or without cause,\" judge says in loss for Musi app",
-      "summary": "\n                        Judge tosses Musi case against Apple, sanctions lawyers for \"mak[ing] up facts.\"\n                    ",
+      "summary": "法官驳回了穆西对苹果的指控，制裁律师“捏造事实”。",
       "originalSummary": "\n                        Judge tosses Musi case against Apple, sanctions lawyers for \"mak[ing] up facts.\"\n                    ",
       "url": "https://arstechnica.com/tech-policy/2026/03/judge-upholds-apple-delisting-of-free-musi-app-that-streams-songs-from-youtube/",
       "publishedAt": "2026-03-17T21:38:33.000Z",
@@ -179,9 +191,9 @@
     {
       "id": "aHR0cHM6Ly9h",
       "source": "Ars Technica",
-      "title": "How World ID wants to put a unique human identity on every AI agent",
+      "title": "World ID希望在每个AI代理上放置独特的人类身份",
       "originalTitle": "How World ID wants to put a unique human identity on every AI agent",
-      "summary": "\n                        Iris-scan backed tokens could help stop agent swarms from overwhelming online systems.\n                    ",
+      "summary": "虹膜扫描支持的代币可以帮助阻止特工群体压倒性的在线系统。",
       "originalSummary": "\n                        Iris-scan backed tokens could help stop agent swarms from overwhelming online systems.\n                    ",
       "url": "https://arstechnica.com/ai/2026/03/world-id-wants-you-to-put-a-cryptographically-unique-human-identity-behind-your-ai-agents/",
       "publishedAt": "2026-03-17T21:28:27.000Z",
@@ -191,9 +203,9 @@
     {
       "id": "aHR0cHM6Ly90",
       "source": "TechCrunch",
-      "title": "Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise",
+      "title": "Mistral押注“构建自己的人工智能” ，因为它需要企业中的OpenAI和Anthropic",
       "originalTitle": "Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise",
-      "summary": "Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches.",
+      "summary": "Mistral Forge允许企业根据自己的数据从头开始训练定制的人工智能模型，挑战依赖于微调和基于检索的方法的竞争对手。",
       "originalSummary": "Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches.",
       "url": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
       "publishedAt": "2026-03-17T21:00:00.000Z",
@@ -203,9 +215,9 @@
     {
       "id": "aHR0cHM6Ly90",
       "source": "TechCrunch",
-      "title": "Why Garry Tan’s Claude Code setup has gotten so much love, and hate",
+      "title": "为什么Garry Tan的Claude Code设置得到了如此多的关注和憎恨",
       "originalTitle": "Why Garry Tan’s Claude Code setup has gotten so much love, and hate",
-      "summary": "Thousands of people are trying Garry Tan's Claude Code setup, which was shared on GitHub. And everyone has an opinion: even Claude, ChatGPT, and Gemini.",
+      "summary": "成千上万的人正在尝试Garry Tan的Claude Code设置，该设置已在GitHub上共享。每个人都有自己的观点：包括Claude、ChatGPT和Gemini。",
       "originalSummary": "Thousands of people are trying Garry Tan's Claude Code setup, which was shared on GitHub. And everyone has an opinion: even Claude, ChatGPT, and Gemini.",
       "url": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/",
       "publishedAt": "2026-03-17T20:50:04.000Z",
@@ -215,9 +227,9 @@
     {
       "id": "aHR0cHM6Ly93",
       "source": "The Verge",
-      "title": "I went to the Pentagon to watch Pete Hegseth scold war reporters",
+      "title": "我去五角大楼看Pete Hegseth骂战争记者",
       "originalTitle": "I went to the Pentagon to watch Pete Hegseth scold war reporters",
-      "summary": "It is day 13 of America's surprise war with Iran - by sheer coincidence, it's Friday the 13th - and I am delirious. I haven't had a coffee since I woke up at 5AM, because I'm not allowed to bring outs",
+      "summary": "这是美国与伊朗突然开战的第13天--纯属巧合，今天是13号星期五--我很神志不清。自从我凌晨5点起床以来，我一直没有喝咖啡，因为我不允许带外出",
       "originalSummary": "It is day 13 of America's surprise war with Iran - by sheer coincidence, it's Friday the 13th - and I am delirious. I haven't had a coffee since I woke up at 5AM, because I'm not allowed to bring outs",
       "url": "https://www.theverge.com/policy/896312/pentagon-briefing-iran-war-pete-hegseth",
       "publishedAt": "2026-03-17T20:47:35.000Z",
@@ -227,9 +239,9 @@
     {
       "id": "aHR0cHM6Ly93",
       "source": "The Verge",
-      "title": "The Beats Studio Pro are nearly $200 off ahead of Amazon’s big spring sale",
+      "title": "在亚马逊大型春季促销之前， Beats Studio Pro可享受近200 $的折扣",
       "originalTitle": "The Beats Studio Pro are nearly $200 off ahead of Amazon’s big spring sale",
-      "summary": "Earlier this week, Apple unveiled the AirPods Max 2. The forthcoming over-ear headphones build on their predecessor with an H2 chip that powers a range of new features; however, they still don’t offer",
+      "summary": "本周早些时候，苹果推出了AirPods Max 2。即将推出的包耳式耳机是在其前身的基础上构建的，其H2芯片支持一系列新功能；然而，它们仍然不提供",
       "originalSummary": "Earlier this week, Apple unveiled the AirPods Max 2. The forthcoming over-ear headphones build on their predecessor with an H2 chip that powers a range of new features; however, they still don’t offer",
       "url": "https://www.theverge.com/gadgets/896279/beats-studio-pro-anc-headphones-amazon-big-spring-sale-deal-2026",
       "publishedAt": "2026-03-17T20:38:08.000Z",
@@ -239,9 +251,9 @@
     {
       "id": "aHR0cHM6Ly93",
       "source": "The Verge",
-      "title": "Remedy’s live-service shooter Firebreak is getting its final major update",
+      "title": "Remedy的现场服务射击游戏Firebreak正在进行最后一次重大更新",
       "originalTitle": "Remedy’s live-service shooter Firebreak is getting its final major update",
-      "summary": "Remedy is winding down its team shooter FBC: Firebreak with a big update that launches today. But while the game won't be getting any new content going forward, the studio intends to keep it alive for",
+      "summary": "Remedy正在逐步结束其团队射击游戏FBC ： Firebreak ，并于今天推出大型更新。但是，虽然游戏未来不会获得任何新内容，但工作室打算让它保持活力",
       "originalSummary": "Remedy is winding down its team shooter FBC: Firebreak with a big update that launches today. But while the game won't be getting any new content going forward, the studio intends to keep it alive for",
       "url": "https://www.theverge.com/entertainment/896278/fbc-firebreak-last-update-remedy",
       "publishedAt": "2026-03-17T19:36:45.000Z",
@@ -251,26 +263,14 @@
     {
       "id": "aHR0cHM6Ly9h",
       "source": "Ars Technica",
-      "title": "Arizona indicts prediction market Kalshi for running illegal gambling operation",
+      "title": "亚利桑那州指控预测市场Kalshi经营非法赌博业务",
       "originalTitle": "Arizona indicts prediction market Kalshi for running illegal gambling operation",
-      "summary": "\n                        Desert state becomes first to file criminal case against prediction platform.\n                    ",
+      "summary": "沙漠州成为第一个对预测平台提起刑事诉讼的州。",
       "originalSummary": "\n                        Desert state becomes first to file criminal case against prediction platform.\n                    ",
       "url": "https://arstechnica.com/tech-policy/2026/03/arizona-indicts-prediction-market-kalshi-for-running-illegal-gambling-operation/",
       "publishedAt": "2026-03-17T19:28:26.000Z",
       "language": "en",
       "category": "深度科技"
-    },
-    {
-      "id": "aHR0cHM6Ly9z",
-      "source": "少数派",
-      "title": "社区速递 133 | 派友热议 AI Coding 方案、西圣 Pencil X 平替笔体验",
-      "originalTitle": "社区速递 133 | 派友热议 AI Coding 方案、西圣 Pencil X 平替笔体验",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿的新玩意呈现给大家。💬一派热议 ...查看全文",
-      "originalSummary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿的新玩意呈现给大家。💬一派热议 ...查看全文",
-      "url": "https://sspai.com/post/107466",
-      "publishedAt": "2026-03-17T08:52:57.000Z",
-      "language": "zh",
-      "category": "数码生活"
     }
   ]
 }
