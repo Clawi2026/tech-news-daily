@@ -67,9 +67,18 @@ async function fetchRSS(source) {
     
     const articles = [];
     for (const item of items.slice(0, 5)) { // 每个源最多 5 条
-      const title = item.title?.[0] || item.title || '无标题';
-      const link = item.link?.[0]?.$?.href || item.link?.[0] || item.link || '#';
-      const description = item.description?.[0] || item.summary?.[0] || item.content?.[0]?._ || '';
+      // 处理 title 可能是对象的情况（如 The Verge 的 type="html" 属性）
+      const titleRaw = item.title?.[0] || item.title;
+      const title = typeof titleRaw === 'object' ? (titleRaw._ || '无标题') : (titleRaw || '无标题');
+      
+      // 处理 link 可能是对象的情况
+      const linkRaw = item.link?.[0]?.$?.href || item.link?.[0] || item.link;
+      const link = typeof linkRaw === 'object' ? (linkRaw._ || linkRaw.$?.href || '#') : (linkRaw || '#');
+      
+      // 处理 description 可能是对象的情况
+      const descRaw = item.description?.[0] || item.summary?.[0] || item.content?.[0]?._ || item.content?.[0] || '';
+      const description = typeof descRaw === 'object' ? (descRaw._ || '') : (descRaw || '');
+      
       const pubDate = item.pubDate?.[0] || item.published?.[0] || new Date().toISOString();
       
       // 翻译
