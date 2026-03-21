@@ -9,6 +9,9 @@ const { Parser } = require('xml2js');
 const fs = require('fs');
 const path = require('path');
 
+// 导入新的翻译模块
+const { translateText } = require("./translate-module");
+
 // 9 个新闻源配置
 const NEWS_SOURCES = [
   { name: 'TechCrunch', url: 'https://techcrunch.com/feed/', language: 'en', category: '科技创业' },
@@ -21,44 +24,6 @@ const NEWS_SOURCES = [
   { name: '36Kr', url: 'https://www.36kr.com/feed', language: 'zh', category: '中国科技' },
   { name: '少数派', url: 'https://sspai.com/feed', language: 'zh', category: '数码生活' }
 ];
-
-// 翻译 API（使用 LibreTranslate 备用）
-async function translateText(text, from, to = 'zh') {
-  if (from === 'zh' || !text || text.length === 0) return text;
-  
-  // 尝试 MyMemory
-  try {
-    const truncated = text.length > 500 ? text.substring(0, 500) : text;
-    const url = `https://api.mymemory.translated.net/get?q=${encodeURIComponent(truncated)}&langpair=${from}|${to}`;
-    const response = await fetch(url, { timeout: 8000 });
-    const data = await response.json();
-    if (data.responseStatus === 200 && data.responseData?.translatedText) {
-      return data.responseData.translatedText;
-    }
-  } catch (e) {
-    // 失败则继续尝试备用方案
-  }
-  
-  // 备用：LibreTranslate
-  try {
-    const truncated = text.length > 500 ? text.substring(0, 500) : text;
-    const response = await fetch('https://libretranslate.com/translate', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ q: truncated, source: from, target: to }),
-      timeout: 8000
-    });
-    const data = await response.json();
-    if (data.translatedText) {
-      return data.translatedText;
-    }
-  } catch (e) {
-    // 如果都失败，返回原文
-  }
-  
-  console.error(`翻译失败，使用原文`);
-  return text;
-}
 
 // 解析 RSS Feed
 async function fetchRSS(source) {
