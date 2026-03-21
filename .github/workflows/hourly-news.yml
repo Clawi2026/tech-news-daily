@@ -23,13 +23,10 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Install Playwright browsers
-        run: npx playwright install chromium --with-deps
-
-      - name: Fetch news with browser
-        run: npx tsx scripts/fetch-news-browser.ts
+      - name: Fetch news from RSS (Stable)
+        run: node scripts/fetch-rss-news.js
         env:
-          BROWSER_TIMEOUT: 120000
+          NODE_TIMEOUT: 120000
 
       - name: Commit and push news data
         run: |
