@@ -1,6 +1,30 @@
 [
   {
     "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "“元帅”发布时间表：当第4集命中Paramount Plus时",
+    "originalTitle": "'Marshals' Release Schedule: When Episode 4 Hits Paramount Plus",
+    "summary": "卢克·格兰姆斯（ Luke Grimes ）主演《黄石公园》",
+    "originalSummary": "Luke Grimes leads the Yellowstone sequel.",
+    "url": "https://www.cnet.com/tech/services-and-software/marshals-release-schedule-when-episode-4-hits-paramount-plus/",
+    "publishedAt": "2026-03-22T19:00:38.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly90",
+    "source": "TechCrunch",
+    "title": "Cursor承认其新的编码模型建立在Moonshot AI的Kimi之上",
+    "originalTitle": "Cursor admits its new coding model was built on top of Moonshot AI’s Kimi",
+    "summary": "建立在中国模式之上，现在感觉特别令人担忧。",
+    "originalSummary": "Building on top of a Chinese model feels particularly fraught right now.",
+    "url": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
+    "publishedAt": "2026-03-22T18:41:09.000Z",
+    "language": "en",
+    "category": "科技创业"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
     "source": "The Verge",
     "title": "Crimson Desert DEV为使用人工智能艺术道歉",
     "originalTitle": "Crimson Desert dev apologizes for use of AI art",
@@ -180,18 +204,6 @@
     "category": "数码产品"
   },
   {
-    "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "游戏中的生成式人工智能已经到来，但面临游戏玩家和开发商的阻力",
-    "originalTitle": "Generative AI in Gaming Is Here, but Facing Pushback from Gamers – and Developers",
-    "summary": "在GDC 2026上，谷歌大肆宣扬双子座游戏，但该行业仍未找到赢得玩家和开发者的必备用途。",
-    "originalSummary": "At GDC 2026, Google trumpeted Gemini-powered games, but the industry still hasn't found must-have uses to win over players and developers.",
-    "url": "https://www.cnet.com/tech/gaming/generative-ai-gaming-pushback/",
-    "publishedAt": "2026-03-22T12:01:00.000Z",
-    "language": "en",
-    "category": "数码产品"
-  },
-  {
     "id": "aHR0cHM6Ly90",
     "source": "TechCrunch",
     "title": "独家参观亚马逊的Trainium实验室，这款芯片战胜了Anthropic、OpenAI ，甚至苹果 ",
@@ -298,18 +310,6 @@
     "publishedAt": "2026-03-22T06:35:06.000Z",
     "language": "zh",
     "category": "数码生活"
-  },
-  {
-    "id": "aHR0cHM6Ly90",
-    "source": "TechCrunch",
-    "title": "AI代币是新的签约奖金还是仅仅是开展业务的成本？",
-    "originalTitle": "Are AI tokens the new signing bonus or just a cost of doing business?",
-    "summary": "也许代币真的会成为工程补偿的第四大支柱。但工程师们可能想坚持到底，然后再接受这是一场直接的胜利。",
-    "originalSummary": "Maybe tokens really will become the fourth pillar of engineering compensation. But engineers might want to hold the line before embracing this as a straightforward win.",
-    "url": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/",
-    "publishedAt": "2026-03-22T06:20:43.000Z",
-    "language": "en",
-    "category": "科技创业"
   },
   {
     "id": "aHR0cHM6Ly8z",
