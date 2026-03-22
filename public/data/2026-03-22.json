@@ -12,6 +12,18 @@
     "category": "科技创业"
   },
   {
+    "id": "aHR0cHM6Ly9h",
+    "source": "Ars Technica",
+    "title": "可能（仍然）只有一个： Highlander 40岁",
+    "originalTitle": "There can (still) be only one: Highlander is 40",
+    "summary": "当然，它在许多方面都很俗气，但其核心神话甚至在几十年后仍然引起共鸣。",
+    "originalSummary": "\n                        Sure, it's cheesy in many respects, but its central mythology still resonates even decades later.\n                    ",
+    "url": "https://arstechnica.com/culture/2026/03/there-can-still-be-only-one-highlander-is-40/",
+    "publishedAt": "2026-03-22T14:10:30.000Z",
+    "language": "en",
+    "category": "深度科技"
+  },
+  {
     "id": "aHR0cHM6Ly93",
     "source": "The Verge",
     "title": "马斯克说，他正在德克萨斯州奥斯汀建造Terafab芯片工厂",
@@ -392,18 +404,6 @@
     "originalSummary": "\n                        The verdict, while not a complete loss, could still cost him billions.\n                    ",
     "url": "https://arstechnica.com/tech-policy/2026/03/jury-agrees-that-musks-tweets-during-twitter-takeover-constituted-fraud/",
     "publishedAt": "2026-03-20T22:27:42.000Z",
-    "language": "en",
-    "category": "深度科技"
-  },
-  {
-    "id": "aHR0cHM6Ly9h",
-    "source": "Ars Technica",
-    "title": "您可能已经感染了一种您从未听说过的脑食性病毒",
-    "originalTitle": "You're likely already infected with a brain-eating virus you've never heard of",
-    "summary": "脑部致命感染被认为是深层免疫抑制所致，现在不是了。",
-    "originalSummary": "\n                        Fatal brain infection was thought to be from profound immune suppression. Not anymore.\n                    ",
-    "url": "https://arstechnica.com/health/2026/03/youre-likely-already-infected-with-a-brain-eating-virus-youve-never-heard-of/",
-    "publishedAt": "2026-03-20T22:11:24.000Z",
     "language": "en",
     "category": "深度科技"
   },
