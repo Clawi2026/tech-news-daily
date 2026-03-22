@@ -1,5 +1,29 @@
 [
   {
+    "id": "aHR0cHM6Ly9z",
+    "source": "少数派",
+    "title": "用十年手机相册，记录颐和园的日夜春秋",
+    "originalTitle": "用十年手机相册，记录颐和园的日夜春秋",
+    "summary": "这些照片代表的生命瞬间，才是我真正的人生。查看全文",
+    "originalSummary": "这些照片代表的生命瞬间，才是我真正的人生。查看全文",
+    "url": "https://sspai.com/post/107010",
+    "publishedAt": "2026-03-22T06:35:06.000Z",
+    "language": "zh",
+    "category": "数码生活"
+  },
+  {
+    "id": "aHR0cHM6Ly90",
+    "source": "TechCrunch",
+    "title": "AI代币是新的签约奖金还是仅仅是开展业务的成本？",
+    "originalTitle": "Are AI tokens the new signing bonus or just a cost of doing business?",
+    "summary": "也许代币真的会成为工程补偿的第四大支柱。但工程师们可能想坚持到底，然后再接受这是一场直接的胜利。",
+    "originalSummary": "Maybe tokens really will become the fourth pillar of engineering compensation. But engineers might want to hold the line before embracing this as a straightforward win.",
+    "url": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/",
+    "publishedAt": "2026-03-22T06:20:43.000Z",
+    "language": "en",
+    "category": "科技创业"
+  },
+  {
     "id": "aHR0cHM6Ly8z",
     "source": "36Kr",
     "title": "Nothing在中国发布Headphone (a)与Phone (4a)系列，在性能过剩时代继续押注“设计优先”丨最前线",
@@ -34,6 +58,18 @@
     "publishedAt": "2026-03-22T03:13:20.000Z",
     "language": "en",
     "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "BBC Technology",
+    "title": "英国广播公司调查后从TikTok中删除的性化黑人女性的人工智能视频",
+    "originalTitle": "AI videos of sexualised black women removed from TikTok after BBC investigation",
+    "summary": "BBC发现，数十个Instagram和TikTok帐户使用人工智能头像来推广露骨的内容。",
+    "originalSummary": "Dozens of Instagram and TikTok accounts have used AI avatars to promote explicit content, the BBC finds.",
+    "url": "https://www.bbc.com/news/articles/c070e283k8vo?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-03-22T00:45:45.000Z",
+    "language": "en",
+    "category": "综合科技"
   },
   {
     "id": "aHR0cHM6Ly93",
@@ -154,18 +190,6 @@
     "publishedAt": "2026-03-21T14:40:00.000Z",
     "language": "en",
     "category": "科技文化"
-  },
-  {
-    "id": "aHR0cHM6Ly90",
-    "source": "TechCrunch",
-    "title": "聚变电源的工作原理以及追求聚变电源的初创公司",
-    "originalTitle": "How fusion power works and the startups pursuing it",
-    "summary": "聚变发电有望从几乎无限的燃料中产生大量的清洁电力。本文介绍了主要方法和使用它们的公司。",
-    "originalSummary": "Fusion power promises to generate large amounts of clean electricity from nearly limitless fuel. This article explains the main approaches and the companies that use them.",
-    "url": "https://techcrunch.com/2026/03/21/how-fusion-power-works-and-the-startups-pursuing-it/",
-    "publishedAt": "2026-03-21T14:00:00.000Z",
-    "language": "en",
-    "category": "科技创业"
   },
   {
     "id": "aHR0cHM6Ly93",
@@ -454,29 +478,5 @@
     "publishedAt": "2026-03-20T03:12:03.000Z",
     "language": "zh",
     "category": "数码生活"
-  },
-  {
-    "id": "aHR0cHM6Ly9z",
-    "source": "少数派",
-    "title": "派早报：小米发布多款新品、稀宇科技发布 MiniMax-M2.7 模型等",
-    "originalTitle": "派早报：小米发布多款新品、稀宇科技发布 MiniMax-M2.7 模型等",
-    "summary": "Google Stitch 引入 vibe design 设计理念，飞利浦推出全新 Moving Sound 系列等。查看全文",
-    "originalSummary": "Google Stitch 引入 vibe design 设计理念，飞利浦推出全新 Moving Sound 系列等。查看全文",
-    "url": "https://sspai.com/post/107563",
-    "publishedAt": "2026-03-20T00:38:32.000Z",
-    "language": "zh",
-    "category": "数码生活"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "BBC Technology",
-    "title": "Facebook向TikTok和YouTube创作者提供3000 $来发布内容",
-    "originalTitle": "Facebook offering TikTok and YouTube creators $3,000 to post content",
-    "summary": "Meta希望创作者“重新发现” Facebook ，但一位社交媒体专家表示，观众不会关注。",
-    "originalSummary": "Meta wants creators to \"rediscover\" Facebook, but a social media expert says viewers will not follow.",
-    "url": "https://www.bbc.com/news/articles/c895wwp3kqlo?at_medium=RSS&at_campaign=rss",
-    "publishedAt": "2026-03-19T15:33:22.000Z",
-    "language": "en",
-    "category": "综合科技"
   }
 ]
