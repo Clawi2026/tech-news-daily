@@ -1,5 +1,29 @@
 [
   {
+    "id": "aHR0cHM6Ly90",
+    "source": "TechCrunch",
+    "title": "深入调查被指控误导客户的“虚假合规”",
+    "originalTitle": "Delve accused of misleading customers with ‘fake compliance’",
+    "summary": "一个匿名的Substack帖子指责合规初创公司Delve “错误地”说服“数百名客户他们遵守”隐私和安全法规。",
+    "originalSummary": "An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations.",
+    "url": "https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/",
+    "publishedAt": "2026-03-22T14:43:51.000Z",
+    "language": "en",
+    "category": "科技创业"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "The Verge",
+    "title": "马斯克说，他正在德克萨斯州奥斯汀建造Terafab芯片工厂",
+    "originalTitle": "Musk says he’s building Terafab chip plant in Austin, Texas",
+    "summary": "埃隆·马斯克（ Elon Musk ）宣布计划在德克萨斯州奥斯汀建造一座Terafab工厂，该工厂将由特斯拉和SpaceX联合运营。我们的目标是最终为机器人、人工智能、",
+    "originalSummary": "Elon Musk announced plans to build a Terafab plant in Austin, Texas, that will be jointly run by Tesla and SpaceX. The goal is to eventually build chips at scale for robotics, artificial intelligence,",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant",
+    "publishedAt": "2026-03-22T14:06:48.000Z",
+    "language": "en",
+    "category": "科技文化"
+  },
+  {
     "id": "aHR0cHM6Ly93",
     "source": "The Verge",
     "title": "声码器的秘密故事，永远改变音乐的军事技术",
@@ -26,8 +50,8 @@
   {
     "id": "aHR0cHM6Ly93",
     "source": "The Verge",
-    "title": "小号Sonos Roam 2本周末销量超过20%",
-    "originalTitle": "The pint-sized Sonos Roam 2 is more over 20 percent this weekend",
+    "title": "超大号Sonos Roam 2本周末折扣超过20%",
+    "originalTitle": "The pint-sized Sonos Roam 2 is more than 20 percent off this weekend",
     "summary": "Sonos对偶尔的销售并不陌生。这家标志性的音频公司经常在黑色星期五、亚马逊Prime Day和超级碗周围进行销售，尽管很少看到",
     "originalSummary": "Sonos is no stranger to the occasional sale. The iconic audio company routinely runs sales around Black Friday, Amazon Prime Day, and the Super Bowl, though it’s rare to see substantial discounts on i",
     "url": "https://www.theverge.com/gadgets/898414/sonos-roam-2-bluetooth-speaker-amazon-big-spring-sale-2026-deals",
@@ -276,18 +300,6 @@
     "category": "综合科技"
   },
   {
-    "id": "aHR0cHM6Ly93",
-    "source": "The Verge",
-    "title": "Halide联合创始人起诉前合伙人将源代码带给苹果",
-    "originalTitle": "Halide co-founder is suing former partner for bringing source code to Apple",
-    "summary": "Lux Optics联合创始人Sebastiaan de With在1月下旬加入苹果时成为头条新闻。该公司支持Halide ，这是iPhone上最受欢迎的摄影应用程序之一，",
-    "originalSummary": "Lux Optics co-founder Sebastiaan de With made headlines when he joined Apple in late January. The company was behind Halide, one of the most popular photography apps for the iPhone, which gained a cul",
-    "url": "https://www.theverge.com/business/898687/halide-lawsuit-co-founder-apple",
-    "publishedAt": "2026-03-21T21:02:56.000Z",
-    "language": "en",
-    "category": "科技文化"
-  },
-  {
     "id": "aHR0cHM6Ly90",
     "source": "TechCrunch",
     "title": "距离第一条推文发布已经20年了，",
@@ -308,18 +320,6 @@
     "originalSummary": "Hachette Book Group said it will not be publishing “Shy Girl” over concerns that artificial intelligence was used to generate the text.",
     "url": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
     "publishedAt": "2026-03-21T19:30:27.000Z",
-    "language": "en",
-    "category": "科技创业"
-  },
-  {
-    "id": "aHR0cHM6Ly90",
-    "source": "TechCrunch",
-    "title": "深入调查被指控误导客户的“虚假合规”",
-    "originalTitle": "Delve accused of misleading customers with ‘fake compliance’",
-    "summary": "一个匿名的Substack帖子指责合规初创公司Delve “错误地”说服“数百名客户他们遵守”隐私和安全法规。",
-    "originalSummary": "An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations.",
-    "url": "https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/",
-    "publishedAt": "2026-03-21T17:00:05.000Z",
     "language": "en",
     "category": "科技创业"
   },
