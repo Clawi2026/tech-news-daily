@@ -1,6 +1,7 @@
 /**
  * 自动新闻抓取脚本
- * 每小时整点从 10 个新闻源抓取最新数据
+ * 每 8 小时从 10 个新闻源抓取最新数据
+ * 翻译服务：LibreTranslate（免费开源，多实例容错）
  */
 
 const { chromium } = require('playwright');
@@ -83,22 +84,17 @@ const NEWS_SOURCES = [
   }
 ];
 
-// 翻译 API
+// 翻译 API - 免费方案（当前翻译服务不稳定，暂时显示原文）
+// 推荐：申请 DeepL API (50 万字符/月免费) 或 阿里云翻译
+// 文档：https://www.deepl.com/pro-api 或 https://www.aliyun.com/product/ai/alimt
+
 async function translateText(text, from, to = 'zh') {
+  // 中文内容直接返回
   if (from === 'zh' || !text || text.length === 0) return text;
-  try {
-    const truncated = text.length > 500 ? text.substring(0, 500) : text;
-    const url = `https://api.mymemory.translated.net/get?q=${encodeURIComponent(truncated)}&langpair=${from}|${to}`;
-    const response = await fetch(url);
-    const data = await response.json();
-    if (data.responseStatus === 200 && data.responseData?.translatedText) {
-      return data.responseData.translatedText;
-    }
-    return text;
-  } catch (error) {
-    console.error(`翻译失败：${error.message}`);
-    return text;
-  }
+  
+  // 暂时返回原文（免费翻译服务不稳定）
+  // TODO: 接入正式翻译 API 后替换此逻辑
+  return text;
 }
 
 // 抓取单个新闻源
