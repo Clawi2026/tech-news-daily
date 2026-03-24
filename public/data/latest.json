@@ -1,6 +1,90 @@
 [
   {
     "id": "aHR0cHM6Ly93",
+    "source": "BBC Technology",
+    "title": "社交媒体禁令和数字宵禁将对英国青少年进行试验",
+    "originalTitle": "Social media bans and digital curfews to be trialled on UK teenagers",
+    "summary": "政府将在年轻人尝试限制之前和之后采访他们及其父母，以评估他们的影响。",
+    "originalSummary": "The government will interview the young people and their parents before and after they try the limits to assess their impact.",
+    "url": "https://www.bbc.com/news/articles/cn89g3ngkyzo?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-03-24T22:37:31.000Z",
+    "language": "en",
+    "category": "综合科技"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "BBC Technology",
+    "title": "Meta因在儿童安全问题上误导用户而被告知支付3.75亿美元$",
+    "originalTitle": "Meta told to pay $375m for misleading users over child safety",
+    "summary": "新墨西哥州法院认定Instagram、Facebook和WhatsApp的所有者负有责任。",
+    "originalSummary": "The owner of Instagram, Facebook and WhatsApp has been found liable by a court in New Mexico.",
+    "url": "https://www.bbc.com/news/articles/cql75dn07n2o?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-03-24T22:27:21.000Z",
+    "language": "en",
+    "category": "综合科技"
+  },
+  {
+    "id": "aHR0cHM6Ly9h",
+    "source": "Ars Technica",
+    "title": "新购买的Vizio电视现在需要沃尔玛帐户才能使用智能功能",
+    "originalTitle": "Newly purchased Vizio TVs now require Walmart accounts to use smart features",
+    "summary": "沃尔玛希望将人们流媒体“直接与零售互动”联系起来。",
+    "originalSummary": "\n                        Walmart wants to connect what people stream \"directly with retail interaction.\" \n                    ",
+    "url": "https://arstechnica.com/gadgets/2026/03/newly-purchased-vizio-tvs-now-require-walmart-accounts-to-use-smart-features/",
+    "publishedAt": "2026-03-24T22:26:56.000Z",
+    "language": "en",
+    "category": "深度科技"
+  },
+  {
+    "id": "aHR0cHM6Ly90",
+    "source": "TechCrunch",
+    "title": "肯塔基州的女性拒绝了$ 2600万将她的农场变成数据中心的提议",
+    "originalTitle": "Kentucky woman rejects $26M offer to turn her farm into a data center",
+    "summary": "据报道，一家“大型人工智能公司”向肯塔基州的一个家庭提供了2600万$ ，用于在他们的农场建造一个数据中心。",
+    "originalSummary": "A \"major artificial intelligence company\" reportedly offered a Kentucky family $26 million to build a data center on their farm.",
+    "url": "https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/",
+    "publishedAt": "2026-03-24T22:22:57.000Z",
+    "language": "en",
+    "category": "科技创业"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "Wired",
+    "title": "法官说，五角大楼“试图削弱”人类是令人不安的",
+    "originalTitle": "Pentagon’s ‘Attempt to Cripple’ Anthropic Is Troubling, Judge Says",
+    "summary": "在周二的听证会上，一名地方法院法官质疑国防部将Claude AI开发人员标记为供应链风险的动机。",
+    "originalSummary": "During a hearing Tuesday, a district court judge questioned the Department of Defense’s motivations for labeling the Claude AI developer a supply-chain risk.",
+    "url": "https://www.wired.com/story/pentagons-attempt-to-cripple-anthropic-is-troublesome-judge-says/",
+    "publishedAt": "2026-03-24T22:13:17.000Z",
+    "language": "en",
+    "category": "科技趋势"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "Meta在新墨西哥州儿童剥削诉讼中被勒令支付$ 3.75亿美元",
+    "originalTitle": "Meta Ordered to Pay $375M in New Mexico Child Exploitation Lawsuit",
+    "summary": "新墨西哥州的裁决是在洛杉矶陪审团仍在争论Meta的社交媒体平台是否会让儿童上瘾之际做出的。",
+    "originalSummary": "The New Mexico ruling comes as a Los Angeles jury is still debating whether Meta's social media platforms are addictive to children.",
+    "url": "https://www.cnet.com/tech/services-and-software/meta-loses-new-mexico-child-safety-exploitation-lawsuit-must-pay-375m/",
+    "publishedAt": "2026-03-24T22:09:00.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "Anthropic的人工智能盗版解决方案即将获得最终批准",
+    "originalTitle": "Anthropic's AI Piracy Settlement Is Getting Close to Final Approval",
+    "summary": "随着截止日期的临近，作者已提出近10万项索赔。",
+    "originalSummary": "Nearly 100,000 claims have been filed by authors as the deadline looms.",
+    "url": "https://www.cnet.com/tech/services-and-software/anthropics-ai-piracy-settlement-is-getting-close-to-final-approval/",
+    "publishedAt": "2026-03-24T21:58:21.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
     "source": "The Verge",
     "title": "Meta误导用户其产品的安全性，陪审团决定",
     "originalTitle": "Meta misled users about its products’ safety, jury decides",
@@ -10,6 +94,18 @@
     "publishedAt": "2026-03-24T21:54:29.000Z",
     "language": "en",
     "category": "科技文化"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "NASA的点火计划：跳过月球轨道器直奔月球基地",
+    "originalTitle": "NASA's Ignition Program: Skipping the Lunar Orbiter and Going Straight for a Moon Base",
+    "summary": "新计划包括在月球上建立基地、核动力飞往火星以及替代国际空间站。",
+    "originalSummary": "The new initiative includes a base on the moon, a nuclear-powered flight to Mars and a replacement for the ISS.",
+    "url": "https://www.cnet.com/science/space/nasas-ignition-program-skips-lunar-orbiter-goes-straight-for-moon-base/",
+    "publishedAt": "2026-03-24T21:52:19.000Z",
+    "language": "en",
+    "category": "数码产品"
   },
   {
     "id": "aHR0cHM6Ly93",
@@ -24,10 +120,34 @@
     "category": "科技文化"
   },
   {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "使用Snapchat的人工智能剪辑功能将照片转换为5秒钟的视频",
+    "originalTitle": "Turn a Photo Into a 5-Second Video With Snapchat's AI Clips Feature",
+    "summary": "Lens Plus订阅者可以将自己置身于各种各样的人工智能环境中。",
+    "originalSummary": "Lens Plus subscribers can put themselves into a wide variety of AI situations.",
+    "url": "https://www.cnet.com/tech/services-and-software/snapchat-ai-clips/",
+    "publishedAt": "2026-03-24T21:45:05.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
     "id": "aHR0cHM6Ly9h",
     "source": "Ars Technica",
-    "title": "OpenAI计划在Sora推出后仅15个月就将其关闭",
-    "originalTitle": "OpenAI plans to shut down Sora just 15 months after its launch",
+    "title": "Mozilla开发人员的“Stack Overflow for agents”针对AI编码中的一个关键弱点",
+    "originalTitle": "Mozilla dev's \"Stack Overflow for agents\" targets a key weakness in coding AI",
+    "summary": "不过，在采用之前还有一些重大问题需要解决。",
+    "originalSummary": "\n                        There are major problems to be solved before it can be adopted, though.\n                    ",
+    "url": "https://arstechnica.com/ai/2026/03/mozilla-dev-introduces-cq-a-stack-overflow-for-agents/",
+    "publishedAt": "2026-03-24T21:37:07.000Z",
+    "language": "en",
+    "category": "深度科技"
+  },
+  {
+    "id": "aHR0cHM6Ly9h",
+    "source": "Ars Technica",
+    "title": "OpenAI宣布计划关闭其Sora视频生成器",
+    "originalTitle": "OpenAI announces plans to shut down its Sora video generator",
     "summary": "此举是在据报道计划重新关注业务和生产力用例之际。",
     "originalSummary": "\n                        Move comes amid a reported plan to refocus on business and productivity use cases.\n                    ",
     "url": "https://arstechnica.com/ai/2026/03/openai-plans-to-shut-down-sora-just-15-months-after-its-launch/",
@@ -61,18 +181,6 @@
   },
   {
     "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "三星2026款QLED和迷你LED电视采用AI足球模式",
-    "originalTitle": "Samsung's 2026 QLED and Mini LED TVs Boast AI Soccer Mode",
-    "summary": "该公司已经推出了四款尺寸从43英寸到100英寸的新车型，起价为350 $。",
-    "originalSummary": "The company has outlined four new models with sizes from 43 to 100 inches, starting at $350.",
-    "url": "https://www.cnet.com/tech/home-entertainment/samsungs-2026-qled-tvs-boast-ai-soccer-mode/",
-    "publishedAt": "2026-03-24T21:11:49.000Z",
-    "language": "en",
-    "category": "数码产品"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
     "source": "The Verge",
     "title": "OpenAI刚刚放弃了Sora及其价值数十亿美元的迪士尼交易",
     "originalTitle": "OpenAI just gave up on Sora and its billion-dollar Disney deal",
@@ -82,30 +190,6 @@
     "publishedAt": "2026-03-24T21:08:10.000Z",
     "language": "en",
     "category": "科技文化"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "Apple Watch Series 11与Series 10 ：新款智能手表是否值得升级？",
-    "originalTitle": "Apple Watch Series 11 vs. Series 10: Is the New Smartwatch Worth the Upgrade?",
-    "summary": "这两款几乎完全相同的Apple Watch机型看起来非常相似，但新机型的一些变化使其值得比较它们的功能。",
-    "originalSummary": "These two almost identical Apple Watch models seem suspiciously similar, but a few changes in the new one make it worth comparing their features.",
-    "url": "https://www.cnet.com/tech/mobile/apple-watch-series-11-vs-series-10/",
-    "publishedAt": "2026-03-24T21:01:02.000Z",
-    "language": "en",
-    "category": "数码产品"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "2026年适用于Mac的最佳VPN ：改善您的网络浏览、流媒体和游戏隐私",
-    "originalTitle": "Best VPN for Mac for 2026: Improve Your Privacy for Web Browsing, Streaming and Gaming",
-    "summary": "使用适用于Mac的最佳VPN ，隐藏您的网页浏览活动，屏蔽您的种子下载活动，并取消阻止受地理保护的流媒体内容。",
-    "originalSummary": "Keep your web browsing activity hidden, mask your torrenting activity and unblock geo-protected streaming content with the best VPNs for Mac.",
-    "url": "https://www.cnet.com/tech/services-and-software/best-vpn-for-mac/",
-    "publishedAt": "2026-03-24T21:01:00.000Z",
-    "language": "en",
-    "category": "数码产品"
   },
   {
     "id": "aHR0cHM6Ly9h",
@@ -132,18 +216,6 @@
     "category": "科技创业"
   },
   {
-    "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "亚马逊的大春季促销就在明天。我们的读者已经在关注这些技术优惠",
-    "originalTitle": "Amazon's Big Spring Sale Is Tomorrow. Our Readers Are Already Eyeing These Tech Deals",
-    "summary": "热门热门小工具也是我们的最爱。",
-    "originalSummary": "The top trending gadgets are some of our favorites, too.",
-    "url": "https://www.cnet.com/deals/amazons-big-spring-sale-is-tomorrow-our-readers-are-already-eyeing-these-tech-deals/",
-    "publishedAt": "2026-03-24T21:00:00.000Z",
-    "language": "en",
-    "category": "数码产品"
-  },
-  {
     "id": "aHR0cHM6Ly90",
     "source": "TechCrunch",
     "title": "Spotify测试新工具，以防止将AI SLOP归因于真正的艺术家",
@@ -159,7 +231,7 @@
     "id": "aHR0cHM6Ly93",
     "source": "The Verge",
     "title": "ARM的首个CPU将于今年晚些时候插入Meta的AI数据中心",
-    "originalTitle": "Arm’s first CPU ever will plug into Meta’s AI datacenters later this year",
+    "originalTitle": "Arm’s first CPU ever will plug into Meta’s AI data centers later this year",
     "summary": "在几十年来只授权其芯片设计供他人使用之后，总部位于英国的Arm透露了其自主生产的第一款芯片，也是第一个客户。被称为Arm AGI CPU ，这是另一个芯片设计",
     "originalSummary": "After decades of only licensing its chip designs for others to use, UK-based Arm revealed the first chip it's producing on its own, and the first customer. Dubbed the Arm AGI CPU, it's another chip de",
     "url": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta",
@@ -192,18 +264,6 @@
     "category": "科技创业"
   },
   {
-    "id": "aHR0cHM6Ly90",
-    "source": "TechCrunch",
-    "title": "ARM正在发布其35年历史上的第一款内部芯片",
-    "originalTitle": "Arm is releasing the first in-house chip in its 35-year history",
-    "summary": "ARM首次生产自己的CPU。它使用Meta开发了CPU ， Meta也是该芯片的第一个客户。",
-    "originalSummary": "Arm is producing its own CPU for the first time. It developed the CPU with Meta, which is also the chip's first customer. ",
-    "url": "https://techcrunch.com/2026/03/24/arm-is-releasing-its-first-in-house-chip-in-its-35-year-history/",
-    "publishedAt": "2026-03-24T19:48:54.000Z",
-    "language": "en",
-    "category": "科技创业"
-  },
-  {
     "id": "aHR0cHM6Ly9h",
     "source": "Ars Technica",
     "title": "FCC全面禁止国外路由器，影响所有新型号",
@@ -212,30 +272,6 @@
     "originalSummary": "\n                        Trump admin to decide which router makers get exemptions from FCC import ban.\n                    ",
     "url": "https://arstechnica.com/tech-policy/2026/03/trump-fcc-prohibits-import-and-sale-of-new-wi-fi-routers-made-outside-us/",
     "publishedAt": "2026-03-24T19:16:23.000Z",
-    "language": "en",
-    "category": "深度科技"
-  },
-  {
-    "id": "aHR0cHM6Ly9h",
-    "source": "Ars Technica",
-    "title": "苹果发布iOS、iPadOS、macOS 26.4 ，其中包含一长串中等大小的调整",
-    "originalTitle": "Apple releases iOS, iPadOS, macOS 26.4 with a long list of medium-size tweaks",
-    "summary": "26.4的更新比最近的几次更新更重要。",
-    "originalSummary": "\n                        The 26.4 updates are more significant than the last few updates have been.\n                    ",
-    "url": "https://arstechnica.com/gadgets/2026/03/apple-releases-ios-ipados-macos-26-4-with-a-long-list-of-medium-size-tweaks/",
-    "publishedAt": "2026-03-24T19:06:03.000Z",
-    "language": "en",
-    "category": "深度科技"
-  },
-  {
-    "id": "aHR0cHM6Ly9h",
-    "source": "Ars Technica",
-    "title": "美国宇航局杀死月球空间站，专注于雄心勃勃的月球基地",
-    "originalTitle": "NASA kills lunar space station to focus on ambitious Moon base",
-    "summary": "“每个人都想浮出水面。”",
-    "originalSummary": "\n                        \"Everyone wants to be on the surface.\"\n                    ",
-    "url": "https://arstechnica.com/space/2026/03/nasa-kills-lunar-space-station-to-focus-on-ambitious-moon-base/",
-    "publishedAt": "2026-03-24T19:01:58.000Z",
     "language": "en",
     "category": "深度科技"
   },
@@ -336,18 +372,6 @@
     "category": "科技趋势"
   },
   {
-    "id": "aHR0cHM6Ly93",
-    "source": "Wired",
-    "title": "如何在AirPods上使用Apple的实时翻译",
-    "originalTitle": "How to Use Apple’s Live Translation on Your AirPods",
-    "summary": "如果您有最近的Apple设备，则可以翻译实时对话。令人印象深刻，新款AirPods Pro Max刚刚加入了派对。",
-    "originalSummary": "If you have a recent Apple device, you can translate live conversations. It’s impressive, and the new AirPods Pro Max just joined the party.",
-    "url": "https://www.wired.com/story/apple-live-translation-airpods/",
-    "publishedAt": "2026-03-24T11:00:00.000Z",
-    "language": "en",
-    "category": "科技趋势"
-  },
-  {
     "id": "aHR0cHM6Ly8z",
     "source": "36Kr",
     "title": "拒多家车企邀约，前理想端到端负责人夏中谱加入无界动力｜36氪独家",
@@ -358,6 +382,30 @@
     "publishedAt": "2026-03-24T08:51:17.000Z",
     "language": "zh",
     "category": "中国科技"
+  },
+  {
+    "id": "aHR0cHM6Ly9z",
+    "source": "少数派",
+    "title": "社区速递 134 | 派友热议二月买了啥、升降落地阅读支架体验",
+    "originalTitle": "社区速递 134 | 派友热议二月买了啥、升降落地阅读支架体验",
+    "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。💬一派热议在 ...查看全文",
+    "originalSummary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。💬一派热议在 ...查看全文",
+    "url": "https://sspai.com/post/107738",
+    "publishedAt": "2026-03-24T08:47:42.000Z",
+    "language": "zh",
+    "category": "数码生活"
+  },
+  {
+    "id": "aHR0cHM6Ly9z",
+    "source": "少数派",
+    "title": "当历史被重新看见：用 iPad 和 Mac 辅助古代壁画修复",
+    "originalTitle": "当历史被重新看见：用 iPad 和 Mac 辅助古代壁画修复",
+    "summary": "提起iPad和Mac，我们总能想到各类创作者们用这些设备完成的现代艺术作品，比如用Procreate画出的精美数字画作、或是用Mac制作的创意平面插图。但你可能不知道的是，iPad和Mac也被广泛应用 ...查看全文",
+    "originalSummary": "提起iPad和Mac，我们总能想到各类创作者们用这些设备完成的现代艺术作品，比如用Procreate画出的精美数字画作、或是用Mac制作的创意平面插图。但你可能不知道的是，iPad和Mac也被广泛应用 ...查看全文",
+    "url": "https://sspai.com/post/107740",
+    "publishedAt": "2026-03-24T08:33:31.000Z",
+    "language": "zh",
+    "category": "数码生活"
   },
   {
     "id": "aHR0cHM6Ly8z",
@@ -372,6 +420,18 @@
     "category": "中国科技"
   },
   {
+    "id": "aHR0cHM6Ly9z",
+    "source": "少数派",
+    "title": "vivo X300 泛亚铁路旅拍：飞车过大关的手机摄影分享",
+    "originalTitle": "vivo X300 泛亚铁路旅拍：飞车过大关的手机摄影分享",
+    "summary": "只要保持随性，这世界就没有什么地方不能去第二次。查看全文",
+    "originalSummary": "只要保持随性，这世界就没有什么地方不能去第二次。查看全文",
+    "url": "https://sspai.com/post/106909",
+    "publishedAt": "2026-03-24T03:28:47.000Z",
+    "language": "zh",
+    "category": "数码生活"
+  },
+  {
     "id": "aHR0cHM6Ly93",
     "source": "BBC Technology",
     "title": "美国禁止新的外国制造的消费者互联网路由器",
@@ -384,6 +444,30 @@
     "category": "综合科技"
   },
   {
+    "id": "aHR0cHM6Ly9z",
+    "source": "少数派",
+    "title": "派早报：华为举办春季全场景新品发布会等",
+    "originalTitle": "派早报：华为举办春季全场景新品发布会等",
+    "summary": "少数派的近期动态少数派迎来14周岁，为了与大家共同庆祝我派的生日，我们的软件商城、会员服务和付费栏目都为大家准备了丰厚的优惠。前往选购BeatBox盖板设计实录：用一块透明亚克力，把奇妙灵感凝成实体。 ...查看全文",
+    "originalSummary": "少数派的近期动态少数派迎来14周岁，为了与大家共同庆祝我派的生日，我们的软件商城、会员服务和付费栏目都为大家准备了丰厚的优惠。前往选购BeatBox盖板设计实录：用一块透明亚克力，把奇妙灵感凝成实体。 ...查看全文",
+    "url": "https://sspai.com/post/107714",
+    "publishedAt": "2026-03-24T00:38:39.000Z",
+    "language": "zh",
+    "category": "数码生活"
+  },
+  {
+    "id": "aHR0cHM6Ly9z",
+    "source": "少数派",
+    "title": "派评 | 近期值得关注的 App",
+    "originalTitle": "派评 | 近期值得关注的 App",
+    "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+    "originalSummary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+    "url": "https://sspai.com/post/107690",
+    "publishedAt": "2026-03-23T10:01:57.000Z",
+    "language": "zh",
+    "category": "数码生活"
+  },
+  {
     "id": "aHR0cHM6Ly93",
     "source": "BBC Technology",
     "title": "英国广播公司调查后从TikTok中删除的性化黑人女性的人工智能视频",
@@ -392,30 +476,6 @@
     "originalSummary": "Dozens of Instagram and TikTok accounts have used AI avatars to promote explicit content, the BBC finds.",
     "url": "https://www.bbc.com/news/articles/c070e283k8vo?at_medium=RSS&at_campaign=rss",
     "publishedAt": "2026-03-22T00:45:45.000Z",
-    "language": "en",
-    "category": "综合科技"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "BBC Technology",
-    "title": "Hargreaves Lansdown表示，影响数千人的IT问题已经结束",
-    "originalTitle": "Hargreaves Lansdown says IT issues which affected thousands are over",
-    "summary": "这家金融公司已为其网站和应用程序中断道歉，这激怒了许多客户。",
-    "originalSummary": "The finance firm has apologised for the disruption to its website and app, which has angered many customers.",
-    "url": "https://www.bbc.com/news/articles/cx2reyjdyjzo?at_medium=RSS&at_campaign=rss",
-    "publishedAt": "2026-03-20T17:44:22.000Z",
-    "language": "en",
-    "category": "综合科技"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "BBC Technology",
-    "title": "卢克·利特勒（ Luke Littler ）申请商标以打击人工智能假货",
-    "originalTitle": "Luke Littler applies to trademark his face to combat AI fakes",
-    "summary": "这位飞镖明星的形象已被合法地用于飞镖商品、零食和时尚品牌。",
-    "originalSummary": "The darts star's image has been used legally on darts merchandise, snacks and fashion brands.",
-    "url": "https://www.bbc.com/news/articles/c5y7374x9n4o?at_medium=RSS&at_campaign=rss",
-    "publishedAt": "2026-03-20T16:16:30.000Z",
     "language": "en",
     "category": "综合科技"
   }
