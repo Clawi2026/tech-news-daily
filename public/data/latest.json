@@ -1,6 +1,246 @@
 [
   {
     "id": "aHR0cHM6Ly93",
+    "source": "The Verge",
+    "title": "Apple Maps将于今年夏天推出广告",
+    "originalTitle": "Apple Maps will introduce ads this summer",
+    "summary": "苹果很快将允许企业在其地图应用程序中购买广告。在周二的公告中，苹果公司表示，广告可能会出现在地图搜索结果的顶部，以及新的“建议”",
+    "originalSummary": "Apple will soon allow businesses to buy advertisements in its Maps app. In an announcement on Tuesday, Apple says ads may appear at the top of your search results in Maps, as well as in a new \"Suggest",
+    "url": "https://www.theverge.com/tech/899597/apple-maps-ads-launch-summer-2026",
+    "publishedAt": "2026-03-24T15:44:59.000Z",
+    "language": "en",
+    "category": "科技文化"
+  },
+  {
+    "id": "aHR0cHM6Ly90",
+    "source": "TechCrunch",
+    "title": "Epic Games裁员1000人，《堡垒之夜》参与度下降",
+    "originalTitle": "Epic Games cuts 1,000 jobs, says Fortnite engagement is down",
+    "summary": "Epic Games还提高了《堡垒之夜》游戏货币V-Bucks的价格。",
+    "originalSummary": "Epic Games also increased the price of V-Bucks, the Fortnite in-game currency.",
+    "url": "https://techcrunch.com/2026/03/24/epic-games-cuts-1000-jobs-says-fortnite-engagement-is-down/",
+    "publishedAt": "2026-03-24T15:17:32.000Z",
+    "language": "en",
+    "category": "科技创业"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "机场安检线路非常长。查看离开前的等待时间",
+    "originalTitle": "Airport Security Lines Are Ridiculously Long. Check the Wait Time Before You Leave",
+    "summary": "在某些机场，您甚至可以通过安全热线预订从人群中溜走。",
+    "originalSummary": "You might even be able to sneak past the crowd with a security-line reservation at certain airports.",
+    "url": "https://www.cnet.com/tech/airport-security-delays-check-your-wait-time/",
+    "publishedAt": "2026-03-24T15:10:42.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "The Verge",
+    "title": "神奇宝贝英雄将于4月8日登陆Nintendo Switch",
+    "originalTitle": "Pokémon Champions is coming to the Nintendo Switch on April 8th",
+    "summary": "现在， Pokopia让每个人都忙于建造房屋和美化世界，但下个月，我们将让我们的口袋怪兽朋友在Pokémon Champions中为运动而战。今天，任天堂",
+    "originalSummary": "Right now, Pokopia has everyone busy building houses and beautifying the world, but next month, we'll be making our pocket monster friends fight for sport in Pok&#233;mon Champions. Today, Nintendo an",
+    "url": "https://www.theverge.com/games/899535/pokemon-champions-is-coming-to-the-nintendo-switch-on-april-8th",
+    "publishedAt": "2026-03-24T15:10:25.000Z",
+    "language": "en",
+    "category": "科技文化"
+  },
+  {
+    "id": "aHR0cHM6Ly90",
+    "source": "TechCrunch",
+    "title": "Flighty的最新动态为您提供有关机场骚乱的实时提醒",
+    "originalTitle": "Flighty’s new update gives you real-time alerts about airport disturbances",
+    "summary": "Flighty的新功能将为用户提供有关机场运营中断原因的实时更新。",
+    "originalSummary": "Flighty's new feature will give users real-time updates about why operations at an airport are disrupted.",
+    "url": "https://techcrunch.com/2026/03/24/flightys-new-update-gives-you-real-time-alerts-about-airport-disturbances/",
+    "publishedAt": "2026-03-24T15:05:29.000Z",
+    "language": "en",
+    "category": "科技创业"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "iPhone用户请立即执行此操作，以保护您的手机免受“DarkSword”黑客的攻击",
+    "originalTitle": "iPhone Owners, Do This Now to Secure Your Phone From 'DarkSword' Hackers",
+    "summary": "新的报告显示，不良行为者比以前更容易监控您的iPhone。通过这种方式，您可以轻松保护您的设备。",
+    "originalSummary": "New reports indicate it's easier than before for bad actors to surveil your iPhone. This is how you can easily secure your device.",
+    "url": "https://www.cnet.com/tech/services-and-software/darksword-iphone-hack-spyware-safety-news/",
+    "publishedAt": "2026-03-24T15:00:57.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly90",
+    "source": "TechCrunch",
+    "title": "随着苹果扩大业务范围，苹果地图将推出广告",
+    "originalTitle": "Ads are coming to Apple Maps, as Apple expands its business offerings",
+    "summary": "Apple Maps将于今年夏天在美国和加拿大推出广告。此外， Apple Business新套件将于4月14日推出。",
+    "originalSummary": "Apple Maps will launch ads this summer in the U.S. and Canada. Plus, a new suite of Apple Business offerings arrives April 14. ",
+    "url": "https://techcrunch.com/2026/03/24/apple-maps-ads-apple-business/",
+    "publishedAt": "2026-03-24T15:00:00.000Z",
+    "language": "en",
+    "category": "科技创业"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "The Verge",
+    "title": "Meta对儿童安全的考虑掌握在两个陪审团手中",
+    "originalTitle": "Meta’s reckoning over kids safety is in the hands of two juries",
+    "summary": "两个陪审团目前正在审议一系列案件，这些案件可能会引发对Meta的法律清算，或者在艰难的战斗中维持现状，以便对科技公司实施变更或处罚",
+    "originalSummary": "Two juries are currently deliberating a series of cases that could either usher in a legal reckoning for Meta, or maintain the status quo in an uphill battle to impose changes or penalties on tech pla",
+    "url": "https://www.theverge.com/policy/899494/meta-new-mexico-los-angeles-kids-safety-jury-trial",
+    "publishedAt": "2026-03-24T14:56:31.000Z",
+    "language": "en",
+    "category": "科技文化"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "The Verge",
+    "title": "Fortnite制造商Epic正在裁员1000多人",
+    "originalTitle": "Fortnite maker Epic is laying off over 1,000 workers",
+    "summary": "裁员再次打击了Fortnite开发商Epic Games。今天，首席执行官蒂姆·斯威尼（ Tim Sweeney ）宣布，该公司正在裁员1000多人，理由是《堡垒之夜》的",
+    "originalSummary": "Layoffs have hit Fortnite developer Epic Games again. Today CEO Tim Sweeney announced that the company is cutting more than 1,000 jobs, citing a downturn in engagement for Fortnite dating back to last",
+    "url": "https://www.theverge.com/games/899529/epic-games-layoffs-fortnite",
+    "publishedAt": "2026-03-24T14:54:28.000Z",
+    "language": "en",
+    "category": "科技文化"
+  },
+  {
+    "id": "aHR0cHM6Ly8z",
+    "source": "36Kr",
+    "title": "科氪 | 性能之上，圆满之作：一加 15T 深度评测",
+    "originalTitle": "科氪 | 性能之上，圆满之作：一加 15T 深度评测",
+    "summary": "\n \n \n  小屏直板旗舰的“终极形态”\n  在移动影像和超大电池日益占据手机内部空间的今天，“小屏”与“旗舰”的兼容性始终是行业的终极课题。上一代一加 13T 的出现，已经打破了“小屏必弱性能”的魔咒，其强悍的调度和长续航让市场看到了小屏机的上限。然而，对于极致追求完美的玩家来说，影像上的克制始终是 13T 留下的遗憾。\n  现在，一加 15T 正式登场。它不仅仅是性能的延续，更是对“全能”二字",
+    "originalSummary": "\n \n \n  小屏直板旗舰的“终极形态”\n  在移动影像和超大电池日益占据手机内部空间的今天，“小屏”与“旗舰”的兼容性始终是行业的终极课题。上一代一加 13T 的出现，已经打破了“小屏必弱性能”的魔咒，其强悍的调度和长续航让市场看到了小屏机的上限。然而，对于极致追求完美的玩家来说，影像上的克制始终是 13T 留下的遗憾。\n  现在，一加 15T 正式登场。它不仅仅是性能的延续，更是对“全能”二字",
+    "url": "https://36kr.com/p/3737032976220167?f=rss",
+    "publishedAt": "2026-03-24T14:51:57.000Z",
+    "language": "zh",
+    "category": "中国科技"
+  },
+  {
+    "id": "aHR0cHM6Ly90",
+    "source": "TechCrunch",
+    "title": "Roku的$ 3 Howdy订阅服务在Prime Video上推出",
+    "originalTitle": "Roku’s $3 Howdy subscription service launches on Prime Video",
+    "summary": "Howdy于2025年8月推出，拥有来自其合作伙伴的近10,000小时内容库，包括Lionsgate ， Sony Pictures ， Disney Entertainment ， Warner Bros. Discovery和FilmRise ，",
+    "originalSummary": "Launched in August 2025, Howdy features a library of nearly 10,000 hours of content from its partners, including Lionsgate, Sony Pictures, Disney Entertainment, Warner Bros. Discovery, and FilmRise, a",
+    "url": "https://techcrunch.com/2026/03/24/rokus-3-howdy-subscription-service-launches-on-prime-video/",
+    "publishedAt": "2026-03-24T14:39:26.000Z",
+    "language": "en",
+    "category": "科技创业"
+  },
+  {
+    "id": "aHR0cHM6Ly9h",
+    "source": "Ars Technica",
+    "title": "研究表明，道路给森林带来更多的火灾；美国农业部希望有更多的道路来灭火",
+    "originalTitle": "Study says roads bring more fires to forests; USDA wants more roads to fight fires",
+    "summary": "反对者表示，拟议的规则将是对木材行业的一种赠品。",
+    "originalSummary": "\n                        Opponents say the proposed rule would be a giveaway to the timber industry.\n                    ",
+    "url": "https://arstechnica.com/science/2026/03/study-says-roads-bring-more-fire-to-forests-usda-wants-more-roads-to-fight-fires/",
+    "publishedAt": "2026-03-24T14:37:33.000Z",
+    "language": "en",
+    "category": "深度科技"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "The Verge",
+    "title": "约翰迪尔（ John Deere ）、佳明（ Garmin ）和飞利浦（ Philips ）可能已经破坏了军方维修",
+    "originalTitle": "John Deere, Garmin, and Philips may have undermined military right to repair",
+    "summary": "去年，国会从年度国防政策法案中删除了广泛支持的军事维修权条款-现在我们可能知道是谁在推动他们这样做。最近发布的游说代表",
+    "originalSummary": "Last year, Congress dropped widely supported military right-to-repair provisions from the annual defense policy bill - and now we may know who was pushing them to do it. Recently released lobbying rep",
+    "url": "https://www.theverge.com/policy/899471/military-right-to-repair-john-deere-philips-garmin",
+    "publishedAt": "2026-03-24T14:34:34.000Z",
+    "language": "en",
+    "category": "科技文化"
+  },
+  {
+    "id": "aHR0cHM6Ly90",
+    "source": "TechCrunch",
+    "title": "FCC以安全风险为由禁止进口在海外生产的新消费路由器",
+    "originalTitle": "FCC bans import of new consumer routers made overseas, citing security risks",
+    "summary": "该机构负责人布伦丹·卡尔（ Brendan Carr ）表示， FCC的禁令将影响所有新的外国制造消费路由器的进口。",
+    "originalSummary": "The FCC ban will affect the import of all new, foreign-made consumer routers, the agency's head Brendan Carr said.",
+    "url": "https://techcrunch.com/2026/03/24/fcc-bans-import-of-new-consumer-routers-made-overseas-citing-security-risks/",
+    "publishedAt": "2026-03-24T14:32:59.000Z",
+    "language": "en",
+    "category": "科技创业"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "我测试过的最好的无绳吸尘器售价仅为153 $",
+    "originalTitle": "The Best Cordless Vacuum I've Tested Is on Sale for Just $153",
+    "summary": "在我们的测试中，这款尤里卡的表现优于竞争对手，在亚马逊的大春季促销期间，它获得了不错的折扣。",
+    "originalSummary": "This Eureka outperformed the competition during our tests, and it gets a nice discount during Amazon's Big Spring Sale.",
+    "url": "https://www.cnet.com/deals/best-cordless-vacuum-amazon-spring-sale-eureka-reactisense-440/",
+    "publishedAt": "2026-03-24T14:01:23.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "随着泄漏安装， Apple的可折叠iPhone设计和时间表成为焦点",
+    "originalTitle": "Apple's Foldable iPhone Design and Timeline Come Into Focus as Leaks Mount",
+    "summary": "最新的CAD泄漏和谣言正在更清晰地描绘即将到来的内容以及传闻中的iPhone Fold何时到达。",
+    "originalSummary": "The latest CAD leaks and rumors are painting a clearer picture of what's coming and when the rumored iPhone Fold would arrive.",
+    "url": "https://www.cnet.com/tech/mobile/apple-foldable-iphone-leak-render/",
+    "publishedAt": "2026-03-24T14:01:21.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "Amnezia推出全新VPN协议，领先于审查机构",
+    "originalTitle": "Amnezia Has a New VPN Protocol to Stay a Step Ahead of Censors",
+    "summary": "这家总部位于塞浦路斯的公司正在实施一项新技术，以保持伊朗人、俄罗斯人和其他人的在线状态。",
+    "originalSummary": "The Cyprus-based company is implementing a new technique for keeping Iranians, Russians and others online.",
+    "url": "https://www.cnet.com/tech/services-and-software/amnezia-vpn-new-protocol-amneziawg-v2/",
+    "publishedAt": "2026-03-24T14:00:58.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly8z",
+    "source": "36Kr",
+    "title": "腾讯挖来多位字节Seed骨干，向姚顺雨汇报丨智能涌现独家",
+    "originalTitle": "腾讯挖来多位字节Seed骨干，向姚顺雨汇报丨智能涌现独家",
+    "summary": "\n \n \n  文｜周鑫雨\n  编辑｜苏建勋\n  自2025年9月姚顺雨加入腾讯以来，被视为腾讯重注基础模型的持续信号，事实上，在整个2025年，腾讯都在疯狂向业界招揽大模型基础设施领域人才，当中，出现了多位“字节系”技术骨干的身影。\n  据接近腾讯混元团队的知情人士透露，原字节Seed视觉AI平台团队负责人肖学锋，Infra团队张弛于近期低调入职腾讯，负责大模型Infra相关工作，向腾讯首席AI科",
+    "originalSummary": "\n \n \n  文｜周鑫雨\n  编辑｜苏建勋\n  自2025年9月姚顺雨加入腾讯以来，被视为腾讯重注基础模型的持续信号，事实上，在整个2025年，腾讯都在疯狂向业界招揽大模型基础设施领域人才，当中，出现了多位“字节系”技术骨干的身影。\n  据接近腾讯混元团队的知情人士透露，原字节Seed视觉AI平台团队负责人肖学锋，Infra团队张弛于近期低调入职腾讯，负责大模型Infra相关工作，向腾讯首席AI科",
+    "url": "https://36kr.com/p/3736935323254785?f=rss",
+    "publishedAt": "2026-03-24T12:51:34.000Z",
+    "language": "zh",
+    "category": "中国科技"
+  },
+  {
+    "id": "aHR0cHM6Ly9h",
+    "source": "Ars Technica",
+    "title": "自我传播的恶意软件毒害开源软件并清除位于伊朗的机器",
+    "originalTitle": "Self-propagating malware poisons open source software and wipes Iran-based machines",
+    "summary": "发展机构：是时候检查您的网络是否有感染了。",
+    "originalSummary": "\n                        Development houses: It's time to check your networks for infections.\n                    ",
+    "url": "https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/",
+    "publishedAt": "2026-03-24T12:38:09.000Z",
+    "language": "en",
+    "category": "深度科技"
+  },
+  {
+    "id": "aHR0cHM6Ly8z",
+    "source": "36Kr",
+    "title": "氪星晚报 ｜卢伟冰：今年小米在AI领域的研发和资本投入预计将超160亿；蜜雪集团：2025年营收335.6亿元，同比增长35.2%；汇丰任命首位首席AI官",
+    "originalTitle": "氪星晚报 ｜卢伟冰：今年小米在AI领域的研发和资本投入预计将超160亿；蜜雪集团：2025年营收335.6亿元，同比增长35.2%；汇丰任命首位首席AI官",
+    "summary": "\n \n \n  大公司：\n  农夫山泉：2025全年营收525.5亿元，同比增长22.5%\n  36氪获悉，农夫山泉公告，2025年营收525.5亿元，同比增长22.5%，预估505.3亿元； 全年净利润158.7亿元，同比增长30.9%，预估149.9亿元；每股末期股息0.99元。\n  卢伟冰：今年小米在AI领域的研发和资本投入预计将超160亿\n  36氪获悉，3月24日，小米集团合伙人、集团总裁",
+    "originalSummary": "\n \n \n  大公司：\n  农夫山泉：2025全年营收525.5亿元，同比增长22.5%\n  36氪获悉，农夫山泉公告，2025年营收525.5亿元，同比增长22.5%，预估505.3亿元； 全年净利润158.7亿元，同比增长30.9%，预估149.9亿元；每股末期股息0.99元。\n  卢伟冰：今年小米在AI领域的研发和资本投入预计将超160亿\n  36氪获悉，3月24日，小米集团合伙人、集团总裁",
+    "url": "https://36kr.com/p/3736886988374024?f=rss",
+    "publishedAt": "2026-03-24T12:02:40.000Z",
+    "language": "zh",
+    "category": "中国科技"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
     "source": "Wired",
     "title": "Clear Drop软塑料压实机评测：生态实验",
     "originalTitle": "Clear Drop Soft Plastic Compactor Review: Eco Experiment",
@@ -10,6 +250,18 @@
     "publishedAt": "2026-03-24T11:30:00.000Z",
     "language": "en",
     "category": "科技趋势"
+  },
+  {
+    "id": "aHR0cHM6Ly9h",
+    "source": "Ars Technica",
+    "title": "轨道数据中心，第1部分：这在经济上不可行，对吧？",
+    "originalTitle": "Orbital data centers, part 1: There’s no way this is economically viable, right?",
+    "summary": "“这在物理上并不是不可能的；这只是一个问题，这是否是一件理性的事情。”",
+    "originalSummary": "\n                        \"This is not physically impossible; it’s only a question of whether this is a rational thing.\"\n                    ",
+    "url": "https://arstechnica.com/space/2026/03/orbital-data-centers-part-1-theres-no-way-this-is-economically-viable-right/",
+    "publishedAt": "2026-03-24T11:00:59.000Z",
+    "language": "en",
+    "category": "深度科技"
   },
   {
     "id": "aHR0cHM6Ly93",
@@ -22,42 +274,6 @@
     "publishedAt": "2026-03-24T11:00:00.000Z",
     "language": "en",
     "category": "科技趋势"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "这种常见的烹饪错误可能会将微塑料添加到您的食物中",
-    "originalTitle": "This Common Cooking Mistake Could Be Adding Microplastic to Your Food",
-    "summary": "我们知道这很诱人，但您不应该将外卖剩菜放入进来的容器中加热。",
-    "originalSummary": "We know it's tempting, but you shouldn't heat up your takeout leftovers in the container they came in.",
-    "url": "https://www.cnet.com/news/microplastics-could-be-leaching-into-your-food-if-youre-making-this-simple-mistake/",
-    "publishedAt": "2026-03-24T11:00:00.000Z",
-    "language": "en",
-    "category": "数码产品"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "您可能使用了过多的洗涤剂。专家解释为什么这很糟糕",
-    "originalTitle": "You're Probably Using Too Much Detergent. An Expert Explains Why That's Bad",
-    "summary": "我们向专家询问了洗衣日困扰您的七大错误。",
-    "originalSummary": "We asked an expert about the seven biggest mistakes plaguing you on laundry day.",
-    "url": "https://www.cnet.com/news/youre-probably-using-too-much-detergent-an-expert-explains-why-thats-bad/",
-    "publishedAt": "2026-03-24T10:56:38.000Z",
-    "language": "en",
-    "category": "数码产品"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "2026年牙医推荐的最佳美白牙膏",
-    "originalTitle": "The Best Whitening Toothpaste of 2026, Recommended by Dentists",
-    "summary": "无论您是敏感牙齿还是正在寻找氟化物替代品，这些都是牙医推荐的最佳珍珠白美白牙膏。",
-    "originalSummary": "Whether you have sensitive teeth or are looking for a fluoride alternative, these are the best dentist-recommended whitening toothpastes for your pearly whites.",
-    "url": "https://www.cnet.com/health/personal-care/best-whitening-toothpaste/",
-    "publishedAt": "2026-03-24T10:54:00.000Z",
-    "language": "en",
-    "category": "数码产品"
   },
   {
     "id": "aHR0cHM6Ly93",
@@ -82,42 +298,6 @@
     "publishedAt": "2026-03-24T10:30:00.000Z",
     "language": "en",
     "category": "科技趋势"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "2026年最便宜的手机：您无需为下一部手机支付大量费用",
-    "originalTitle": "Best Cheap Phone of 2026: You Don’t Need to Pay a Lot for Your Next Phone",
-    "summary": "在我们测试的许多新智能手机中，最便宜的手机包括iPhone 17E、Google Pixel 10A和摩托罗拉Razr。",
-    "originalSummary": "Among the many new smartphones we’ve tested, the best cheap phones include the iPhone 17E, the Google Pixel 10A and the Motorola Razr.",
-    "url": "https://www.cnet.com/tech/mobile/best-cheap-phone/",
-    "publishedAt": "2026-03-24T10:30:00.000Z",
-    "language": "en",
-    "category": "数码产品"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "好的浓缩咖啡需要精确度。以下是每次拍摄时喝多少咖啡",
-    "originalTitle": "Good Espresso Requires Precision. Here's How Much Coffee Goes in Every Shot",
-    "summary": "酿造时有一个精确测量的浓缩咖啡头。以下是如何在家里的咖啡吧摆放咖啡的方法。",
-    "originalSummary": "There's an exact measurement espresso heads use when brewing. Here's how to nail it at your home coffee bar.",
-    "url": "https://www.cnet.com/home/kitchen-and-household/how-to-make-perfect-espresso-at-home/",
-    "publishedAt": "2026-03-24T10:05:50.000Z",
-    "language": "en",
-    "category": "数码产品"
-  },
-  {
-    "id": "aHR0cHM6Ly90",
-    "source": "TechCrunch",
-    "title": "随着Oura加紧抓地力， Ultrahuman在Ring Pro上加大了美国的推动力度",
-    "originalTitle": "Ultrahuman ramps up U.S. push with Ring Pro as Oura tightens its grip",
-    "summary": "Ultrahuman通过Ring Pro重新进入美国，因为Oura在推动全球60 ％需求的市场中加强了领先地位。",
-    "originalSummary": "Ultrahuman pushes back into the U.S. with Ring Pro, as Oura strengthens its lead in a market driving 60% of global demand.",
-    "url": "https://techcrunch.com/2026/03/24/ultrahuman-ramps-up-u-s-push-with-ring-pro-as-oura-tightens-grip/",
-    "publishedAt": "2026-03-24T10:00:00.000Z",
-    "language": "en",
-    "category": "科技创业"
   },
   {
     "id": "aHR0cHM6Ly93",
@@ -180,30 +360,6 @@
     "category": "中国科技"
   },
   {
-    "id": "aHR0cHM6Ly8z",
-    "source": "36Kr",
-    "title": "黑石加仓，热钱蓄势：2026 年中国商办投资迎来布局窗口期？",
-    "originalTitle": "黑石加仓，热钱蓄势：2026 年中国商办投资迎来布局窗口期？",
-    "summary": "\n \n \n  01.遇事不决不动产\n  投资圈近期最热的话题，莫过于OpenAI、Anthropic即将IPO的消息。\n  一直以来，位于行业塔尖的企业总有着最高的确定性与最惊人的估值，更何况是风头正盛的人工智能。在最新一轮的融资后，OpenAI的估值已超过50000亿人民币，与门内顿足捶胸的英伟达相比，更苦闷的是门外守着的诸多顶级财团——\n  即便不谈全球范围的量化宽松，优质标的也远比寻找机会的",
-    "originalSummary": "\n \n \n  01.遇事不决不动产\n  投资圈近期最热的话题，莫过于OpenAI、Anthropic即将IPO的消息。\n  一直以来，位于行业塔尖的企业总有着最高的确定性与最惊人的估值，更何况是风头正盛的人工智能。在最新一轮的融资后，OpenAI的估值已超过50000亿人民币，与门内顿足捶胸的英伟达相比，更苦闷的是门外守着的诸多顶级财团——\n  即便不谈全球范围的量化宽松，优质标的也远比寻找机会的",
-    "url": "https://36kr.com/p/3736572995813636?f=rss",
-    "publishedAt": "2026-03-24T06:44:30.000Z",
-    "language": "zh",
-    "category": "中国科技"
-  },
-  {
-    "id": "aHR0cHM6Ly90",
-    "source": "TechCrunch",
-    "title": "Delve暂停演示， Insight Partners在“虚假合规”指控中清洗投资帖子",
-    "originalTitle": "Delve halts demos, Insight Partners scrubs investment post amid ‘fake compliance’ allegations",
-    "summary": "在一名举报人声称这家初创公司捏造了审计证据后，其著名的A轮投资者删除了一篇详细说明其领导这笔交易的原因的文章。",
-    "originalSummary": "After a whistleblower alleged that the startup fabricated audit evidence, its prominent Series A investor removed an article detailing why it led the deal. ",
-    "url": "https://techcrunch.com/2026/03/23/delve-halts-demos-insight-partners-scrubs-investment-post-amid-fake-compliance-allegations/",
-    "publishedAt": "2026-03-24T05:26:20.000Z",
-    "language": "en",
-    "category": "科技创业"
-  },
-  {
     "id": "aHR0cHM6Ly9z",
     "source": "少数派",
     "title": "vivo X300 泛亚铁路旅拍：飞车过大关的手机摄影分享",
@@ -214,18 +370,6 @@
     "publishedAt": "2026-03-24T03:28:47.000Z",
     "language": "zh",
     "category": "数码生活"
-  },
-  {
-    "id": "aHR0cHM6Ly8z",
-    "source": "36Kr",
-    "title": "珀乐互动完成天使轮融资，以AI+IP重塑数字内容生态 | 36氪首发",
-    "originalTitle": "珀乐互动完成天使轮融资，以AI+IP重塑数字内容生态 | 36氪首发",
-    "summary": "\n \n \n  36氪获悉，以AI为核心的数字内容公司珀乐互动科技（下称“珀乐互动”）已完成天使轮融资，金额为数千万元人民币。本轮投资由星连资本领投、春华创投跟投，资金将重点用于技术研发、团队扩充与IP商业化开发，全面加速公司多模态泛娱乐生态的战略布局。\n  珀乐互动成立于2025年，是一家聚焦于“AI+IP”融合模式的科技公司。其核心业务是通过自研技术中台，将AI大模型能力深度应用于IP的开发、运",
-    "originalSummary": "\n \n \n  36氪获悉，以AI为核心的数字内容公司珀乐互动科技（下称“珀乐互动”）已完成天使轮融资，金额为数千万元人民币。本轮投资由星连资本领投、春华创投跟投，资金将重点用于技术研发、团队扩充与IP商业化开发，全面加速公司多模态泛娱乐生态的战略布局。\n  珀乐互动成立于2025年，是一家聚焦于“AI+IP”融合模式的科技公司。其核心业务是通过自研技术中台，将AI大模型能力深度应用于IP的开发、运",
-    "url": "https://36kr.com/p/3735324365094918?f=rss",
-    "publishedAt": "2026-03-24T02:00:00.000Z",
-    "language": "zh",
-    "category": "中国科技"
   },
   {
     "id": "aHR0cHM6Ly93",
@@ -240,18 +384,6 @@
     "category": "综合科技"
   },
   {
-    "id": "aHR0cHM6Ly8z",
-    "source": "36Kr",
-    "title": "36氪首发 | 斯坦福博士做分子检测平台，产品已进入北大、清华",
-    "originalTitle": "36氪首发 | 斯坦福博士做分子检测平台，产品已进入北大、清华",
-    "summary": "\n \n \n  作者&nbsp;|&nbsp;张子怡\n  编辑&nbsp;|&nbsp;袁斯来\n  硬氪获悉，广州洞察科技有限公司（以下简称“洞察科技”）于近日完成数千万元Pre-A轮融资。本轮融资由联想创投领投，力合金融、哇牛资本跟投，老股东天图资本和雅亿资本持续加注，芯湃资本担任本轮财务顾问。融资资金将用于晶圆级超高密度打孔机、超薄膜材料以及基因测序仪商业机的研发。\n  固态纳米孔是一种以半导体",
-    "originalSummary": "\n \n \n  作者&nbsp;|&nbsp;张子怡\n  编辑&nbsp;|&nbsp;袁斯来\n  硬氪获悉，广州洞察科技有限公司（以下简称“洞察科技”）于近日完成数千万元Pre-A轮融资。本轮融资由联想创投领投，力合金融、哇牛资本跟投，老股东天图资本和雅亿资本持续加注，芯湃资本担任本轮财务顾问。融资资金将用于晶圆级超高密度打孔机、超薄膜材料以及基因测序仪商业机的研发。\n  固态纳米孔是一种以半导体",
-    "url": "https://36kr.com/p/3735674146865160?f=rss",
-    "publishedAt": "2026-03-24T01:00:10.000Z",
-    "language": "zh",
-    "category": "中国科技"
-  },
-  {
     "id": "aHR0cHM6Ly9z",
     "source": "少数派",
     "title": "派早报：华为举办春季全场景新品发布会等",
@@ -262,42 +394,6 @@
     "publishedAt": "2026-03-24T00:38:39.000Z",
     "language": "zh",
     "category": "数码生活"
-  },
-  {
-    "id": "aHR0cHM6Ly90",
-    "source": "TechCrunch",
-    "title": "现任五角大楼高级官员的埃米尔·迈克尔（ Emil Michael ）表示，他永远不会原谅将他和卡兰尼克赶下台的优步投资者",
-    "originalTitle": "Emil Michael, now a senior Pentagon official, says he’ll never forgive Uber investors who ousted him and Kalanick",
-    "summary": "当被问及他是否仍然对被带到优步门口感到“咸”时，迈克尔和联合创始人特拉维斯·卡兰尼克（ Travis Kalanick ）没有含糊其辞。“我永远不会忘记，也不会原谅，”他说。",
-    "originalSummary": "When asked whether he was still \"salty\" about about being shown the door at Uber, alongside co-founder Travis Kalanick, Michael didn't equivocate. \"I'll never forget that, nor forgive,\" he said.",
-    "url": "https://techcrunch.com/2026/03/23/emil-michael-now-a-senior-pentagon-official-says-hell-never-forgive-uber-investors-who-ousted-him-and-kalanick/",
-    "publishedAt": "2026-03-23T23:49:10.000Z",
-    "language": "en",
-    "category": "科技创业"
-  },
-  {
-    "id": "aHR0cHM6Ly90",
-    "source": "TechCrunch",
-    "title": "班加罗尔食品配送初创公司Swish筹集了3800万$ ，这是18个月来的第三轮融资",
-    "originalTitle": "Bengaluru food delivery startup Swish raises $38M, its third round in 18 months",
-    "summary": "Swish的估值在一年内翻了一番多，因为其全栈超本地化模式将超快速送餐定位为一种高频率习惯。",
-    "originalSummary": "Swish has more than doubled its valuation in a year as its full-stack, hyperlocal model positions ultra-fast food delivery as a high-frequency habit.",
-    "url": "https://techcrunch.com/2026/03/23/bengaluru-food-startup-swish-raises-38m-in-its-third-round-in-18-months/",
-    "publishedAt": "2026-03-23T23:30:00.000Z",
-    "language": "en",
-    "category": "科技创业"
-  },
-  {
-    "id": "aHR0cHM6Ly90",
-    "source": "TechCrunch",
-    "title": "尽管竞争激烈，但Polymarket首席执行官Kalshi支持$ 3500万的预测市场风险投资基金",
-    "originalTitle": "Despite bitter rivalry, Kalshi, Polymarket CEOs back $35M predictions markets VC fund",
-    "summary": "随着预测市场的爆炸式增长，这家名为5 (c) Capital的新公司将支持支持新兴类别的初创公司。",
-    "originalSummary": "As prediction markets explode, the new firm called 5(c) Capital, will back startups supporting the burgeoning category.",
-    "url": "https://techcrunch.com/2026/03/23/despite-bitter-rivalry-kalshi-polymarket-ceos-back-35m-predictions-markets-vc-fund/",
-    "publishedAt": "2026-03-23T22:57:53.000Z",
-    "language": "en",
-    "category": "科技创业"
   },
   {
     "id": "aHR0cHM6Ly9h",
@@ -312,18 +408,6 @@
     "category": "深度科技"
   },
   {
-    "id": "aHR0cHM6Ly93",
-    "source": "The Verge",
-    "title": "美国政府刚刚禁止在美国境外生产的消费类路由器",
-    "originalTitle": "The US government just banned consumer routers made outside the US",
-    "summary": "去年12月，联邦通信委员会禁止所有未来在国外制造的无人机进口到美国，除非或直到其制造商获得豁免。现在，",
-    "originalSummary": "In December, the Federal Communications Commission banned all future drones made in foreign countries from being imported into the United States, unless or until their maker gets an exemption. Now, th",
-    "url": "https://www.theverge.com/news/899172/fcc-foreign-router-ban",
-    "publishedAt": "2026-03-23T22:47:23.000Z",
-    "language": "en",
-    "category": "科技文化"
-  },
-  {
     "id": "aHR0cHM6Ly9h",
     "source": "Ars Technica",
     "title": "特朗普在共和党怀疑中为外科医生将军挑选的MAHA",
@@ -334,90 +418,6 @@
     "publishedAt": "2026-03-23T21:43:21.000Z",
     "language": "en",
     "category": "深度科技"
-  },
-  {
-    "id": "aHR0cHM6Ly9h",
-    "source": "Ars Technica",
-    "title": "英伟达首席执行官试图解释为什么DLSS 5不仅仅是“AI SLOP”",
-    "originalTitle": "Nvidia CEO tries to explain why DLSS 5 isn’t just “AI slop”",
-    "summary": "如果游戏开发者不喜欢它， “他们可以决定不使用它，你知道吗？”",
-    "originalSummary": "\n                        If game makers don’t like it, “they could decide not to use it, you know?\"\n                    ",
-    "url": "https://arstechnica.com/gaming/2026/03/nvidia-ceo-tries-to-explain-why-dlss-5-isnt-just-ai-slop/",
-    "publishedAt": "2026-03-23T21:19:51.000Z",
-    "language": "en",
-    "category": "深度科技"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "The Verge",
-    "title": "适合儿童的Fitbit Ace价格为100 $ ，与其最优惠的价格相匹配",
-    "originalTitle": "The kid-friendly Fitbit Ace is $100, which matches its best price",
-    "summary": "如果您想弄清楚如何让您的孩子在这个春假中保持忙碌， Fitbit Ace LTE是让他们走出户外和离开手机的简单方法。适合儿童的智能手表鼓励移动",
-    "originalSummary": "If you’re trying to figure out how to keep your kids occupied this spring break, the Fitbit Ace LTE is an easy way to get them outdoors and off their phones. The kid-friendly smartwatch encourages mov",
-    "url": "https://www.theverge.com/gadgets/899134/fitbit-ace-amazon-big-spring-sale-2026-deal",
-    "publishedAt": "2026-03-23T21:10:28.000Z",
-    "language": "en",
-    "category": "科技文化"
-  },
-  {
-    "id": "aHR0cHM6Ly9h",
-    "source": "Ars Technica",
-    "title": "在黑客袭击爱荷华州的一家公司后，全国各地的汽车无法启动",
-    "originalTitle": "After hackers hit an Iowa company, cars around the country failed to start",
-    "summary": "如果不及时校准联锁，您的车辆就会死机。",
-    "originalSummary": "\n                        If you don't calibrate your interlock in time, your vehicle is dead.\n                    ",
-    "url": "https://arstechnica.com/security/2026/03/after-hack-some-ignition-interlock-users-couldnt-start-their-own-cars/",
-    "publishedAt": "2026-03-23T21:10:14.000Z",
-    "language": "en",
-    "category": "深度科技"
-  },
-  {
-    "id": "aHR0cHM6Ly9h",
-    "source": "Ars Technica",
-    "title": "LG Display开始为笔记本电脑量产类似LTPO的1 Hz液晶显示器",
-    "originalTitle": "LG Display starts mass-producing LTPO-like 1 Hz LCD displays for laptops",
-    "summary": "戴尔XPS笔记本电脑将率先使用高达120 Hz的显示技术。",
-    "originalSummary": "\n                        Dell XPS laptops will be the first to use the display tech that reaches up to 120 Hz. \n                    ",
-    "url": "https://arstechnica.com/gadgets/2026/03/lg-display-starts-mass-producing-ltpo-like-1-hz-lcd-displays-for-laptops/",
-    "publishedAt": "2026-03-23T20:29:09.000Z",
-    "language": "en",
-    "category": "深度科技"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "The Verge",
-    "title": "Kalshi表示，它将阻止政治家和运动员在与他们有联系的市场上交易",
-    "originalTitle": "Kalshi says it will block politicians and athletes from trading in markets they’re tied to",
-    "summary": "预测市场平台Kalshi表示，正如Axios早些时候报道的那样，它正在推出新的护栏，以“先发制人地阻止”政治候选人和运动员在自己的市场上交易。",
-    "originalSummary": "The prediction market platform Kalshi says it's rolling out new guardrails to \"preemptively block\" political candidates and athletes from trading in their own markets, as reported earlier by Axios. In",
-    "url": "https://www.theverge.com/tech/899097/kalshi-politicians-athletes-insider-trading-blocked",
-    "publishedAt": "2026-03-23T20:24:43.000Z",
-    "language": "en",
-    "category": "科技文化"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "The Verge",
-    "title": "谷歌的新Pixel 10广告让我想： “等等，他们想卖什么？”",
-    "originalTitle": "Google’s new Pixel 10 ads made me go ‘Wait, WHAT are they trying to sell?’",
-    "summary": "曾经看过电视广告并想知道， “这是如何获得批准的？“今天，谷歌为其六个月前的Pixel 10手机提供了两个新的广告位，而且……让我们说它们可能不会像预期的那样",
-    "originalSummary": "Ever watch a TV ad and wonder, \"How did this get approved?\" Today, Google has not one but two new ad spots for its six-month-old Pixel 10 phones, and… let's just say they may not come across as intend",
-    "url": "https://www.theverge.com/tech/898992/google-pixel-10-ads-moving-on-stalker-lying-beach-view-100-zoom",
-    "publishedAt": "2026-03-23T19:49:11.000Z",
-    "language": "en",
-    "category": "科技文化"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "The Verge",
-    "title": "英伟达首席执行官Jensen Huang表示“我认为我们已经实现了AGI”",
-    "originalTitle": "Nvidia CEO Jensen Huang says &#8216;I think we&#8217;ve achieved AGI&#8217;",
-    "summary": "在Lex Fridman播客的周一节目中， Nvidia首席执行官Jensen Huang发表了热门声明： “我认为我们已经实现了AGI。“ AGI ，或人工通用智能，是一个定义模糊的术语，",
-    "originalSummary": "On a Monday episode of the Lex Fridman podcast, Nvidia CEO Jensen Huang made a hot-button statement: \"I think we've achieved AGI.\" AGI, or artificial general intelligence, is a vaguely defined term th",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi",
-    "publishedAt": "2026-03-23T19:42:33.000Z",
-    "language": "en",
-    "category": "科技文化"
   },
   {
     "id": "aHR0cHM6Ly9z",
