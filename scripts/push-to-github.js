@@ -1,7 +1,7 @@
 const https = require('https');
 const fs = require('fs');
 
-const token = 'GITHUB_TOKEN_PLACEHOLDER';
+const token = process.env.GITHUB_TOKEN || 'GITHUB_TOKEN_PLACEHOLDER';
 const owner = 'Clawi2026';
 const repo = 'tech-news-daily';
 
