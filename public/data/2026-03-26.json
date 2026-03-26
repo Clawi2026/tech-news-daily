@@ -1,9 +1,117 @@
 [
   {
+    "id": "aHR0cHM6Ly93",
+    "source": "The Verge",
+    "title": "Anker的无线充电板以$ 15的价格提供Qi2速度",
+    "originalTitle": "Anker’s wireless charging pad offers Qi2 speeds for $15",
+    "summary": "通过使用无线充电冰球，我可能节省了几分钟的生命。几分钟！比这更有价值，我已经省去了自己无数次弯腰拿起我的USB-C电缆，不知何故",
+    "originalSummary": "I’ve probably saved minutes of my life by using a wireless charging puck. Minutes! More valuable than that, I’ve saved myself from bending over numerous times to pick up my USB-C cable that somehow al",
+    "url": "https://www.theverge.com/gadgets/901836/anker-qi2-wireless-charging-iphone-magsafe-amazon-big-spring-sale-2026-deal",
+    "publishedAt": "2026-03-26T21:00:00.000Z",
+    "language": "en",
+    "category": "科技文化"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "The Verge",
+    "title": "苹果的AI播放列表游乐场不擅长音乐",
+    "originalTitle": "Apple’s AI Playlist Playground is bad at music",
+    "summary": "Apple Music ： “你想听什么？\" Me: \"Atmospheric instrumental black metal to write to.“ Apple Music ： ”这里有三首带有主唱的金属歌曲，一首现场录音，一首环境电子曲目，以及",
+    "originalSummary": "Apple Music: \"What do you want to hear?\" Me: \"Atmospheric instrumental black metal to write to.\" Apple Music: \"Here's three metal songs with vocals, a field recording, an ambient electronic track, and",
+    "url": "https://www.theverge.com/report/902005/apple-ai-playlist-playground-bad-at-music",
+    "publishedAt": "2026-03-26T20:51:31.000Z",
+    "language": "en",
+    "category": "科技文化"
+  },
+  {
     "id": "aHR0cHM6Ly90",
     "source": "TechCrunch",
-    "title": "来自YC W ’26 Demo Day的16家最有趣的初创公司",
-    "originalTitle": "16 of the most interesting startups from YC W’26 Demo Day",
+    "title": "Mastodon通过最新的改造使其去中心化社交网络更易于使用",
+    "originalTitle": "Mastodon is making its decentralized social network easier to use with its latest revamp",
+    "summary": "Mastodon正在重新设计用户配置文件，以简化体验并更好地吸引主流用户和组织。",
+    "originalSummary": "Mastodon is redesigning user profiles to simplify the experience and better appeal to mainstream users and organizations.",
+    "url": "https://techcrunch.com/2026/03/26/mastodon-is-making-its-decentralized-social-network-easier-to-use-with-its-latest-revamp/",
+    "publishedAt": "2026-03-26T20:42:50.000Z",
+    "language": "en",
+    "category": "科技创业"
+  },
+  {
+    "id": "aHR0cHM6Ly90",
+    "source": "TechCrunch",
+    "title": "Netflix确认再次提高价格",
+    "originalTitle": "Netflix confirms it’s raising prices again",
+    "summary": "没有广告的标准套餐现在每月花费19.99美元，比之前的17.99美元订阅费增加了2美元，而高级套餐也将增加2美元，现在每月花费26.99美元。",
+    "originalSummary": "The standard plan without ads now costs $19.99 per month, a $2 increase from the previous $17.99 subscription fee, while the premium plan is also going up by $2 and will now cost $26.99 per month. ",
+    "url": "https://techcrunch.com/2026/03/26/netflix-confirms-its-raising-prices-again/",
+    "publishedAt": "2026-03-26T20:39:17.000Z",
+    "language": "en",
+    "category": "科技创业"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "四月点燃夜晚：两场流星雨即将到来，以下是如何看待它们",
+    "originalTitle": "April Ignites the Night: Two Meteor Showers Are On the Way, and Here's How to See Them",
+    "summary": "为Lyrids和Eta Aquariids做好准备，即将到达您附近的天空。",
+    "originalSummary": "Get ready for the Lyrids and the Eta Aquariids, coming soon to a sky near you.",
+    "url": "https://www.cnet.com/science/space/two-meteor-showers-are-coming-in-april/",
+    "publishedAt": "2026-03-26T20:06:28.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "今天的NYT Connections提示，答案和帮助， 3月27日， # 1020",
+    "originalTitle": "Today's NYT Connections Hints, Answers and Help for March 27, #1020",
+    "summary": "以下是3月27日第1,020号纽约时报连接难题的一些提示和答案。",
+    "originalSummary": "Here are some hints and the answers for the NYT Connections puzzle for March 27, No. 1,020.",
+    "url": "https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-27-1020/",
+    "publishedAt": "2026-03-26T20:01:22.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "今日纽约时报Strands 3月27日提示、答案和帮助# 754",
+    "originalTitle": "Today's NYT Strands Hints, Answers and Help for March 27 #754",
+    "summary": "以下是纽约时报754号3月27日拼图的提示和答案。",
+    "originalSummary": "Here are hints and answers for the NYT Strands puzzle for March 27, No. 754.",
+    "url": "https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-27-754/",
+    "publishedAt": "2026-03-26T20:01:22.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "今天的Wordle提示，答案和帮助， # 1742年3月27日",
+    "originalTitle": "Today's Wordle Hints, Answer and Help for March 27, #1742",
+    "summary": "以下是今天3月27日第1742期Wordle的提示和答案。",
+    "originalSummary": "Here are hints and the answer for today's Wordle for March 27, No. 1,742.",
+    "url": "https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-27-1742/",
+    "publishedAt": "2026-03-26T20:00:56.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "我们正在亚马逊大春季促销期间跟踪我们最喜欢的优惠，有很多很棒的优惠",
+    "originalTitle": "We're Tracking Our Favorite Deals During the Amazon Big Spring Sale and There Are a Ton of Great Ones",
+    "summary": "亚马逊大春季促销提供您想要的任何东西的优惠，从吸尘器到电视以及介于两者之间的任何东西，我们正在审核所有最优惠的折扣。",
+    "originalSummary": "The Amazon Big Spring Sale has deals on just about anything you could want, from vacuums to TVs and anything in between, and we're vetting all the best discounts.",
+    "url": "https://www.cnet.com/news-live/amazon-big-spring-sale-2026-favorite-lightning-deals-live-tracker/",
+    "publishedAt": "2026-03-26T19:53:14.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly90",
+    "source": "TechCrunch",
+    "title": "YC W26演示日最有趣的16家初创公司",
+    "originalTitle": "16 of the most interesting startups from YC W26 Demo Day",
     "summary": "从重定向末日滚动到训练人形机器人，这16家创业公司在YC队列中脱颖而出，成为最有趣的创业公司。",
     "originalSummary": "From redirecting doomscrolling to training humanoid robots, these 16 startups stood out as the most interesting ones from an overflowing YC cohort.",
     "url": "https://techcrunch.com/2026/03/26/16-of-the-most-interesting-startups-from-yc-w26-demo-day/",
@@ -22,18 +130,6 @@
     "publishedAt": "2026-03-26T19:13:26.000Z",
     "language": "en",
     "category": "科技文化"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "我们正在亚马逊大春季促销期间跟踪我们最喜欢的优惠，有很多很棒的优惠",
-    "originalTitle": "We're Tracking Our Favorite Deals During the Amazon Big Spring Sale and There Are a Ton of Great Ones",
-    "summary": "亚马逊大春季促销提供您想要的任何东西的优惠，从吸尘器到电视以及介于两者之间的任何东西，我们正在审核所有最优惠的折扣。",
-    "originalSummary": "The Amazon Big Spring Sale has deals on just about anything you could want, from vacuums to TVs and anything in between, and we're vetting all the best discounts.",
-    "url": "https://www.cnet.com/news-live/amazon-big-spring-sale-2026-favorite-lightning-deals-live-tracker/",
-    "publishedAt": "2026-03-26T19:11:57.000Z",
-    "language": "en",
-    "category": "数码产品"
   },
   {
     "id": "aHR0cHM6Ly90",
@@ -84,30 +180,6 @@
     "category": "科技文化"
   },
   {
-    "id": "aHR0cHM6Ly93",
-    "source": "The Verge",
-    "title": "Fitbit经济实惠的Inspire 3优惠30 $ ，与其最优惠的价格相匹配",
-    "originalTitle": "Fitbit’s budget-friendly Inspire 3 is $30 off, matching its best price",
-    "summary": "亚马逊的大春季促销活动为最新的Apple Watch SE 3和Fitbit的Charge 6等可穿戴设备提供了折扣。但它们并不便宜，即使它们在打折。如果你想要什么",
-    "originalSummary": "Amazon’s Big Spring Sale has delivered discounts on wearables like the latest Apple Watch SE 3 and Fitbit’s Charge 6. But they’re not exactly cheap even though they’re on sale. If you want something u",
-    "url": "https://www.theverge.com/tech/901765/fitbit-inspire-3-amazon-big-spring-sale-2026-deal",
-    "publishedAt": "2026-03-26T18:41:42.000Z",
-    "language": "en",
-    "category": "科技文化"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "我最喜欢的笔记本电脑刚刚达到亚马逊春季大促销的最低价格",
-    "originalTitle": "My Favorite Laptop Just Hit Its Lowest Price for Amazon's Big Spring Sale",
-    "summary": "15英寸M4 MacBook Air的价格已经降至最低，它仍然是2026年以这个价格可以买到的最好的笔记本电脑之一。",
-    "originalSummary": "The 15-inch M4 MacBook Air has dropped to its lowest price yet, and it's still one of the best laptops you can get at this price in 2026.",
-    "url": "https://www.cnet.com/deals/15-inch-m4-macbook-air-lowest-price-ever-amazon-spring-sale/",
-    "publishedAt": "2026-03-26T18:41:00.000Z",
-    "language": "en",
-    "category": "数码产品"
-  },
-  {
     "id": "aHR0cHM6Ly90",
     "source": "TechCrunch",
     "title": "OpenAI放弃了另一个支线任务： ChatGPT的色情模式",
@@ -116,18 +188,6 @@
     "originalSummary": "It's only the latest of several side projects that the AI startup has ditched over the past week. ",
     "url": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
     "publishedAt": "2026-03-26T18:34:02.000Z",
-    "language": "en",
-    "category": "科技创业"
-  },
-  {
-    "id": "aHR0cHM6Ly90",
-    "source": "TechCrunch",
-    "title": "数据中心做好准备—参议院希望看到您的电费账单",
-    "originalTitle": "Data centers get ready — the Senate wants to see your power bills",
-    "summary": "参议员乔什·霍利（ Josh Hawley ）和伊丽莎白·沃伦（ Elizabeth Warren ）希望能源信息管理局收集更多有关数据中心如何使用电力以及这如何影响电网的详细信息。",
-    "originalSummary": "Senators Josh Hawley and Elizabeth Warren want the Energy Information Administration to gather more details about how data centers use power — and how that affects the grid.",
-    "url": "https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/",
-    "publishedAt": "2026-03-26T18:23:31.000Z",
     "language": "en",
     "category": "科技创业"
   },
@@ -168,30 +228,6 @@
     "category": "科技趋势"
   },
   {
-    "id": "aHR0cHM6Ly90",
-    "source": "TechCrunch",
-    "title": "美国空军交易后，国防初创公司Shield AI的估值达到127亿美元，增长140%",
-    "originalTitle": "Defense startup Shield AI lands $12.7B valuation, up 140%, after US Air Force deal",
-    "summary": "一年来， Shield AI的价值跃升了140%。在此之前，它赢得了一份合同，成为美国空军Anduril's Fury战斗机的软件供应商。",
-    "originalSummary": "In one year, Shield AI's value has leaped 140%. This after it won a contract to be the software provider to Anduril's Fury fighter jet for the U.S. Air Force.",
-    "url": "https://techcrunch.com/2026/03/26/defense-startup-shield-ai-lands-12-7b-valuation-up-140-after-u-s-air-force-deal/",
-    "publishedAt": "2026-03-26T18:05:51.000Z",
-    "language": "en",
-    "category": "科技创业"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "人工智能给你的浪漫建议比完全没有建议“更有害”",
-    "originalTitle": "AI's Romance Advice for You Is 'More Harmful' Than No Advice at All",
-    "summary": "《科学》杂志上的一项新研究发现，人工智能模型在社会上具有讽刺意味。",
-    "originalSummary": "A new study in the journal Science found that AI models are socially sycophantic.",
-    "url": "https://www.cnet.com/tech/services-and-software/ai-relationship-advice-harmful-science-sycophancy-study-news/",
-    "publishedAt": "2026-03-26T18:00:44.000Z",
-    "language": "en",
-    "category": "数码产品"
-  },
-  {
     "id": "aHR0cHM6Ly93",
     "source": "Wired",
     "title": "认识使用人工智能帮助撰写和编辑故事的技术记者",
@@ -214,18 +250,6 @@
     "publishedAt": "2026-03-26T17:44:07.000Z",
     "language": "en",
     "category": "深度科技"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "The Verge",
-    "title": "Xbox的最新游戏展示包括Hades 2、The Expanse和Bluey",
-    "originalTitle": "Xbox’s latest games showcase had Hades 2, The Expanse, and Bluey",
-    "summary": "对于Xbox来说，这是一个奇怪的时刻，领导层发生了巨大的变化，许多人想知道该平台的未来是什么样子，以及它究竟代表什么。但与此同时，微软原谅了",
-    "originalSummary": "It's a weird time for Xbox, with a big leadership shakeup that has many wondering what the future of the platform looks like, and what exactly it stands for. In the meantime, though, Microsoft is forg",
-    "url": "https://www.theverge.com/games/901384/xbox-partner-preview-games-news-trailers",
-    "publishedAt": "2026-03-26T17:42:01.000Z",
-    "language": "en",
-    "category": "科技文化"
   },
   {
     "id": "aHR0cHM6Ly93",
@@ -262,30 +286,6 @@
     "publishedAt": "2026-03-26T17:17:27.000Z",
     "language": "en",
     "category": "科技趋势"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "巴西与法国直播：如何从任何地方观看国际友谊足球",
-    "originalTitle": "Brazil vs. France Livestream: How to Watch International Friendly Soccer From Anywhere",
-    "summary": "皇家马德里巨星Vinícius Júnior和Kylian Mbappé都将在波士顿的这场友谊赛中亮相。",
-    "originalSummary": "Real Madrid megastars Vinícius Júnior and Kylian Mbappé are both set to feature in this friendly game in Boston.",
-    "url": "https://www.cnet.com/tech/services-and-software/brazil-vs-france-livestream-how-to-watch-international-friendly-soccer-from-anywhere/",
-    "publishedAt": "2026-03-26T17:01:00.000Z",
-    "language": "en",
-    "category": "数码产品"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "我曾经告诉人们跳过Wi-Fi 7路由器。CNET的实验室测试改变了我的想法",
-    "originalTitle": "I Used to Tell People to Skip Wi-Fi 7 Routers. CNET's Lab Testing Changed My Mind",
-    "summary": "我使用CNET的实验室测试数据来计算每代路由器的每兆位成本。结果显示，我对Wi-Fi 7路由器的价值判断是错误的。",
-    "originalSummary": "I used CNET's lab test data to calculate the cost-per-megabit for each router generation. The results showed me I was wrong about the value of Wi-Fi 7 routers.",
-    "url": "https://www.cnet.com/home/internet/are-wi-fi-7-routers-worth-hype/",
-    "publishedAt": "2026-03-26T17:00:00.000Z",
-    "language": "en",
-    "category": "数码产品"
   },
   {
     "id": "aHR0cHM6Ly9h",
