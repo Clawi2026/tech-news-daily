@@ -1,6 +1,66 @@
 [
   {
     "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "IPL板球2026直播：如何从任何地方观看印度超级联赛",
+    "originalTitle": "IPL Cricket 2026 Livestream: How to Watch the Indian Premier League From Anywhere",
+    "summary": "皇家挑战者班加罗尔可以连续夺冠吗？",
+    "originalSummary": "Can the Royal Challengers Bengaluru claim back-to-back titles?",
+    "url": "https://www.cnet.com/tech/services-and-software/ipl-cricket-2026-livestream-how-to-watch-the-indian-premier-league-from-anywhere/",
+    "publishedAt": "2026-03-27T23:00:50.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "The Verge",
+    "title": "索尼因短缺暂停存储卡销售",
+    "originalTitle": "Sony temporarily suspends memory card sales due to shortages",
+    "summary": "索尼宣布，截至2026年3月27日，该公司已不再接受其CFexpress和SD存储卡产品线中几乎所有产品的订单。受影响的内存产品列表",
+    "originalSummary": "Sony has announced that as of March 27th, 2026, the company is no longer accepting orders for nearly all the products in its CFexpress and SD memory card lines. The list of affected memory products in",
+    "url": "https://www.theverge.com/tech/902828/sony-sd-cfexpress-memory-card-shortage",
+    "publishedAt": "2026-03-27T22:21:11.000Z",
+    "language": "en",
+    "category": "科技文化"
+  },
+  {
+    "id": "aHR0cHM6Ly9h",
+    "source": "Ars Technica",
+    "title": "2026年单手玩Wolfenstein 3D",
+    "originalTitle": "Playing Wolfenstein 3D with one hand in 2026",
+    "summary": "三十多年后，这种历史性的好奇心不仅仅有几个粗糙的边缘",
+    "originalSummary": "\n                        Over three decades later, this historical curiosity has more than a few rough edges\n                    ",
+    "url": "https://arstechnica.com/gaming/2026/03/playing-wolfenstein-3d-with-one-hand-in-2026/",
+    "publishedAt": "2026-03-27T22:09:00.000Z",
+    "language": "en",
+    "category": "深度科技"
+  },
+  {
+    "id": "aHR0cHM6Ly9h",
+    "source": "Ars Technica",
+    "title": "借助新的插件功能， OpenAI正式将Codex超越编码",
+    "originalTitle": "With new plugins feature, OpenAI officially takes Codex beyond coding",
+    "summary": "事情发展得很快，竞争对手已经提供了类似的东西一段时间了。",
+    "originalSummary": "\n                        Things are moving fast, and competitors have offered something similar for a while.\n                    ",
+    "url": "https://arstechnica.com/ai/2026/03/openai-brings-plugins-to-codex-closing-some-of-the-gap-with-claude-code/",
+    "publishedAt": "2026-03-27T21:53:45.000Z",
+    "language": "en",
+    "category": "深度科技"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "我们正在亚马逊大春季促销期间跟踪我们最喜欢的优惠，我们看到了大量的优惠",
+    "originalTitle": "We're Tracking Our Favorite Deals During the Amazon Big Spring Sale and We're Seeing a Ton of Great Ones",
+    "summary": "亚马逊的春季促销可以提供您想要的任何东西，从吸尘器到电视以及介于两者之间的任何东西，我们正在过滤掉绒毛以找到真正的便宜货。",
+    "originalSummary": "Amazon's Spring Sale has deals on just about anything you could want, from vacuums to TVs and anything in between, and we're filtering out the fluff to find the real bargains.",
+    "url": "https://www.cnet.com/news-live/amazon-big-spring-sale-2026-favorite-lightning-deals-live-tracker/",
+    "publishedAt": "2026-03-27T21:49:00.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
     "source": "Wired",
     "title": "人工智能研究越来越难以与地缘政治分离",
     "originalTitle": "AI Research Is Getting Harder to Separate From Geopolitics",
@@ -22,6 +82,18 @@
     "publishedAt": "2026-03-27T21:44:45.000Z",
     "language": "en",
     "category": "科技创业"
+  },
+  {
+    "id": "aHR0cHM6Ly9h",
+    "source": "Ars Technica",
+    "title": "与生奶酪相关的爆发增加；总共9例，其中1例肾功能衰竭",
+    "originalTitle": "Outbreak linked to raw cheese grows; 9 cases total, one with kidney failure",
+    "summary": "在患者不断识别其产品的同时， Raw Farm否认与疾病有关。",
+    "originalSummary": "\n                        Raw Farm denies link to illnesses while patients keep identifying its products.\n                    ",
+    "url": "https://arstechnica.com/health/2026/03/kidney-failure-case-reported-in-raw-cheese-outbreak-maker-still-denies-link/",
+    "publishedAt": "2026-03-27T21:43:00.000Z",
+    "language": "en",
+    "category": "深度科技"
   },
   {
     "id": "aHR0cHM6Ly93",
@@ -121,30 +193,6 @@
   },
   {
     "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "Meta因不断扩大的社区备注而被自己的监督委员会召集",
-    "originalTitle": "Meta Gets Called Out by Its Own Oversight Board Over Expanding Community Notes",
-    "summary": "对Meta处理审核方式的调查表明，社区备注并不能有效替代去年解散的第三方事实核查计划。",
-    "originalSummary": "A look into the way Meta handles moderation suggests Community Notes aren't an effective substitute for the third-party fact-checking program it disbanded last year.",
-    "url": "https://www.cnet.com/tech/services-and-software/meta-gets-called-out-by-its-own-oversight-board-over-expanding-community-notes/",
-    "publishedAt": "2026-03-27T20:07:29.000Z",
-    "language": "en",
-    "category": "数码产品"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "我们正在亚马逊大春季促销期间跟踪我们最喜欢的优惠，我们看到了大量的优惠",
-    "originalTitle": "We're Tracking Our Favorite Deals During the Amazon Big Spring Sale and We're Seeing a Ton of Great Ones",
-    "summary": "亚马逊的春季促销可以提供您想要的任何东西，从吸尘器到电视以及介于两者之间的任何东西，我们正在过滤掉绒毛以找到真正的便宜货。",
-    "originalSummary": "Amazon's Spring Sale has deals on just about anything you could want, from vacuums to TVs and anything in between, and we're filtering out the fluff to find the real bargains.",
-    "url": "https://www.cnet.com/news-live/amazon-big-spring-sale-2026-favorite-lightning-deals-live-tracker/",
-    "publishedAt": "2026-03-27T20:04:00.000Z",
-    "language": "en",
-    "category": "数码产品"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
     "source": "The Verge",
     "title": "白宫现在有一个应用程序，特朗普希望你向ICE报告",
     "originalTitle": "The White House has an app now, and Trump wants you to report people to ICE on it",
@@ -154,18 +202,6 @@
     "publishedAt": "2026-03-27T19:59:53.000Z",
     "language": "en",
     "category": "科技文化"
-  },
-  {
-    "id": "aHR0cHM6Ly9h",
-    "source": "Ars Technica",
-    "title": "法官说， Hegseth ，特朗普无权命令Anthropic被列入黑名单",
-    "originalTitle": "Hegseth, Trump had no authority to order Anthropic to be blacklisted, judge says",
-    "summary": "“我不知道” ：战争部未能证明将人类列入黑名单是合理的。",
-    "originalSummary": "\n                        “I don’t know”: Department of War fails to justify blacklisting Anthropic.\n                    ",
-    "url": "https://arstechnica.com/tech-policy/2026/03/hegseth-trump-had-no-authority-to-order-anthropic-to-be-blacklisted-judge-says/",
-    "publishedAt": "2026-03-27T19:49:18.000Z",
-    "language": "en",
-    "category": "深度科技"
   },
   {
     "id": "aHR0cHM6Ly93",
@@ -228,18 +264,6 @@
     "category": "科技文化"
   },
   {
-    "id": "aHR0cHM6Ly93",
-    "source": "The Verge",
-    "title": "Anker的160W Prime充电器可以同时为三个设备供电，节省50 $",
-    "originalTitle": "Anker’s 160W Prime Charger can power three devices at once, and it&#8217;s $50 off",
-    "summary": "如果您经常在家中和旅途中工作， Anker最新的160W Prime充电器可以通过使用单个设备更换多个充电器来减轻您的负担。通常为$ 149.99",
-    "originalSummary": "If you’re constantly switching between working at home and on the go, Anker’s latest 160W Prime Charger can lighten your load by replacing multiple chargers with a single device. It’s normally $149.99",
-    "url": "https://www.theverge.com/gadgets/902130/anker-prime-charger-160w-usb-c-amazon-big-spring-sale-2026-deal",
-    "publishedAt": "2026-03-27T18:30:00.000Z",
-    "language": "en",
-    "category": "科技文化"
-  },
-  {
     "id": "aHR0cHM6Ly90",
     "source": "TechCrunch",
     "title": "在黑客声称数据泄露后，欧盟委员会确认网络攻击 ",
@@ -276,18 +300,6 @@
     "category": "科技创业"
   },
   {
-    "id": "aHR0cHM6Ly9h",
-    "source": "Ars Technica",
-    "title": "美国司法部证实联邦调查局局长卡什·帕特尔（ Kash Patel ）的个人电子邮件",
-    "originalTitle": "DOJ confirms FBI Director Kash Patel’s personal email was hacked",
-    "summary": "黑客声称这次袭击是在帕特尔发誓要“追捕”他们之后进行的报复。",
-    "originalSummary": "\n                        Hackers claimed the attack was retaliation after Patel vowed to \"hunt\" them.\n                    ",
-    "url": "https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/",
-    "publishedAt": "2026-03-27T16:24:05.000Z",
-    "language": "en",
-    "category": "深度科技"
-  },
-  {
     "id": "aHR0cHM6Ly93",
     "source": "BBC Technology",
     "title": "由于全球“压力” ， PS5价格上涨了90 £",
@@ -298,18 +310,6 @@
     "publishedAt": "2026-03-27T16:07:08.000Z",
     "language": "en",
     "category": "综合科技"
-  },
-  {
-    "id": "aHR0cHM6Ly9h",
-    "source": "Ars Technica",
-    "title": "索尼再次提高PlayStation 5的价格，这次是在$ 100到$ 150之间",
-    "originalTitle": "Sony is raising PlayStation 5 prices again, this time by between $100 and $150",
-    "summary": "内存、存储短缺使各种消费技术变得更加昂贵。",
-    "originalSummary": "\n                        Memory, storage shortages have made all kinds of consumer tech more expensive.\n                    ",
-    "url": "https://arstechnica.com/gadgets/2026/03/sony-is-raising-playstation-5-prices-again-this-time-by-between-100-and-150/",
-    "publishedAt": "2026-03-27T15:57:40.000Z",
-    "language": "en",
-    "category": "深度科技"
   },
   {
     "id": "aHR0cHM6Ly93",
