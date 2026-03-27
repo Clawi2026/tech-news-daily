@@ -1,6 +1,150 @@
 [
   {
     "id": "aHR0cHM6Ly93",
+    "source": "Wired",
+    "title": "人工智能研究越来越难以与地缘政治分离",
+    "originalTitle": "AI Research Is Getting Harder to Separate From Geopolitics",
+    "summary": "世界领先的人工智能研究会议NeurIPS宣布的一项政策变化本周引起了中国研究人员的广泛反对，随后迅速逆转。",
+    "originalSummary": "A policy change announced by NeurIPS, the world’s leading AI research conference, drew widespread backlash from Chinese researchers this week and then was quickly reversed.",
+    "url": "https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/",
+    "publishedAt": "2026-03-27T21:46:39.000Z",
+    "language": "en",
+    "category": "科技趋势"
+  },
+  {
+    "id": "aHR0cHM6Ly90",
+    "source": "TechCrunch",
+    "title": "为什么软银的新$ 400亿贷款指向2026年OpenAI首次公开募股",
+    "originalTitle": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
+    "summary": "华尔街巨头摩根大通(JPMorgan)和高盛(Goldman Sachs)正在向这家日本企业集团提供为期12个月的无担保贷款。",
+    "originalSummary": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate. ",
+    "url": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
+    "publishedAt": "2026-03-27T21:44:45.000Z",
+    "language": "en",
+    "category": "科技创业"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "报告称，新的Vizio TV将需要沃尔玛账户",
+    "originalTitle": "New Vizio TVs Will Require Walmart Accounts, Report Says",
+    "summary": "据报道，这家零售巨头于2024年收购了电视制造商Vizio ，以推动广告业务。",
+    "originalSummary": "The retail giant bought TV manufacturer Vizio in 2024 to push advertising, one report claims.",
+    "url": "https://www.cnet.com/tech/home-entertainment/new-vizio-tvs-will-require-walmart-accounts-report-says/",
+    "publishedAt": "2026-03-27T21:19:25.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly9h",
+    "source": "Ars Technica",
+    "title": "当被告在开车时通过Zoom加入时，判断愤怒-然后撒谎",
+    "originalTitle": "Judge irate as defendant joins by Zoom while driving—then lies about it",
+    "summary": "“让我看看司机！”",
+    "originalSummary": "\n                        \"Let me see the driver!\"\n                    ",
+    "url": "https://arstechnica.com/tech-policy/2026/03/judge-irate-as-defendant-joins-by-zoom-while-driving-then-lies-about-it/",
+    "publishedAt": "2026-03-27T21:10:25.000Z",
+    "language": "en",
+    "category": "深度科技"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "英伟达GTC量子计算融合的4种不同未来",
+    "originalTitle": "4 Different Futures for Quantum Computing Converge at Nvidia GTC",
+    "summary": "Nvidia GTC展出了四种不同类型量子比特的四种不同量子系统，它们的工作原理如下。",
+    "originalSummary": "Four different quantum systems with four different types of qubits were on display at Nvidia GTC, here's how they all work.",
+    "url": "https://www.cnet.com/tech/computing/four-different-futures-for-quantum-computing-converge-at-nvidia-gtc/",
+    "publishedAt": "2026-03-27T20:47:17.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "Wired",
+    "title": "最好的办公椅比以前便宜$ 50",
+    "originalTitle": "The Best Office Chair Is $50 Cheaper Than We've Seen Before",
+    "summary": "Branch Ergonomic Chair Pro以全价提供超值优惠，但目前可优惠$ 100。",
+    "originalSummary": "The Branch Ergonomic Chair Pro offers great value at full price—but right now, it's $100 off.",
+    "url": "https://www.wired.com/story/branch-ergonomic-chair-pro-amazon-spring-sale-2026/",
+    "publishedAt": "2026-03-27T20:45:41.000Z",
+    "language": "en",
+    "category": "科技趋势"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "Wired",
+    "title": "在TSA线路上等待时可以做的10件事",
+    "originalTitle": "10 Things You Can Do While Waiting in the TSA Line",
+    "summary": "随着华盛顿对联邦雇员薪酬的未来争论不休，这里有一些打发时间的想法。",
+    "originalSummary": "As Washington wrangles over the future of federal employees’ pay, here are some ideas for passing the time.",
+    "url": "https://www.wired.com/story/10-things-you-can-do-while-waiting-in-the-tsa-line/",
+    "publishedAt": "2026-03-27T20:44:00.000Z",
+    "language": "en",
+    "category": "科技趋势"
+  },
+  {
+    "id": "aHR0cHM6Ly9h",
+    "source": "Ars Technica",
+    "title": "AV1公开、免版税的承诺受到质疑，因为杜比通过编解码器起诉Snapchat",
+    "originalTitle": "AV1’s open, royalty-free promise in question as Dolby sues Snapchat over codec",
+    "summary": "Big Tech宣布AV1免版税“并不意味着它是”。",
+    "originalSummary": "\n                        Big Tech declaring AV1 royalty-free “doesn't mean that it is.\" \n                    ",
+    "url": "https://arstechnica.com/gadgets/2026/03/av1s-open-royalty-free-promise-in-question-as-dolby-sues-snapchat-over-codec/",
+    "publishedAt": "2026-03-27T20:31:21.000Z",
+    "language": "en",
+    "category": "深度科技"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "The Verge",
+    "title": "Insta360的最后一代Link 2C是梦幻般的4K网络摄像头，现在它有20%的折扣",
+    "originalTitle": "Insta360’s last-gen Link 2C is fantastic 4K webcam now that it’s 20 percent off",
+    "summary": "如果您花费大量时间在视频上演示或聊天，您就会知道体面的网络摄像头可以带来多大的影响。值得庆幸的是，如果您希望在家中或工作中升级设置，最后-",
+    "originalSummary": "If you spend a lot of time presenting or chatting over video, you know how big a difference a decent webcam can make. Thankfully, if you’re looking to level up your setup at home or at work, the last-",
+    "url": "https://www.theverge.com/gadgets/902499/insta360-link-2c-webcam-amazon-big-spring-sale-2026-deal",
+    "publishedAt": "2026-03-27T20:30:00.000Z",
+    "language": "en",
+    "category": "科技文化"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "希望、炒作还是恐惧？《人工智能文档》导演查理·提利尔（ Charlie Tyrell ）质疑接下来会发生什么",
+    "originalTitle": "Hope, Hype or Horror? 'The AI Doc' Director Charlie Tyrell Questions What Comes Next",
+    "summary": "Tyrell在接受CNET采访时谈到了这部新纪录片，该纪录片探讨了对人工智能热潮的乐观和悲观之间的紧张关系，该纪录片现已在部分影院上映。",
+    "originalSummary": "Tyrell spoke with CNET about the new documentary, which explores the tension between optimism and pessimism about the AI boom, now available in select theaters.",
+    "url": "https://www.cnet.com/tech/services-and-software/the-ai-doc-film-review-and-interview/",
+    "publishedAt": "2026-03-27T20:08:39.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "Meta因不断扩大的社区备注而被自己的监督委员会召集",
+    "originalTitle": "Meta Gets Called Out by Its Own Oversight Board Over Expanding Community Notes",
+    "summary": "对Meta处理审核方式的调查表明，社区备注并不能有效替代去年解散的第三方事实核查计划。",
+    "originalSummary": "A look into the way Meta handles moderation suggests Community Notes aren't an effective substitute for the third-party fact-checking program it disbanded last year.",
+    "url": "https://www.cnet.com/tech/services-and-software/meta-gets-called-out-by-its-own-oversight-board-over-expanding-community-notes/",
+    "publishedAt": "2026-03-27T20:07:29.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "我们正在亚马逊大春季促销期间跟踪我们最喜欢的优惠，我们看到了大量的优惠",
+    "originalTitle": "We're Tracking Our Favorite Deals During the Amazon Big Spring Sale and We're Seeing a Ton of Great Ones",
+    "summary": "亚马逊的春季促销可以提供您想要的任何东西，从吸尘器到电视以及介于两者之间的任何东西，我们正在过滤掉绒毛以找到真正的便宜货。",
+    "originalSummary": "Amazon's Spring Sale has deals on just about anything you could want, from vacuums to TVs and anything in between, and we're filtering out the fluff to find the real bargains.",
+    "url": "https://www.cnet.com/news-live/amazon-big-spring-sale-2026-favorite-lightning-deals-live-tracker/",
+    "publishedAt": "2026-03-27T20:04:00.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
     "source": "The Verge",
     "title": "白宫现在有一个应用程序，特朗普希望你向ICE报告",
     "originalTitle": "The White House has an app now, and Trump wants you to report people to ICE on it",
@@ -10,6 +154,18 @@
     "publishedAt": "2026-03-27T19:59:53.000Z",
     "language": "en",
     "category": "科技文化"
+  },
+  {
+    "id": "aHR0cHM6Ly9h",
+    "source": "Ars Technica",
+    "title": "法官说， Hegseth ，特朗普无权命令Anthropic被列入黑名单",
+    "originalTitle": "Hegseth, Trump had no authority to order Anthropic to be blacklisted, judge says",
+    "summary": "“我不知道” ：战争部未能证明将人类列入黑名单是合理的。",
+    "originalSummary": "\n                        “I don’t know”: Department of War fails to justify blacklisting Anthropic.\n                    ",
+    "url": "https://arstechnica.com/tech-policy/2026/03/hegseth-trump-had-no-authority-to-order-anthropic-to-be-blacklisted-judge-says/",
+    "publishedAt": "2026-03-27T19:49:18.000Z",
+    "language": "en",
+    "category": "深度科技"
   },
   {
     "id": "aHR0cHM6Ly93",
@@ -34,18 +190,6 @@
     "publishedAt": "2026-03-27T19:44:05.000Z",
     "language": "en",
     "category": "科技文化"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "三星：整个春天都可以看到春天的三角形。以下是如何看待它",
-    "originalTitle": "A Trio of Stars: The Spring Triangle Is Visible All Spring. Here's How to See It",
-    "summary": "Arcturus星、Spica星和Regulus星是天空中最亮的三颗星。",
-    "originalSummary": "The stars Arcturus, Spica and Regulus are three of the brightest in the sky.",
-    "url": "https://www.cnet.com/science/space/a-trio-of-stars-the-spring-triangle-is-visible-all-spring-and-heres-how-to-see-it/",
-    "publishedAt": "2026-03-27T19:16:00.000Z",
-    "language": "en",
-    "category": "数码产品"
   },
   {
     "id": "aHR0cHM6Ly90",
@@ -96,30 +240,6 @@
     "category": "科技文化"
   },
   {
-    "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "我们正在亚马逊大春季促销期间跟踪我们最喜欢的优惠，我们看到了大量的优惠",
-    "originalTitle": "We're Tracking Our Favorite Deals During the Amazon Big Spring Sale and We're Seeing a Ton of Great Ones",
-    "summary": "亚马逊的春季促销可以提供您想要的任何东西，从吸尘器到电视以及介于两者之间的任何东西，我们正在过滤掉绒毛以找到真正的便宜货。",
-    "originalSummary": "Amazon's Spring Sale has deals on just about anything you could want, from vacuums to TVs and anything in between, and we're filtering out the fluff to find the real bargains.",
-    "url": "https://www.cnet.com/news-live/amazon-big-spring-sale-2026-favorite-lightning-deals-live-tracker/",
-    "publishedAt": "2026-03-27T18:25:00.000Z",
-    "language": "en",
-    "category": "数码产品"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "使用宏碁全新人工智能驱动的Swift笔记本电脑，更智能地工作",
-    "originalTitle": "Work Smarter With Acer's New AI-Powered Swift Laptops",
-    "summary": "Swift 16 AI和Swift Go 16 AI是快速、智能的Windows PC ，配备Copilot +功能和锐利的OLED显示屏，专为创造性工作和忙碌的日子而打造。",
-    "originalSummary": "The Swift 16 AI and Swift Go 16 AI are fast, intelligent Windows PCs that pair Copilot+ features with sharp OLED displays built for creative work and busy days.",
-    "url": "https://www.cnet.com/tech/computing/work-smarter-with-acers-new-ai-powered-swift-laptops/",
-    "publishedAt": "2026-03-27T18:06:00.000Z",
-    "language": "en",
-    "category": "数码产品"
-  },
-  {
     "id": "aHR0cHM6Ly90",
     "source": "TechCrunch",
     "title": "在黑客声称数据泄露后，欧盟委员会确认网络攻击 ",
@@ -130,18 +250,6 @@
     "publishedAt": "2026-03-27T17:59:29.000Z",
     "language": "en",
     "category": "科技创业"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "我不想让《哈利·波特》重启，但新预告片让我着迷",
-    "originalTitle": "I Didn't Want a Harry Potter Reboot, but the New Trailer Has Me Under Its Spell",
-    "summary": "评论：作为哈利波特电影的狂热粉丝，很难接受新的HBO电视剧。但更多的魔法毕竟不是一件坏事。",
-    "originalSummary": "Commentary: As an avid fan of the Harry Potter movies, it was hard to accept the new HBO TV series. But more magic isn't a bad thing after all.",
-    "url": "https://www.cnet.com/tech/home-entertainment/harry-potter-tv-reboot-commentary/",
-    "publishedAt": "2026-03-27T17:53:57.000Z",
-    "language": "en",
-    "category": "数码产品"
   },
   {
     "id": "aHR0cHM6Ly93",
@@ -166,30 +274,6 @@
     "publishedAt": "2026-03-27T17:05:26.000Z",
     "language": "en",
     "category": "科技创业"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "在Roku频道以每月3 $的价格购买Snag AMC Plus、MGM Plus或Starz",
-    "originalTitle": "Snag AMC Plus, MGM Plus or Starz for $3 Per Month on the Roku Channel",
-    "summary": "您可以使用这些Roku折扣添加到您的流媒体服务套件中。",
-    "originalSummary": "You can add to your suite of streaming services with these Roku discounts.",
-    "url": "https://www.cnet.com/deals/snag-amc-plus-mgm-plus-or-starz-for-3-per-month-on-the-roku-channel/",
-    "publishedAt": "2026-03-27T17:00:09.000Z",
-    "language": "en",
-    "category": "数码产品"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "The Verge",
-    "title": "Nuki的一键式改装智能锁首次获得折扣",
-    "originalTitle": "Nuki’s one-touch retrofit smart lock got its first-ever discount",
-    "summary": "Nuki智能锁是目前最好的翻新智能锁，适用于那些想要对先前存在的死锁进行简约、功能丰富的升级的人。目前在Amazo的售价为$ 149",
-    "originalSummary": "The Nuki Smart Lock is the best retrofit smart lock currently available for people who want a minimalist, feature-packed upgrade to their preexisting deadlock. It’s currently selling for $149 at Amazo",
-    "url": "https://www.theverge.com/gadgets/902276/nuki-smart-lock-thread-matter-smart-home-amazon-big-spring-sale-2026-deal",
-    "publishedAt": "2026-03-27T16:30:00.000Z",
-    "language": "en",
-    "category": "科技文化"
   },
   {
     "id": "aHR0cHM6Ly9h",
@@ -226,90 +310,6 @@
     "publishedAt": "2026-03-27T15:57:40.000Z",
     "language": "en",
     "category": "深度科技"
-  },
-  {
-    "id": "aHR0cHM6Ly90",
-    "source": "TechCrunch",
-    "title": "Rivian从大众汽车公司又获得了$ 10亿",
-    "originalTitle": "Rivian gets another $1B from Volkswagen",
-    "summary": "两家公司一直在合作建立一家合资企业，该合资企业将让Rivian技术进入大众的电动汽车市场。",
-    "originalSummary": "The two companies have been collaborating on a joint venture that would see Rivian tech go in VW's EVs.",
-    "url": "https://techcrunch.com/2026/03/27/rivian-gets-another-1b-from-volkswagen/",
-    "publishedAt": "2026-03-27T15:47:03.000Z",
-    "language": "en",
-    "category": "科技创业"
-  },
-  {
-    "id": "aHR0cHM6Ly9h",
-    "source": "Ars Technica",
-    "title": "没有人对NASA关于私人空间站的新想法感到满意",
-    "originalTitle": "No one is happy with NASA's new idea for private space stations",
-    "summary": "“这让我想起了露西和查理·布朗的足球。”",
-    "originalSummary": "\n                        \"It reminds me of sort of Lucy and Charlie Brown with the football.\"\n                    ",
-    "url": "https://arstechnica.com/space/2026/03/what-happens-next-with-nasas-plan-to-replace-the-iss-source-it-could-get-ugly/",
-    "publishedAt": "2026-03-27T15:42:35.000Z",
-    "language": "en",
-    "category": "深度科技"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "Wired",
-    "title": "ICE特工因停工拖延而挫败机场工作人员",
-    "originalTitle": "ICE Agents Frustrate Airport Workers as Shutdown Drags On",
-    "summary": "纽约的一名航空公司工作人员说： “ICE在这里，他们实际上没有做任何事情来提供帮助。”",
-    "originalSummary": "“ICE are here and they’re doing literally nothing to help,” said an airline worker in New York.",
-    "url": "https://www.wired.com/story/ice-agents-frustrate-airport-employees-as-shutdown-drags-on/",
-    "publishedAt": "2026-03-27T15:18:19.000Z",
-    "language": "en",
-    "category": "科技趋势"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "Wired",
-    "title": "苹果仍计划在100岁时销售iPhone",
-    "originalTitle": "Apple Still Plans to Sell iPhones When It Turns 100",
-    "summary": "随着这家科技巨头年满50岁，《连线》杂志向高管们讲述了他们计划如何在人工智能时代获胜。",
-    "originalSummary": "As the tech giant turns 50, WIRED spoke to executives about how they plan to win in the AI era.",
-    "url": "https://www.wired.com/story/apple-50-year-anniversary-artificial-intelligence-iphone/",
-    "publishedAt": "2026-03-27T15:00:00.000Z",
-    "language": "en",
-    "category": "科技趋势"
-  },
-  {
-    "id": "aHR0cHM6Ly9h",
-    "source": "Ars Technica",
-    "title": "苹果在其高价、经常被忽视的Mac Pro台式机上拔掉插头",
-    "originalTitle": "Apple pulls the plug on its high-priced, oft-neglected Mac Pro desktop",
-    "summary": "M2 Ultra Mac Pro不再销售，苹果表示没有计划更换。",
-    "originalSummary": "\n                        M2 Ultra Mac Pro is no longer for sale, and Apple says no replacement is planned.\n                    ",
-    "url": "https://arstechnica.com/gadgets/2026/03/apple-has-finally-discontinued-the-mac-pro-desktop-after-years-of-fitful-effort/",
-    "publishedAt": "2026-03-27T14:47:03.000Z",
-    "language": "en",
-    "category": "深度科技"
-  },
-  {
-    "id": "aHR0cHM6Ly9h",
-    "source": "Ars Technica",
-    "title": "Rivian和大众集团完成新区域建筑的冬季测试",
-    "originalTitle": "Rivian and VW Group complete winter testing of new zonal architecture",
-    "summary": "RV Tech合资企业通过了一个关键的里程碑，为Rivian开辟了10亿美元。",
-    "originalSummary": "\n                        The RV Tech joint venture passed a key milestone, opens up $1 billion for Rivian.\n                    ",
-    "url": "https://arstechnica.com/cars/2026/03/rivian-and-vw-group-complete-winter-testing-of-new-zonal-architecture/",
-    "publishedAt": "2026-03-27T13:53:18.000Z",
-    "language": "en",
-    "category": "深度科技"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "Wired",
-    "title": "无需乘坐TSA线路：乘坐巴士、火车和船只前往何处",
-    "originalTitle": "Skip the TSA Line: Where to Find Travel by Bus, Train, and Boat",
-    "summary": "当您需要更多选择而不是飞往目的地时，这些应用程序和网站会为您找到巴士、火车和渡轮票。",
-    "originalSummary": "These apps and websites find bus, train, and ferry tickets when you want more options than flying to your destination.",
-    "url": "https://www.wired.com/story/skip-the-tsa-line-where-to-find-travel-by-bus-train-and-boat/",
-    "publishedAt": "2026-03-27T13:22:49.000Z",
-    "language": "en",
-    "category": "科技趋势"
   },
   {
     "id": "aHR0cHM6Ly93",
