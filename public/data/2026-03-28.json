@@ -1,5 +1,29 @@
 [
   {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "Hulu绝对最佳恐怖电影",
+    "originalTitle": "The Absolute Best Horror Movies on Hulu",
+    "summary": "试试由Samara Weaving主演的2019年电影《Ready or Not》。",
+    "originalSummary": "Try the 2019 film Ready or Not, starring Samara Weaving.",
+    "url": "https://www.cnet.com/culture/entertainment/best-horror-movies-on-hulu-march-2026/",
+    "publishedAt": "2026-03-28T18:55:32.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "The Verge",
+    "title": "Suno倾向于使用v5.5进行定制",
+    "originalTitle": "Suno leans into customization with v5.5",
+    "summary": "Suno刚刚发布了迄今为止最大的AI音乐模型v5.5更新之一。以前的更新主要集中在提高保真度和创造更自然的声音，而v5.5则是为我们提供",
+    "originalSummary": "Suno just released one of its biggest updates yet with v5.5 of its AI music model. Where previous updates focused mostly on improving fidelity and creating more natural vocals, v5.5 is about giving us",
+    "url": "https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model",
+    "publishedAt": "2026-03-28T18:33:10.000Z",
+    "language": "en",
+    "category": "科技文化"
+  },
+  {
     "id": "aHR0cHM6Ly90",
     "source": "TechCrunch",
     "title": "据报道， Elon Musk的最后一位联合创始人离开了xAI",
@@ -86,8 +110,8 @@
   {
     "id": "aHR0cHM6Ly93",
     "source": "The Verge",
-    "title": "TikTok的人工智能广告政策失效",
-    "originalTitle": "TikTok&#8217;s policy for AI ads isn&#8217;t working",
+    "title": "为什么TikTok无法识别人工智能生成的广告？",
+    "originalTitle": "Why can’t TikTok identify AI generated ads when I can?",
     "summary": "我一直在努力判断我的TikTok Feed中显示的广告是否是使用生成式人工智能工具制作的。作为一个花费大量时间仔细检查USU的图像和视频的人",
     "originalSummary": "I've been struggling to tell whether the ads appearing in my TikTok feeds have been made with generative AI tools. As someone who spends a great deal of time scrutinizing images and videos for the usu",
     "url": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure",
@@ -133,18 +157,6 @@
   },
   {
     "id": "aHR0cHM6Ly93",
-    "source": "The Verge",
-    "title": "经典的塞尔达风格探险，但更舒适",
-    "originalTitle": "A classic Zelda-style adventure, but a lot more cozy",
-    "summary": "塞尔达传说游戏是一场宏伟的冒险，但它们也可以非常舒适，有古朴的村庄可供探索，有温暖的景观可供欣赏。在岛下，这个想法更进一步。我",
-    "originalSummary": "The Legend of Zelda games are grand adventures, but they can also be very comforting, with quaint villages to explore and warm landscapes to take in. Under The Island takes that idea a step further. I",
-    "url": "https://www.theverge.com/games/902384/under-the-island-review",
-    "publishedAt": "2026-03-28T13:00:00.000Z",
-    "language": "en",
-    "category": "科技文化"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
     "source": "CNET",
     "title": "迪士尼乐园的布鲁伊： 2026年及以后迪士尼乐园的知识和未来",
     "originalTitle": "Bluey at Disneyland: What to Know and What Else Is Coming to Disney Parks in 2026 and Beyond",
@@ -176,18 +188,6 @@
     "originalSummary": "I loved the Oppo Find X9 Pro in my full review, but I was still surprised at how well its camera performed against the Apple iPhone 17 Pro.",
     "url": "https://www.cnet.com/tech/mobile/iphone-17-pro-loses-fight-against-the-oppo-find-x9-pros-camera/",
     "publishedAt": "2026-03-28T12:01:01.000Z",
-    "language": "en",
-    "category": "数码产品"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "想要更好的胶片照片？以下是我的模拟摄影专业技巧",
-    "originalTitle": "Want Better Film Photos? Here Are My Pro Tips for Analog Photography",
-    "summary": "多年来，我一直是一名专业摄影师。以下是我如何在胶片相机上拍照。",
-    "originalSummary": "I've been a pro photographer for years. Here's how I take photos on film cameras.",
-    "url": "https://www.cnet.com/tech/computing/analog-camera-film-photography-tips-starters-guide/",
-    "publishedAt": "2026-03-28T12:01:00.000Z",
     "language": "en",
     "category": "数码产品"
   },
