@@ -1,6 +1,42 @@
 [
   {
     "id": "aHR0cHM6Ly93",
+    "source": "The Verge",
+    "title": "Bluesky的新应用程序是用于自定义Feed的人工智能",
+    "originalTitle": "Bluesky’s new app is an AI for customizing your feed",
+    "summary": "Bluesky团队的最新应用是Attie ，这是一款人工智能助手，可让您构建自己的算法。在Atmosphere大会上， Bluesky前首席执行官Jay Graber和首席技术官Paul Frazee",
+    "originalSummary": "The latest app from the team behind Bluesky is Attie, an AI assistant that lets you build your own algorithm. At the Atmosphere conference, Bluesky's former CEO, Jay Graber, and CTO Paul Frazee, unvei",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds",
+    "publishedAt": "2026-03-29T21:44:41.000Z",
+    "language": "en",
+    "category": "科技文化"
+  },
+  {
+    "id": "aHR0cHM6Ly90",
+    "source": "TechCrunch",
+    "title": "Pixel 10A没有相机凸起，非常棒",
+    "originalTitle": "The Pixel 10a doesn’t have a camera bump, and it’s great",
+    "summary": "谷歌Pixel 10A可以平放在桌子上，但除此之外，该公司还没有为其最新的预算智能手机带来大量升级。",
+    "originalSummary": "The Google Pixel 10a can lay flat on a table, but otherwise the company hasn't brought a ton of upgrades to its newest budget smartphone.",
+    "url": "https://techcrunch.com/2026/03/29/google-pixel-10a-review-camera-bump-performance-ai-chip/",
+    "publishedAt": "2026-03-29T21:30:00.000Z",
+    "language": "en",
+    "category": "科技创业"
+  },
+  {
+    "id": "aHR0cHM6Ly90",
+    "source": "TechCrunch",
+    "title": "YouTube首席执行官表示，优秀的YouTube用户“永远不会离开家”",
+    "originalTitle": "YouTube CEO says the best YouTubers will ‘never leave their home’",
+    "summary": "首席执行官尼尔·莫汉（ Neal Mohan ）坚称，他并不担心Netflix会吸引YouTube最受欢迎的创作者。",
+    "originalSummary": "CEO Neal Mohan insisted that he isn’t worried about Netflix luring away YouTube's most popular creators.",
+    "url": "https://techcrunch.com/2026/03/29/youtube-ceo-says-the-best-youtubers-will-never-leave-their-home/",
+    "publishedAt": "2026-03-29T21:17:52.000Z",
+    "language": "en",
+    "category": "科技创业"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
     "source": "CNET",
     "title": "# 1023年3月30日的今日纽约时报Connections提示、答案和帮助",
     "originalTitle": "Today's NYT Connections Hints, Answers and Help for March 30, #1023",
@@ -132,18 +168,6 @@
     "category": "科技文化"
   },
   {
-    "id": "aHR0cHM6Ly90",
-    "source": "TechCrunch",
-    "title": "SXSW重新成为创始人和风险投资人的顶级网络和创意节",
-    "originalTitle": "SXSW rebounds as a top networking, ideas festival for founders and VCs",
-    "summary": "SXSW今年做出了一些改变，但一些创始人仍然喜欢它。",
-    "originalSummary": "SXSW made some changes this year, but some founders loved it all the same. ",
-    "url": "https://techcrunch.com/2026/03/29/sxsw-rebounds-as-a-top-networking-ideas-festival-for-founders-and-vcs/",
-    "publishedAt": "2026-03-29T14:01:00.000Z",
-    "language": "en",
-    "category": "科技创业"
-  },
-  {
     "id": "aHR0cHM6Ly93",
     "source": "The Verge",
     "title": "HBO的《哈利·波特》系列没有道德消费",
@@ -152,18 +176,6 @@
     "originalSummary": "In the coming years, HBO wants its new Harry Potter series to become \"the streaming event of the decade\" as it adapts each of the franchise's seven original books. The show could very well become a hi",
     "url": "https://www.theverge.com/report/901818/hbo-harry-potter-jk-rowling-transphobia",
     "publishedAt": "2026-03-29T14:00:00.000Z",
-    "language": "en",
-    "category": "科技文化"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "The Verge",
-    "title": "亚马逊大春季促销是购买由人工智能驱动的精美喂鸟器的好时机",
-    "originalTitle": "Amazon’s Big Spring Sale is a great time to get a fancy, AI-powered bird feeder",
-    "summary": "自20世纪初成立以来，喂鸟器已经走过了漫长的道路。如今，看到配备摄像头和太阳能屋顶的进料器并不令人惊讶，这两个大屏幕功能",
-    "originalSummary": "Bird feeders have come a long way since their inception in the early 1900s. These days, it’s not all that surprising to see feeders kitted out with cameras and solar roofs, two marquee features you’ll",
-    "url": "https://www.theverge.com/gadgets/902829/birdbuddy-netvue-smart-bird-feeders-amazon-big-spring-sale-2026-deals",
-    "publishedAt": "2026-03-29T13:00:00.000Z",
     "language": "en",
     "category": "科技文化"
   },
@@ -286,18 +298,6 @@
     "publishedAt": "2026-03-29T01:43:38.000Z",
     "language": "zh",
     "category": "中国科技"
-  },
-  {
-    "id": "aHR0cHM6Ly90",
-    "source": "TechCrunch",
-    "title": "Bluesky与Attie合作开发人工智能， Attie是一款用于构建自定义Feed的应用程序",
-    "originalTitle": "Bluesky leans into AI with Attie, an app for building custom feeds",
-    "summary": "Bluesky的新应用程序Attie使用人工智能来帮助人们构建开放式社交网络协议的自定义Feed。",
-    "originalSummary": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
-    "url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
-    "publishedAt": "2026-03-28T23:00:00.000Z",
-    "language": "en",
-    "category": "科技创业"
   },
   {
     "id": "aHR0cHM6Ly9h",
