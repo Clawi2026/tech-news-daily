@@ -1,27 +1,123 @@
 [
   {
     "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "使用专家认可的智能秤在家中测量体重、体脂肪和肌肉质量",
+    "originalTitle": "Measure Weight, Body Fat and Muscle Mass at Home With Expert-Approved Smart Scales",
+    "summary": "智能秤可直接从您的卫生间提供各种指标。",
+    "originalSummary": "A smart scale provides various metrics right from your bathroom.",
+    "url": "https://www.cnet.com/health/fitness/best-smart-scales/",
+    "publishedAt": "2026-03-29T11:30:00.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly9h",
+    "source": "Ars Technica",
+    "title": "测谎仪有重大缺陷。还有更好的选择吗？",
+    "originalTitle": "Polygraphs have major flaws. Are there better options?",
+    "summary": "关于替代品的研究仍在继续，但有些人怀疑是否可能检测到真正的谎言。",
+    "originalSummary": "\n                        Research proceeds on alternatives, but some doubt whether true lie detection is possible.\n                    ",
+    "url": "https://arstechnica.com/science/2026/03/polygraphs-have-major-flaws-are-there-better-options/",
+    "publishedAt": "2026-03-29T11:01:46.000Z",
+    "language": "en",
+    "category": "深度科技"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
     "source": "Wired",
-    "title": "最佳心率监测器（ 2026年） ： Polar、Coros、Garmin",
-    "originalTitle": "Best Heart Rate Monitors (2026): Polar, Coros, Garmin",
-    "summary": "这些胸带和腕表将帮助您掌握自己的脉搏以及许多其他与心脏相关的指标。",
-    "originalSummary": "These chest straps and watches will help you keep your finger on your pulse—and many other heart-related metrics.",
-    "url": "https://www.wired.com/gallery/best-heart-rate-monitors/",
-    "publishedAt": "2026-03-29T09:30:00.000Z",
+    "title": "2026年9款最佳安卓手机，经过测试和评审",
+    "originalTitle": "9 Best Android Phones of 2026, Tested and Reviewed",
+    "summary": "购买手机可能是一种折磨。这就是为什么我们已经测试了几乎所有的Android手机，从最智能到最便宜的手机，甚至是折叠手机，以找到值得你花钱的手机。",
+    "originalSummary": "Shopping for a phone can be an ordeal. That’s why we’ve tested almost every Android phone, from the smartest to the cheapest—even phones that fold—to find the ones worth your money.",
+    "url": "https://www.wired.com/gallery/best-android-phones/",
+    "publishedAt": "2026-03-29T11:00:00.000Z",
     "language": "en",
     "category": "科技趋势"
   },
   {
     "id": "aHR0cHM6Ly93",
     "source": "Wired",
-    "title": "这40个亚马逊春季促销技术优惠实际上很好。我们查看了价格历史记录（ 2026年）",
-    "originalTitle": "These 40 Amazon Spring Sale Tech Deals Are Actually Good. We Checked the Price History (2026)",
-    "summary": "这次促销几乎持续了整整一周，到处都是虚假的“优惠”。“我们一直在寻找我们测试过的装备的真正优惠价格。",
-    "originalSummary": "This sale spans almost an entire week, and it’s full of fake “deals.” We hunted to find truly good prices on gear we’ve tested.",
-    "url": "https://www.wired.com/story/the-amazon-spring-sale-2026-2/",
-    "publishedAt": "2026-03-29T09:03:00.000Z",
+    "title": "一个学区试图帮助Waymos停靠校车。无效",
+    "originalTitle": "A School District Tried to Help Train Waymos to Stop for School Buses. It Didn’t Work",
+    "summary": "奥斯汀的事件引发了人们对自动驾驶汽车如何“学习”和适应周围环境的质疑。",
+    "originalSummary": "The incidents in Austin raise questions about how self-driving cars “learn” and adapt to their surroundings.",
+    "url": "https://www.wired.com/story/a-school-district-tried-to-help-train-waymos-to-stop-for-school-buses-it-didnt-work/",
+    "publishedAt": "2026-03-29T11:00:00.000Z",
     "language": "en",
     "category": "科技趋势"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "Wired",
+    "title": "您的照片可能会泄露您的位置。以下是如何阻止这种情况的方法",
+    "originalTitle": "Your Photos Are Probably Giving Away Your Location. Here’s How to Stop That",
+    "summary": "所有快照都附带元数据，其中包含的信息比您想象的要多。",
+    "originalSummary": "All your snaps come with metadata containing more information than you might realize.",
+    "url": "https://www.wired.com/story/how-to-stop-your-photos-giving-away-your-location/",
+    "publishedAt": "2026-03-29T10:30:00.000Z",
+    "language": "en",
+    "category": "科技趋势"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "Wired",
+    "title": "最佳降噪耳塞： Bose、索尼、苹果等",
+    "originalTitle": "Best Noise-Canceling Earbuds: Bose, Sony, Apple, and More",
+    "summary": "每个人都需要一副好的ANC耳机。这些都是最好的。",
+    "originalSummary": "Everyone needs a good pair of ANC earbuds. These are the best of the bunch.",
+    "url": "https://www.wired.com/gallery/best-noise-canceling-earbuds/",
+    "publishedAt": "2026-03-29T10:30:00.000Z",
+    "language": "en",
+    "category": "科技趋势"
+  },
+  {
+    "id": "aHR0cHM6Ly8z",
+    "source": "36Kr",
+    "title": "科氪 | 变革传统同传设备，亮亮视野推出全球首创AR+AI会议翻译系统，部署中关村论坛",
+    "originalTitle": "科氪 | 变革传统同传设备，亮亮视野推出全球首创AR+AI会议翻译系统，部署中关村论坛",
+    "summary": "\n \n \n  在2026中关村论坛主会场，亮亮视野联合智谱AI推出并部署了全球首创的AR+AI会议翻译系统，为主论坛及多场平行论坛提供大会翻译保障。这套系统深度融合亮亮视野AR眼镜与智谱AI大模型能力，可支持54种语言实时翻译，延迟小于1秒，单次续航8小时，并可7×24小时稳定运行。这标志着国际会议翻译从传统设备和人工依赖，迈向更高效率、更低成本、更强普惠性的 AR+AI 新阶段。\n  长期以来，",
+    "originalSummary": "\n \n \n  在2026中关村论坛主会场，亮亮视野联合智谱AI推出并部署了全球首创的AR+AI会议翻译系统，为主论坛及多场平行论坛提供大会翻译保障。这套系统深度融合亮亮视野AR眼镜与智谱AI大模型能力，可支持54种语言实时翻译，延迟小于1秒，单次续航8小时，并可7×24小时稳定运行。这标志着国际会议翻译从传统设备和人工依赖，迈向更高效率、更低成本、更强普惠性的 AR+AI 新阶段。\n  长期以来，",
+    "url": "https://36kr.com/p/3743855989587971?f=rss",
+    "publishedAt": "2026-03-29T10:07:47.000Z",
+    "language": "zh",
+    "category": "中国科技"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "Wired",
+    "title": "设计方向盘的看似棘手的艺术",
+    "originalTitle": "The Deceptively Tricky Art of Designing a Steering Wheel",
+    "summary": "汽车行业的资深设计师和Jony Ive告诉我们，制造功能齐全但美观的方向盘是多么困难。",
+    "originalSummary": "Veteran designers in the auto industry—and Jony Ive—tell us how hard it is to make a functional yet beautiful steering wheel.",
+    "url": "https://www.wired.com/story/the-deceptively-tricky-art-of-designing-a-steering-wheel/",
+    "publishedAt": "2026-03-29T10:00:00.000Z",
+    "language": "en",
+    "category": "科技趋势"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "iOS 26.4为您的iPhone带来新的表情符号、播放列表生成器等功能",
+    "originalTitle": "iOS 26.4 Brings New Emoji, a Playlist Generator and More to Your iPhone",
+    "summary": "以下是自iOS 26六个月前发布以来最大的iPhone更新的所有相关信息。",
+    "originalSummary": "Here's everything you should know about the biggest iPhone update since iOS 26 dropped six months ago.",
+    "url": "https://www.cnet.com/tech/services-and-software/ios-26-4-brings-new-emoji-a-playlist-generator-and-more-to-your-iphone/",
+    "publishedAt": "2026-03-29T10:00:00.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly9z",
+    "source": "少数派",
+    "title": "自制电子墨水屏，以及我用它来干了什么？",
+    "originalTitle": "自制电子墨水屏，以及我用它来干了什么？",
+    "summary": "三种更新方式，从万年历、通知推送到信息展示。查看全文",
+    "originalSummary": "三种更新方式，从万年历、通知推送到信息展示。查看全文",
+    "url": "https://sspai.com/post/105990",
+    "publishedAt": "2026-03-29T09:38:34.000Z",
+    "language": "zh",
+    "category": "数码生活"
   },
   {
     "id": "aHR0cHM6Ly93",
@@ -56,30 +152,6 @@
     "originalSummary": "Here are some hints and the answers for the NYT Connections puzzle No. 1,022 for Sunday, March 29.",
     "url": "https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-29-1022/",
     "publishedAt": "2026-03-29T09:01:49.000Z",
-    "language": "en",
-    "category": "数码产品"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "在价格上涨之前购买孩子们最喜欢的NEX游乐场的最后机会",
-    "originalTitle": "Last Chance to Buy the Kids' Favorite Nex Playground Before It Gets a Price Hike",
-    "summary": "儿童和家长认可的游戏机价格将上涨$ 50。这就是为什么，以及为什么它仍然值得购买。",
-    "originalSummary": "The kid and parent approved gaming console is going up $50. Here's why, and why it's still worth buying.",
-    "url": "https://www.cnet.com/tech/gaming/nex-playground-hike/",
-    "publishedAt": "2026-03-29T09:00:00.000Z",
-    "language": "en",
-    "category": "数码产品"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "3月29日星期日的纽约时报迷你填字游戏答案",
-    "originalTitle": "Today's NYT Mini Crossword Answers for Sunday, March 29",
-    "summary": "以下是《纽约时报》3月29日迷你填字游戏的答案。",
-    "originalSummary": "Here are the answers for The New York Times Mini Crossword for March 29.",
-    "url": "https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-march-29/",
-    "publishedAt": "2026-03-29T05:20:52.000Z",
     "language": "en",
     "category": "数码产品"
   },
@@ -240,18 +312,6 @@
     "category": "深度科技"
   },
   {
-    "id": "aHR0cHM6Ly93",
-    "source": "Wired",
-    "title": "目前最好的佳明手表是什么？ （ 2026年）",
-    "originalTitle": "What Is the Best Garmin Watch Right Now? (2026)",
-    "summary": "我们测试了Garmin支持GPS的健身追踪器，为休闲徒步旅行者、偏远地区滑雪者等找到了完美的选择。",
-    "originalSummary": "We tested Garmin’s GPS-enabled fitness trackers and found the perfect picks for casual hikers, backcountry skiers, and more.",
-    "url": "https://www.wired.com/story/best-garmin-watch/",
-    "publishedAt": "2026-03-28T11:30:00.000Z",
-    "language": "en",
-    "category": "科技趋势"
-  },
-  {
     "id": "aHR0cHM6Ly9h",
     "source": "Ars Technica",
     "title": "新的捕鱼技术如何减少海龟和其他生物的副渔获物",
@@ -262,30 +322,6 @@
     "publishedAt": "2026-03-28T11:15:35.000Z",
     "language": "en",
     "category": "深度科技"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "Wired",
-    "title": "最佳Pixel 10保护壳和配件（ 2026 ） ：我们已经测试了数十款",
-    "originalTitle": "The Best Pixel 10 Cases and Accessories (2026): We’ve Tested Dozens",
-    "summary": "无论您是使用Pixel 10A、Pixel 10还是Pixel 10 Pro XL ，都可以在闪亮的新Pixel上轻拍手机壳。我们还为Qi2充电器和其他配件提供建议。",
-    "originalSummary": "Slap a case on your shiny new Pixel, whether you have the Pixel 10a, Pixel 10, or Pixel 10 Pro XL. We also have recommendations for Qi2 chargers and other accessories.",
-    "url": "https://www.wired.com/gallery/best-pixel-10-cases-and-accessories/",
-    "publishedAt": "2026-03-28T11:08:00.000Z",
-    "language": "en",
-    "category": "科技趋势"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "Wired",
-    "title": "您的电子烟想知道您的年龄",
-    "originalTitle": "Your Vape Wants to Know How Old You Are",
-    "summary": "公司希望盒式磁带中的生物识别年龄验证技术可以将调味电子烟重新投入业务。但这不太可能解决真正的问题。",
-    "originalSummary": "Companies hope that biometric age-verification tech in cartridges could put flavored vapes back in business. But it's unlikely to solve the real problems.",
-    "url": "https://www.wired.com/story/your-vape-wants-to-know-how-old-you-are/",
-    "publishedAt": "2026-03-28T11:00:00.000Z",
-    "language": "en",
-    "category": "科技趋势"
   },
   {
     "id": "aHR0cHM6Ly8z",
@@ -348,18 +384,6 @@
     "category": "中国科技"
   },
   {
-    "id": "aHR0cHM6Ly8z",
-    "source": "36Kr",
-    "title": "业绩快报 | 茶百道2025年业绩报：新品业绩贡献超30%，部分门店咖啡日售超百杯",
-    "originalTitle": "业绩快报 | 茶百道2025年业绩报：新品业绩贡献超30%，部分门店咖啡日售超百杯",
-    "summary": "\n \n \n  文｜王熠\n  3月27日，茶百道发布2025年业绩报告，公司总年度GMV达到161.8亿元，同比增长11%；单店日均GMV较2024年提升10%。\n  自2025年二季度起，外卖大战重点围绕“咖啡及新茶饮”赛道展开。然而在第三季度后，各平台的补贴显著减弱，部分茶咖企业的外卖订单下滑，且长达数月的补贴及促销，也进而影响了公司的毛利率水平及线下门店的营收表现。\n  在诸多茶咖企业之中，茶",
-    "originalSummary": "\n \n \n  文｜王熠\n  3月27日，茶百道发布2025年业绩报告，公司总年度GMV达到161.8亿元，同比增长11%；单店日均GMV较2024年提升10%。\n  自2025年二季度起，外卖大战重点围绕“咖啡及新茶饮”赛道展开。然而在第三季度后，各平台的补贴显著减弱，部分茶咖企业的外卖订单下滑，且长达数月的补贴及促销，也进而影响了公司的毛利率水平及线下门店的营收表现。\n  在诸多茶咖企业之中，茶",
-    "url": "https://36kr.com/p/3741100948029448?f=rss",
-    "publishedAt": "2026-03-28T00:00:00.000Z",
-    "language": "zh",
-    "category": "中国科技"
-  },
-  {
     "id": "aHR0cHM6Ly9h",
     "source": "Ars Technica",
     "title": "2026年单手玩Wolfenstein 3D",
@@ -368,18 +392,6 @@
     "originalSummary": "\n                        Over three decades later, this historical curiosity has more than a few rough edges\n                    ",
     "url": "https://arstechnica.com/gaming/2026/03/playing-wolfenstein-3d-with-one-hand-in-2026/",
     "publishedAt": "2026-03-27T22:09:00.000Z",
-    "language": "en",
-    "category": "深度科技"
-  },
-  {
-    "id": "aHR0cHM6Ly9h",
-    "source": "Ars Technica",
-    "title": "借助新的插件功能， OpenAI正式将Codex超越编码",
-    "originalTitle": "With new plugins feature, OpenAI officially takes Codex beyond coding",
-    "summary": "事情发展得很快，竞争对手已经提供了类似的东西一段时间了。",
-    "originalSummary": "\n                        Things are moving fast, and competitors have offered something similar for a while.\n                    ",
-    "url": "https://arstechnica.com/ai/2026/03/openai-brings-plugins-to-codex-closing-some-of-the-gap-with-claude-code/",
-    "publishedAt": "2026-03-27T21:53:45.000Z",
     "language": "en",
     "category": "深度科技"
   },
@@ -440,18 +452,6 @@
     "originalSummary": "毕加索曾经在参观一个儿童画展时感叹道：我像他们这么大的时候，就能画得像拉斐尔一样好，但我花了一辈子才学会像孩子一样画画。这句感慨，意味着孩子的美术创作有着足以令现代艺术大师倾倒的魅力。这是因为，孩子未 ...查看全文",
     "url": "https://sspai.com/post/107748",
     "publishedAt": "2026-03-27T06:42:00.000Z",
-    "language": "zh",
-    "category": "数码生活"
-  },
-  {
-    "id": "aHR0cHM6Ly9z",
-    "source": "少数派",
-    "title": "共创栏目试读 | 美术专业就能做好幼儿美育启蒙吗？",
-    "originalTitle": "共创栏目试读 | 美术专业就能做好幼儿美育启蒙吗？",
-    "summary": "按：本文是少数派共创栏目《写给家长的幼儿美术启蒙指南》的首篇文章。在共创模式下，我们鼓励少数派作者向我们提交创作提案和样稿，择优秀提案发布在少数派共创平台上，以便读者能更早获知教程上新动态。同时，我们 ...查看全文",
-    "originalSummary": "按：本文是少数派共创栏目《写给家长的幼儿美术启蒙指南》的首篇文章。在共创模式下，我们鼓励少数派作者向我们提交创作提案和样稿，择优秀提案发布在少数派共创平台上，以便读者能更早获知教程上新动态。同时，我们 ...查看全文",
-    "url": "https://sspai.com/post/101488",
-    "publishedAt": "2026-03-27T06:37:02.000Z",
     "language": "zh",
     "category": "数码生活"
   },
