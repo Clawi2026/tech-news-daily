@@ -1,5 +1,65 @@
 [
   {
+    "id": "aHR0cHM6Ly90",
+    "source": "TechCrunch",
+    "title": "随着伊朗战争扰乱全球能源市场，亚马逊以“燃油附加费”打击卖家",
+    "originalTitle": "Amazon hits sellers with ‘fuel surcharge’ as Iran war roils global energy markets",
+    "summary": "这家电子商务巨头称该附加费是“临时性的” ，但无法给出该政策何时退出的日期。",
+    "originalSummary": "The e-commerce giant called the surcharge \"temporary\" but couldn't give a date for when the policy would be retired. ",
+    "url": "https://techcrunch.com/2026/04/02/amazon-hits-sellers-with-fuel-surcharge-as-iran-war-roils-global-energy-markets/",
+    "publishedAt": "2026-04-02T22:56:29.000Z",
+    "language": "en",
+    "category": "科技创业"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "想要时尚前卫的智能眼镜？这家公司可以很容易地做到这一点",
+    "originalTitle": "Want Fashion-Forward Smart Glasses? This Company Could Easily Make It So",
+    "summary": "评论：如果有一家公司能够制造真正时尚的可穿戴技术，那就是英国独立宠儿Nothing。",
+    "originalSummary": "Commentary: If there's one company capable of making genuinely stylish wearable tech, it's British indie darling Nothing.",
+    "url": "https://www.cnet.com/tech/mobile/nothing-reportedly-making-smart-glasses-2027-launch-commentary/",
+    "publishedAt": "2026-04-02T22:19:40.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "The Verge",
+    "title": "AO3在17年后终于脱离β",
+    "originalTitle": "AO3 is finally out of beta after 17 years",
+    "summary": "Archive of Our Own (AO3)正式退出测试版。粉丝小说网站背后的非营利组织变革作品组织（ Organization for Transformative Works ）周四宣布了这一更新，该更新是在",
+    "originalSummary": "Archive of Our Own (AO3) is officially exiting beta. The Organization for Transformative Works - the nonprofit behind the fanfiction site - announced the update on Thursday, which comes 17 years after",
+    "url": "https://www.theverge.com/tech/906346/ao3-archive-of-our-own-beta-exit",
+    "publishedAt": "2026-04-02T22:07:58.000Z",
+    "language": "en",
+    "category": "科技文化"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "# 1749年4月3日今天的Wordle提示、答案和帮助",
+    "originalTitle": "Today's Wordle Hints, Answer and Help for April 3, #1749",
+    "summary": "以下是今天4月3日第1749期Wordle的提示和答案。",
+    "originalSummary": "Here are hints and the answer for today's Wordle for April 3, No. 1,749.",
+    "url": "https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-3-1749/",
+    "publishedAt": "2026-04-02T22:04:24.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "The Verge",
+    "title": "PSA ：默认情况下，任何拥有链接的人都可以查看您的Granola备注",
+    "originalTitle": "PSA: Anyone with a link can view your Granola notes by default",
+    "summary": "如果您使用人工智能笔记应用程序Granola ，则可能需要仔细检查您的隐私设置。虽然Granola说您的笔记“默认情况下是私密的” ，但它可以让任何",
+    "originalSummary": "If you use the AI-powered note-taking app Granola, you might want to double-check your privacy settings. Though Granola says your notes are \"private by default,\" it makes them viewable to anyone with ",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/906253/granola-note-links-ai-training-psa",
+    "publishedAt": "2026-04-02T21:56:16.000Z",
+    "language": "en",
+    "category": "科技文化"
+  },
+  {
     "id": "aHR0cHM6Ly93",
     "source": "The Verge",
     "title": "Reddit正在从r/all向前发展",
@@ -10,6 +70,18 @@
     "publishedAt": "2026-04-02T21:50:53.000Z",
     "language": "en",
     "category": "科技文化"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "这是一个骗局：世界上最古老的乌龟乔纳森仍然“活得很好”",
+    "originalTitle": "It Was a Hoax: Jonathan, the World's Oldest Tortoise, Is Still 'Alive and Well'",
+    "summary": "据乌龟兽医乔纳森（ Jonathan the tortoise's vet ）称，还有来自同一账户的加密货币捐赠请求，该账户错误地宣布了乌龟的死亡。",
+    "originalSummary": "According to Jonathan the tortoise's vet, there was also a crypto donation request from the same account that falsely announced the tortoise's death.",
+    "url": "https://www.cnet.com/news/worlds-oldest-tortoise-alive-despite-death-hoax/",
+    "publishedAt": "2026-04-02T21:45:03.000Z",
+    "language": "en",
+    "category": "数码产品"
   },
   {
     "id": "aHR0cHM6Ly93",
@@ -49,18 +121,6 @@
   },
   {
     "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "据CNET音频专家称， 2026年最佳居家办公耳机",
-    "originalTitle": "Best Headsets for Working From Home in 2026, According to CNET's Audio Expert",
-    "summary": "我测试了几十个耳机和耳机，以找到最舒适的型号，具有强大的通话质量和稳定的PC兼容性，适合视频会议。这是我的首选。",
-    "originalSummary": "I tested dozens of headphones and headsets to find the most comfortable models with strong call quality and solid PC compatibility for video meetings. Here are my top picks.",
-    "url": "https://www.cnet.com/tech/mobile/best-headphones-for-work-at-home/",
-    "publishedAt": "2026-04-02T21:21:00.000Z",
-    "language": "en",
-    "category": "数码产品"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
     "source": "The Verge",
     "title": "您现在可以获得的最佳AirPods优惠",
     "originalTitle": "The best AirPods deals you can get right now",
@@ -85,18 +145,6 @@
   },
   {
     "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "成功冲水： Artemis II船员修复太空厕所",
-    "originalTitle": "Flush With Success: Artemis II Crew Fixes Space Toilet",
-    "summary": "休斯顿，我们有便盆问题。团队努力修复了猎户座宇宙飞船的浴室，让宇航员松了一口气。",
-    "originalSummary": "Houston, we have a potty problem. A team effort restored the Orion spacecraft's bathroom, to astronauts' relief.",
-    "url": "https://www.cnet.com/science/space/artemis-ii-crew-fixes-space-toilet/",
-    "publishedAt": "2026-04-02T20:50:25.000Z",
-    "language": "en",
-    "category": "数码产品"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
     "source": "Wired",
     "title": "Google Pixel 10 $ 150折扣",
     "originalTitle": "The Google Pixel 10 Is $150 Off",
@@ -106,18 +154,6 @@
     "publishedAt": "2026-04-02T20:50:18.000Z",
     "language": "en",
     "category": "科技趋势"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "iPhone 18 ：我们所知道的关于苹果即将推出的移动旗舰产品的一切",
-    "originalTitle": "iPhone 18: All We Know About Apple's Upcoming Mobile Flagship",
-    "summary": "关于苹果下一代iPhone的谣言已经流传了很长一段时间。以下是到目前为止我们对iPhone 18的了解。",
-    "originalSummary": "Rumors have been circulating about Apple's next iPhone for quite some time. Here's what we know about the iPhone 18 so far.",
-    "url": "https://www.cnet.com/tech/mobile/iphone-18-pro-rumors-release-date-price-design-specs/",
-    "publishedAt": "2026-04-02T20:42:00.000Z",
-    "language": "en",
-    "category": "数码产品"
   },
   {
     "id": "aHR0cHM6Ly93",
@@ -180,18 +216,6 @@
     "category": "深度科技"
   },
   {
-    "id": "aHR0cHM6Ly93",
-    "source": "The Verge",
-    "title": "ABS挑战系统暴露了棒球界最糟糕的裁判",
-    "originalTitle": "The ABS Challenge System is exposing the worst umpire in baseball",
-    "summary": "在周三坦帕湾光芒队和密尔沃基酿酒人队的比赛中，裁判CB Bucknor在面具上打了一个犯规球，不得不在场外得到帮助。这是一个党派的帽子",
-    "originalSummary": "During Wednesday's game between the Tampa Bay Rays and the Milwaukee Brewers, umpire CB Bucknor took a foul ball to the mask and had to be helped off the field. It was the cap to what has been a parti",
-    "url": "https://www.theverge.com/entertainment/906151/mlb-abs-challenge-system-cb-bucknor-worst-umpire-baseball",
-    "publishedAt": "2026-04-02T19:50:41.000Z",
-    "language": "en",
-    "category": "科技文化"
-  },
-  {
     "id": "aHR0cHM6Ly9h",
     "source": "Ars Technica",
     "title": "雌性激素引导雄性章鱼交配",
@@ -228,18 +252,6 @@
     "category": "科技趋势"
   },
   {
-    "id": "aHR0cHM6Ly93",
-    "source": "The Verge",
-    "title": "Pinterest表示，他侵犯了下岗同事的隐私。现在他要上市了",
-    "originalTitle": "Pinterest said he violated laid-off colleagues&#8217; privacy. Now he&#8217;s going public",
-    "summary": "当时是1月下旬， Pinterest工程师泰迪·马丁（ Teddy Martin ）对公司最近的裁员感到不安。马丁刚刚经历了一轮裁员，但他和其他员工对",
-    "originalSummary": "It was late January, and Pinterest engineer Teddy Martin was on edge about recent layoffs at the company. Martin had just survived a round of cuts, but he and other employees were confused about who w",
-    "url": "https://www.theverge.com/policy/906122/pinterest-employee-fired-obstructionist-speaks-out",
-    "publishedAt": "2026-04-02T19:27:52.000Z",
-    "language": "en",
-    "category": "科技文化"
-  },
-  {
     "id": "aHR0cHM6Ly90",
     "source": "TechCrunch",
     "title": "OpenAI收购TBPN ，这是由创始人主导的商业脱口秀节目",
@@ -248,18 +260,6 @@
     "originalSummary": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
     "url": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
     "publishedAt": "2026-04-02T19:21:00.000Z",
-    "language": "en",
-    "category": "科技创业"
-  },
-  {
-    "id": "aHR0cHM6Ly90",
-    "source": "TechCrunch",
-    "title": "Flipboard新推出的“社交网站”可帮助发布商和创作者进入开放的社交网络",
-    "originalTitle": "Flipboard’s new ‘social websites’ help publishers and creators tap into the open social web",
-    "summary": "Flipboard的社交网站将Bluesky、Mastodon、Threads、YouTube、播客、博客和RSS订阅的个人资料和文章整合到一个共享目的地。",
-    "originalSummary": "Flipboard's social websites consolidate profiles and posts from Bluesky, Mastodon, Threads, YouTube, podcasts, blogs, and RSS feeds into a single, shared destination.",
-    "url": "https://techcrunch.com/2026/04/02/flipboard-surf-social-websites-help-publishers-and-creators-tap-into-the-open-social-web/",
-    "publishedAt": "2026-04-02T19:18:51.000Z",
     "language": "en",
     "category": "科技创业"
   },
