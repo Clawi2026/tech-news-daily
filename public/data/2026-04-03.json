@@ -1,6 +1,78 @@
 [
   {
     "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "美国宇航局的阿尔忒弥斯II登月：第3天现场更新",
+    "originalTitle": "NASA's Artemis II Is Moon-Bound: Day 3 Live Updates",
+    "summary": "由四人组成的阿尔忒弥斯二号宇航员已经正式离开地球轨道，前往月球。以下是您需要了解的重大使命的所有信息。",
+    "originalSummary": "The four-person Artemis II crew has officially left Earth's orbit and is headed toward the moon. Here's everything you need to know about the momentous mission.",
+    "url": "https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/",
+    "publishedAt": "2026-04-03T23:22:16.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly9h",
+    "source": "Ars Technica",
+    "title": "冰河时代的骰子显示早期美洲原住民可能已经理解概率",
+    "originalTitle": "Ice Age dice show early Native Americans may have understood probability",
+    "summary": "冰河时代的狩猎采集者“故意以可重复的、基于规则的方式依赖随机结果。”",
+    "originalSummary": "\n                        Ice Age hunter-gatherer \"were intentionally relying on random outcomes in repeatable, rule-based ways.\"\n                    ",
+    "url": "https://arstechnica.com/science/2026/04/ice-age-dice-show-early-native-americans-may-have-understood-probability/",
+    "publishedAt": "2026-04-03T22:55:29.000Z",
+    "language": "en",
+    "category": "深度科技"
+  },
+  {
+    "id": "aHR0cHM6Ly90",
+    "source": "TechCrunch",
+    "title": "这款匿名社交应用认为它可以在沙特阿拉伯发挥作用",
+    "originalTitle": "The anonymous social app that thinks it can work in Saudi Arabia",
+    "summary": "当Fizz在沙特阿拉伯悄然亮相时，创始人兼首席执行官泰迪·所罗门（ Teddy Solomon ）没想到该应用会像现在这样流行起来。",
+    "originalSummary": "When Fizz quietly debuted in Saudi Arabia, founder and CEO Teddy Solomon wasn’t expecting the app to catch on like it did. ",
+    "url": "https://techcrunch.com/2026/04/03/the-anonymous-social-app-that-thinks-it-can-work-in-saudi-arabia/",
+    "publishedAt": "2026-04-03T22:24:57.000Z",
+    "language": "en",
+    "category": "科技创业"
+  },
+  {
+    "id": "aHR0cHM6Ly9h",
+    "source": "Ars Technica",
+    "title": "当阿尔忒弥斯二世放大到月球时，一切似乎都在游泳",
+    "originalTitle": "As Artemis II zooms to the Moon, everything seems to be going swimmingly",
+    "summary": "机舱周四较冷，但机组人员已经能够调节温度。",
+    "originalSummary": "\n                        The cabin was colder on Thursday, but the crew has been able to adjust the temperature.\n                    ",
+    "url": "https://arstechnica.com/space/2026/04/as-artemis-ii-zooms-to-the-moon-everything-seems-to-be-going-swimmingly/",
+    "publishedAt": "2026-04-03T22:20:19.000Z",
+    "language": "en",
+    "category": "深度科技"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "在减少“支线任务”后， OpenAI购买了一个脱口秀节目",
+    "originalTitle": "After Cutting Down on 'Side Quests,' OpenAI Bought a Talk Show",
+    "summary": "这家AI巨头最近表示将结束其Sora图像生成器，并无限期推迟计划中的ChatGPT “成人模式”。",
+    "originalSummary": "The AI giant recently said it would end its Sora image generator and put off a planned ChatGPT \"adult mode\" indefinitely.",
+    "url": "https://www.cnet.com/tech/services-and-software/openai-acquires-tbpn/",
+    "publishedAt": "2026-04-03T22:20:00.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "足总杯足球直播：从任何地方观看曼城与利物浦的比赛",
+    "originalTitle": "Livestream FA Cup Soccer: Watch Man City vs. Liverpool From Anywhere",
+    "summary": "瓜迪奥拉的团队的目标是在举办Arne Slot的红军时更接近第二次杯赛胜利。",
+    "originalSummary": "Pep Guardiola's team aims to step closer to a second cup triumph as they host Arne Slot's Reds.",
+    "url": "https://www.cnet.com/tech/services-and-software/livestream-fa-cup-soccer-watch-man-city-vs-liverpool-from-anywhere/",
+    "publishedAt": "2026-04-03T21:46:36.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
     "source": "Wired",
     "title": "Meta在数据泄露使人工智能行业机密面临风险后暂停与Mercor的合作",
     "originalTitle": "Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk",
@@ -46,18 +118,6 @@
     "publishedAt": "2026-04-03T21:06:15.000Z",
     "language": "en",
     "category": "深度科技"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "美国宇航局的阿尔忒弥斯II登月：第3天现场更新",
-    "originalTitle": "NASA's Artemis II Is Moon-Bound: Day 3 Live Updates",
-    "summary": "由四人组成的阿尔忒弥斯二号宇航员已经正式离开地球轨道，前往月球。以下是您需要了解的重大使命的所有信息。",
-    "originalSummary": "The four-person Artemis II crew has officially left Earth's orbit and is headed toward the moon. Here's everything you need to know about the momentous mission.",
-    "url": "https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/",
-    "publishedAt": "2026-04-03T21:02:28.000Z",
-    "language": "en",
-    "category": "数码产品"
   },
   {
     "id": "aHR0cHM6Ly93",
@@ -120,18 +180,6 @@
     "category": "科技创业"
   },
   {
-    "id": "aHR0cHM6Ly9h",
-    "source": "Ars Technica",
-    "title": "OpenClaw为用户提供了另一个原因，让他们对安全性感到恐慌",
-    "originalTitle": "OpenClaw gives users yet another reason to be freaked out about security",
-    "summary": "病毒式人工智能代理工具允许攻击者静默地获得未经身份验证的管理员访问权限。",
-    "originalSummary": "\n                        The viral AI agentic tool let attackers silently gain admin unauthenticated access.\n                    ",
-    "url": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/",
-    "publishedAt": "2026-04-03T20:30:15.000Z",
-    "language": "en",
-    "category": "深度科技"
-  },
-  {
     "id": "aHR0cHM6Ly90",
     "source": "TechCrunch",
     "title": "Anthropic以4亿美元收购生物技术初创公司Coefficient Bio ：报告",
@@ -148,8 +196,8 @@
     "source": "The Verge",
     "title": "OpenAI的AGI老板正在休假",
     "originalTitle": "OpenAI’s AGI boss is taking a leave of absence",
-    "summary": "根据The Verge查看的内部备忘录， OpenAI正在经历另一轮高管变更。Fidji Simo ， OpenAI AGI部署首席执行官，直到最近一直担任该公司的Appli首席执行官",
-    "originalSummary": "OpenAI is undergoing another round of C-suite changes, according to an internal memo viewed by The Verge. Fidji Simo, OpenAI's CEO of AGI deployment - who was until recently the company's CEO of Appli",
+    "summary": "根据The Verge查看的内部备忘录， OpenAI正在经历另一轮高管变更。Fidji Simo ， OpenAI的AGI部署首席执行官-直到最近，他还是该公司的APPLI首席执行官",
+    "originalSummary": "OpenAI is undergoing another round of C-suite changes, according to an internal memo viewed by The Verge. Fidji Simo, OpenAI's CEO of AGI deployment - who was until recently the company's CEO of appli",
     "url": "https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence",
     "publishedAt": "2026-04-03T20:22:59.000Z",
     "language": "en",
@@ -193,42 +241,6 @@
   },
   {
     "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "今天的纽约时报联系： 4月4日的体育版提示和答案， # 558",
-    "originalTitle": "Today's NYT Connections: Sports Edition Hints and Answers for April 4, #558",
-    "summary": "以下是4月4日第558期《纽约时报》Connections: Sports Edition拼图的提示和答案。",
-    "originalSummary": "Here are hints and the answers for the NYT Connections: Sports Edition puzzle for April 4, No. 558.",
-    "url": "https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-4-558/",
-    "publishedAt": "2026-04-03T20:00:56.000Z",
-    "language": "en",
-    "category": "数码产品"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "今天的NYT Connections提示、答案和帮助，适用于# 1028年4月4日",
-    "originalTitle": "Today's NYT Connections Hints, Answers and Help for April 4, #1028",
-    "summary": "以下是4月4日1028号纽约时报连接拼图的一些提示和答案。",
-    "originalSummary": "Here are some hints and the answers for the NYT Connections puzzle for April 4, No. 1,028.",
-    "url": "https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-4-1028/",
-    "publishedAt": "2026-04-03T20:00:55.000Z",
-    "language": "en",
-    "category": "数码产品"
-  },
-  {
-    "id": "aHR0cHM6Ly90",
-    "source": "TechCrunch",
-    "title": "最好的iPad应用程序，可提高工作效率，让您的生活更轻松",
-    "originalTitle": "Best iPad apps to boost productivity and make your life easier",
-    "summary": "有许多iPad应用程序可以帮助您组织食谱、跨设备同步任务、提高工作效率以及管理笔记。",
-    "originalSummary": "There are many iPad apps to help you organize recipes, sync tasks across devices, be more productive, and manage your notes.",
-    "url": "https://techcrunch.com/2026/04/03/best-ipad-apps-to-boost-productivity-make-your-life-easier/",
-    "publishedAt": "2026-04-03T19:56:49.000Z",
-    "language": "en",
-    "category": "科技创业"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
     "source": "Wired",
     "title": "OpenAI的Fidji Simo在高管改组中休病假",
     "originalTitle": "OpenAI’s Fidji Simo Is Taking Medical Leave Amid an Executive Shake-Up",
@@ -262,18 +274,6 @@
     "publishedAt": "2026-04-03T19:19:14.000Z",
     "language": "en",
     "category": "科技文化"
-  },
-  {
-    "id": "aHR0cHM6Ly9h",
-    "source": "Ars Technica",
-    "title": "根据意大利法院的规定， Netflix必须向客户退还多年的价格上涨",
-    "originalTitle": "Netflix must refund customers for years of price hikes, Italian court rules",
-    "summary": "消费者组织表示，如果Netflix不降低当前价格，它将提起诉讼。",
-    "originalSummary": "\n                        Consumer group says it will sue if Netflix doesn't reduce current prices. \n                    ",
-    "url": "https://arstechnica.com/gadgets/2026/04/netflix-ordered-to-refund-subscribers-up-to-e500-for-unlawful-price-hikes/",
-    "publishedAt": "2026-04-03T17:41:51.000Z",
-    "language": "en",
-    "category": "深度科技"
   },
   {
     "id": "aHR0cHM6Ly93",
