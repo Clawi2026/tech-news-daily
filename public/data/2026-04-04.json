@@ -1,5 +1,41 @@
 [
   {
+    "id": "aHR0cHM6Ly90",
+    "source": "TechCrunch",
+    "title": "彼得·蒂尔（ Peter Thiel ）在太阳能牛圈上的大赌注",
+    "originalTitle": "Peter Thiel’s big bet on solar-powered cow collars",
+    "summary": "为什么Founders Fund向牛群管理初创公司Halter投资了2.2亿美元$ ？",
+    "originalSummary": "Why did Founders Fund invest $220 million in cattle management startup Halter?",
+    "url": "https://techcrunch.com/2026/04/04/unpacking-peter-thiels-big-bet-on-solar-powered-cow-collars/",
+    "publishedAt": "2026-04-04T21:30:00.000Z",
+    "language": "en",
+    "category": "科技创业"
+  },
+  {
+    "id": "aHR0cHM6Ly90",
+    "source": "TechCrunch",
+    "title": "陷入困境的初创公司Delve与Y Combinator “分道扬镳”",
+    "originalTitle": "Embattled startup Delve has ‘parted ways’ with Y Combinator",
+    "summary": "围绕Delve的争议似乎使合规初创公司失去了与加速器Y Combinator的关系。",
+    "originalSummary": "The controversy around Delve appears to have cost the compliance startup its relationship with accelerator Y Combinator.",
+    "url": "https://techcrunch.com/2026/04/04/embattled-startup-delve-has-parted-ways-with-y-combinator/",
+    "publishedAt": "2026-04-04T21:03:43.000Z",
+    "language": "en",
+    "category": "科技创业"
+  },
+  {
+    "id": "aHR0cHM6Ly9h",
+    "source": "Ars Technica",
+    "title": "科技公司正试图废除科罗拉多州具有里程碑意义的维修权法",
+    "originalTitle": "Tech companies are trying to neuter Colorado’s landmark right-to-repair law",
+    "summary": "国家法案是企业如何限制人们自行修复和升级的能力的一瞥。",
+    "originalSummary": "\n                        A state bill is a glimpse of how corporations are limiting people's ability to make their own fixes and upgrades.\n                    ",
+    "url": "https://arstechnica.com/tech-policy/2026/04/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law/",
+    "publishedAt": "2026-04-04T20:36:49.000Z",
+    "language": "en",
+    "category": "深度科技"
+  },
+  {
     "id": "aHR0cHM6Ly93",
     "source": "CNET",
     "title": "今天的Wordle提示，答案和帮助， # 1751年4月5日",
@@ -240,18 +276,6 @@
     "category": "科技创业"
   },
   {
-    "id": "aHR0cHM6Ly90",
-    "source": "TechCrunch",
-    "title": "Lucid将第一季度销售下滑归咎于座椅供应商问题",
-    "originalTitle": "Lucid blames dip in Q1 sales on seat supplier issue",
-    "summary": "Lucid表示，它已经解决了这个问题，并且不会改变其2026年的指导方针。",
-    "originalSummary": "Lucid said it has resolved the problem and is not changing its guidance for 2026. ",
-    "url": "https://techcrunch.com/2026/04/03/lucid-blames-dip-in-q1-sales-on-seat-supplier-issue/",
-    "publishedAt": "2026-04-04T01:03:13.000Z",
-    "language": "en",
-    "category": "科技创业"
-  },
-  {
     "id": "aHR0cHM6Ly93",
     "source": "BBC Technology",
     "title": "电动洗衣机、泳池清洁和割草：为什么数百万人在玩关于平凡工作的游戏",
@@ -288,18 +312,6 @@
     "category": "深度科技"
   },
   {
-    "id": "aHR0cHM6Ly90",
-    "source": "TechCrunch",
-    "title": "这款匿名社交应用认为它可以在沙特阿拉伯发挥作用",
-    "originalTitle": "The anonymous social app that thinks it can work in Saudi Arabia",
-    "summary": "当Fizz在沙特阿拉伯悄然亮相时，创始人兼首席执行官泰迪·所罗门（ Teddy Solomon ）没想到该应用会像现在这样流行起来。",
-    "originalSummary": "When Fizz quietly debuted in Saudi Arabia, founder and CEO Teddy Solomon wasn’t expecting the app to catch on like it did. ",
-    "url": "https://techcrunch.com/2026/04/03/the-anonymous-social-app-that-thinks-it-can-work-in-saudi-arabia/",
-    "publishedAt": "2026-04-03T22:24:57.000Z",
-    "language": "en",
-    "category": "科技创业"
-  },
-  {
     "id": "aHR0cHM6Ly9h",
     "source": "Ars Technica",
     "title": "当阿尔忒弥斯二世放大到月球时，一切似乎都在游泳",
@@ -320,18 +332,6 @@
     "originalSummary": "\n                        Some banks \"agreed to spend tens of millions on the chatbot,\" NYT reports.\n                    ",
     "url": "https://arstechnica.com/tech-policy/2026/04/elon-musk-insists-banks-working-on-spacex-ipo-must-buy-grok-subscriptions/",
     "publishedAt": "2026-04-03T21:17:01.000Z",
-    "language": "en",
-    "category": "深度科技"
-  },
-  {
-    "id": "aHR0cHM6Ly9h",
-    "source": "Ars Technica",
-    "title": "研究发现， “认知投降”导致人工智能用户放弃逻辑思维",
-    "originalTitle": "\"Cognitive surrender\" leads AI users to abandon logical thinking, research finds",
-    "summary": "实验表明，绝大多数人会不加批判地接受“错误”的人工智能答案。",
-    "originalSummary": "\n                        Experiments show large majorities uncritically accepting \"faulty\" AI answers.\n                    ",
-    "url": "https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/",
-    "publishedAt": "2026-04-03T21:06:15.000Z",
     "language": "en",
     "category": "深度科技"
   },
