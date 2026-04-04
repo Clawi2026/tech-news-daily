@@ -1,6 +1,90 @@
 [
   {
     "id": "aHR0cHM6Ly93",
+    "source": "Wired",
+    "title": "黑客正在发布带有奖励恶意软件的Claude代码泄露",
+    "originalTitle": "Hackers Are Posting the Claude Code Leak With Bonus Malware",
+    "summary": "此外：联邦调查局表示，最近对其窃听工具的黑客攻击构成了国家安全风险，攻击者窃取了思科源代码，这是正在进行的供应链黑客狂欢的一部分，等等。",
+    "originalSummary": "Plus: The FBI says a recent hack of its wiretap tools poses a national security risk, attackers stole Cisco source code as part of an ongoing supply chain hacking spree, and more.",
+    "url": "https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/",
+    "publishedAt": "2026-04-04T10:30:00.000Z",
+    "language": "en",
+    "category": "科技趋势"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "如果您未使用iOS 26 ，则需要尽快下载此iOS 18更新",
+    "originalTitle": "You Need to Download This iOS 18 Update ASAP if You Aren't on iOS 26",
+    "summary": "Apple不会定期发布以前iOS版本的关键更新，但DarkSword似乎是一个严重的威胁。",
+    "originalSummary": "Apple doesn't regularly release a critical update for previous iOS versions but DarkSword appears to be a serious threat.",
+    "url": "https://www.cnet.com/tech/services-and-software/you-need-to-download-this-ios-18-update-now-if-you-arent-on-ios-26/",
+    "publishedAt": "2026-04-04T10:01:50.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "Wired",
+    "title": "如何在后院获得可靠的Wi-Fi",
+    "originalTitle": "How to Get Reliable Wi-Fi in Your Backyard",
+    "summary": "您可以通过多种方式将无线网络扩展到后院，然后延伸到露台或露台。具体操作方法如下。",
+    "originalSummary": "There are several ways to extend your Wi-Fi network into your backyard and out onto the deck or patio. Here’s how.",
+    "url": "https://www.wired.com/story/how-to-get-wifi-in-your-backyard/",
+    "publishedAt": "2026-04-04T10:00:00.000Z",
+    "language": "en",
+    "category": "科技趋势"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "CNET健身专家为您提供的8个锻炼目标技巧",
+    "originalTitle": "8 Tips to Stay on Top of Your Exercise Goals From CNET’s Fitness Expert",
+    "summary": "以下是我如何确保自己不会忽视自己的目标，以及如何做到这一点。",
+    "originalSummary": "Here’s how I make sure I don't lose sight of my goals -- and how you can, too.",
+    "url": "https://www.cnet.com/health/fitness/fitness-experts-guide-to-stay-on-top-of-fitness-goals/",
+    "publishedAt": "2026-04-04T10:00:00.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "2026年最佳电视：经过专家测试和评审",
+    "originalTitle": "Best TVs for 2026: Expert Tested and Reviewed",
+    "summary": "这些是我为每个预算审查过的最好的电视，包括LG、三星和TCL等顶级品牌。",
+    "originalSummary": "These are the best TVs I’ve reviewed for every budget, including top brands such as LG, Samsung and TCL.",
+    "url": "https://www.cnet.com/tech/home-entertainment/best-tv/",
+    "publishedAt": "2026-04-04T10:00:00.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "Wired",
+    "title": "阿尔忒弥斯II登月任务的轨迹是工程学的壮举",
+    "originalTitle": "The Trajectory of the Artemis II Moon Mission Is a Feat of Engineering",
+    "summary": "宇航员将到达距离我们卫星约10,300公里的地方，打破以前所有与地球距离的记录。但他们的路线是如何选择的呢？",
+    "originalSummary": "The astronauts will arrive about 10,300 kilometers beyond our satellite, breaking all previous records for distance from Earth. But how was their route chosen?",
+    "url": "https://www.wired.com/story/the-trajectory-of-the-artemis-ii-moon-mission-is-a-feat-of-engineering/",
+    "publishedAt": "2026-04-04T09:30:00.000Z",
+    "language": "en",
+    "category": "科技趋势"
+  },
+  {
+    "id": "aHR0cHM6Ly9z",
+    "source": "少数派",
+    "title": "买前必看：千问 AI 眼镜 G1 自费长测",
+    "originalTitle": "买前必看：千问 AI 眼镜 G1 自费长测",
+    "summary": "千问G1确实有其独特的优势，但在软硬件细节体验上也还有很多需要打磨的地方。查看全文",
+    "originalSummary": "千问G1确实有其独特的优势，但在软硬件细节体验上也还有很多需要打磨的地方。查看全文",
+    "url": "https://sspai.com/post/108103",
+    "publishedAt": "2026-04-04T09:11:10.000Z",
+    "language": "zh",
+    "category": "数码生活"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
     "source": "The Verge",
     "title": "Anker's Nebula P1投影仪是便携式音王",
     "originalTitle": "Anker’s Nebula P1 projector is the portable sound king",
@@ -157,30 +241,6 @@
   },
   {
     "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "在减少“支线任务”后， OpenAI购买了一个脱口秀节目",
-    "originalTitle": "After Cutting Down on 'Side Quests,' OpenAI Bought a Talk Show",
-    "summary": "这家AI巨头最近表示将结束其Sora图像生成器，并无限期推迟计划中的ChatGPT “成人模式”。",
-    "originalSummary": "The AI giant recently said it would end its Sora image generator and put off a planned ChatGPT \"adult mode\" indefinitely.",
-    "url": "https://www.cnet.com/tech/services-and-software/openai-acquires-tbpn/",
-    "publishedAt": "2026-04-03T22:20:00.000Z",
-    "language": "en",
-    "category": "数码产品"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "足总杯足球直播：从任何地方观看曼城与利物浦的比赛",
-    "originalTitle": "Livestream FA Cup Soccer: Watch Man City vs. Liverpool From Anywhere",
-    "summary": "瓜迪奥拉的团队的目标是在举办Arne Slot的红军时更接近第二次杯赛胜利。",
-    "originalSummary": "Pep Guardiola's team aims to step closer to a second cup triumph as they host Arne Slot's Reds.",
-    "url": "https://www.cnet.com/tech/services-and-software/livestream-fa-cup-soccer-watch-man-city-vs-liverpool-from-anywhere/",
-    "publishedAt": "2026-04-03T21:46:36.000Z",
-    "language": "en",
-    "category": "数码产品"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
     "source": "Wired",
     "title": "Meta在数据泄露使人工智能行业机密面临风险后暂停与Mercor的合作",
     "originalTitle": "Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk",
@@ -188,18 +248,6 @@
     "originalSummary": "Major AI labs are investigating a security incident that impacted Mercor, a leading data vendor. The incident could have exposed key data about how they train AI models.",
     "url": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
     "publishedAt": "2026-04-03T21:28:14.000Z",
-    "language": "en",
-    "category": "科技趋势"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "Wired",
-    "title": "科学家突破薯条",
-    "originalTitle": "Scientists Have Made a French Fry Breakthrough",
-    "summary": "研究人员已经开发出一种制作薯条的方法，可以在不牺牲脆度的情况下咬得更健康。",
-    "originalSummary": "Researchers have developed a method of making french fries that results in a healthier bite without sacrificing crispiness.",
-    "url": "https://www.wired.com/story/scientists-have-made-french-fry-breakthrough/",
-    "publishedAt": "2026-04-03T21:23:33.000Z",
     "language": "en",
     "category": "科技趋势"
   },
@@ -226,18 +274,6 @@
     "publishedAt": "2026-04-03T21:06:15.000Z",
     "language": "en",
     "category": "深度科技"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "“你们看起来很棒” ：阿耳忒弥斯宇航员分享地球的异世界观",
-    "originalTitle": "'You Guys Look Great': Artemis Astronauts Share Earth's Out-of-This-World Views",
-    "summary": "“那就是我们！”美国宇航局在一篇帖子中说，这篇文章展示了一张在月球旅行中拍摄的照片。",
-    "originalSummary": "\"That's us!\" NASA says in a post showing one of the photos taken on the lunar journey.",
-    "url": "https://www.cnet.com/science/space/artemis-astronauts-photos-earth/",
-    "publishedAt": "2026-04-03T20:59:00.000Z",
-    "language": "en",
-    "category": "数码产品"
   },
   {
     "id": "aHR0cHM6Ly93",
@@ -286,30 +322,6 @@
     "publishedAt": "2026-04-03T20:22:59.000Z",
     "language": "en",
     "category": "科技文化"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "Wired",
-    "title": "我们最喜爱的iPad $ 50折扣",
-    "originalTitle": "Our Favorite iPad Is $50 Off",
-    "summary": "只需$ 300 ，即可获得第11代A16驱动的iPad。",
-    "originalSummary": "Score an 11th-generation A16-powered iPad for just $300.",
-    "url": "https://www.wired.com/story/ipad-a16-deal-426/",
-    "publishedAt": "2026-04-03T20:06:20.000Z",
-    "language": "en",
-    "category": "科技趋势"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "Wired",
-    "title": "OpenAI的Fidji Simo在高管改组中休病假",
-    "originalTitle": "OpenAI’s Fidji Simo Is Taking Medical Leave Amid an Executive Shake-Up",
-    "summary": "随着其AGI部署首席执行官休假“几周” ，该公司正在进行重大的领导层重组。",
-    "originalSummary": "The company is undergoing major leadership restructuring as its CEO of AGI deployment goes on leave for “several weeks.”",
-    "url": "https://www.wired.com/story/openais-fidji-simo-is-taking-a-leave-of-absence/",
-    "publishedAt": "2026-04-03T19:38:35.000Z",
-    "language": "en",
-    "category": "科技趋势"
   },
   {
     "id": "aHR0cHM6Ly93",
@@ -430,18 +442,6 @@
     "publishedAt": "2026-04-02T14:38:24.000Z",
     "language": "en",
     "category": "综合科技"
-  },
-  {
-    "id": "aHR0cHM6Ly9z",
-    "source": "少数派",
-    "title": "汇聚热爱，「2050 大会」少数派线下活动邀请你来参与",
-    "originalTitle": "汇聚热爱，「2050 大会」少数派线下活动邀请你来参与",
-    "summary": "「2050大会」是国内科技圈里一个非常独特的存在。这是由中国工程院院士、阿里云创始人王坚博士，通过杭州市云栖科技创新基金会，发起的一项非营利科技活动。每年4月最后一个完整周末，来自世界各地的科技爱好者 ...查看全文",
-    "originalSummary": "「2050大会」是国内科技圈里一个非常独特的存在。这是由中国工程院院士、阿里云创始人王坚博士，通过杭州市云栖科技创新基金会，发起的一项非营利科技活动。每年4月最后一个完整周末，来自世界各地的科技爱好者 ...查看全文",
-    "url": "https://sspai.com/post/108202",
-    "publishedAt": "2026-04-02T10:26:36.000Z",
-    "language": "zh",
-    "category": "数码生活"
   },
   {
     "id": "aHR0cHM6Ly93",
