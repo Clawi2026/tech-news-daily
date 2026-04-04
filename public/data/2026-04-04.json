@@ -2,6 +2,42 @@
   {
     "id": "aHR0cHM6Ly93",
     "source": "Wired",
+    "title": "Aiper IrriSense 2智能灌溉系统综述：聪明但不均匀",
+    "originalTitle": "Aiper IrriSense 2 Smart Irrigation System Review: Clever Yet Uneven",
+    "summary": "这款软管连接的智能喷洒器可以映射您的院子，根据命令旋转，并测量用水量。尽管有这些巧妙的功能，但结果有点不均匀。",
+    "originalSummary": "This hose-attached smart sprinkler maps your yard, rotates on command, and measures water use. Despite these clever features, the results are a little uneven.",
+    "url": "https://www.wired.com/review/aiper-irrisense-2-smart-irrigation-system/",
+    "publishedAt": "2026-04-04T11:01:00.000Z",
+    "language": "en",
+    "category": "科技趋势"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "Apple Watch Series 11与Ultra 3和SE 3 ：现在是时候选择一款了",
+    "originalTitle": "Apple Watch Series 11 vs. Ultra 3 and SE 3: Now's the Time to Choose One",
+    "summary": "让我们比较所有细节，以便您做出正确的选择。",
+    "originalSummary": "Let's compare all the details so you can make the right choice for you.",
+    "url": "https://www.cnet.com/tech/mobile/apple-watch-series11-vs-ultra3-vs-se3/",
+    "publishedAt": "2026-04-04T11:00:58.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "有一部您无法观看的“超级马里奥兄弟”电影。以下是观看的原因和方式",
+    "originalTitle": "There's One 'Super Mario Bros.' Movie You Can't Stream. Here's Why and How to Watch It",
+    "summary": "这里是观看1993年原版马里奥兄弟电影的地方，这部电影给人的印象是，没有人制作过这部电影。",
+    "originalSummary": "Here's where to watch the original 1993 Mario Bros. movie that gives the impression that no one who made the film ever played the game.",
+    "url": "https://www.cnet.com/tech/services-and-software/how-to-watch-original-super-mario-bros-movie-1993/",
+    "publishedAt": "2026-04-04T11:00:39.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "Wired",
     "title": "黑客正在发布带有奖励恶意软件的Claude代码泄露",
     "originalTitle": "Hackers Are Posting the Claude Code Leak With Bonus Malware",
     "summary": "此外：联邦调查局表示，最近对其窃听工具的黑客攻击构成了国家安全风险，攻击者窃取了思科源代码，这是正在进行的供应链黑客狂欢的一部分，等等。",
@@ -120,30 +156,6 @@
     "category": "科技趋势"
   },
   {
-    "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "美国宇航局的阿尔忒弥斯II登月：第3天现场更新",
-    "originalTitle": "NASA's Artemis II Is Moon-Bound: Day 3 Live Updates",
-    "summary": "由四人组成的阿尔忒弥斯二号宇航员已经正式离开地球轨道，前往月球。以下是您需要了解的重大使命的所有信息。",
-    "originalSummary": "The four-person Artemis II crew has officially left Earth's orbit and is headed toward the moon. Here's everything you need to know about the momentous mission.",
-    "url": "https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/",
-    "publishedAt": "2026-04-04T02:12:26.000Z",
-    "language": "en",
-    "category": "数码产品"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "4月4日星期六的纽约时报迷你填字游戏答案",
-    "originalTitle": "Today's NYT Mini Crossword Answers for Saturday, April 4",
-    "summary": "以下是4月4日《纽约时报》迷你填字游戏的答案。",
-    "originalSummary": "Here are the answers for The New York Times Mini Crossword for April 4.",
-    "url": "https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-april-4/",
-    "publishedAt": "2026-04-04T02:11:30.000Z",
-    "language": "en",
-    "category": "数码产品"
-  },
-  {
     "id": "aHR0cHM6Ly90",
     "source": "TechCrunch",
     "title": "Anthropic正在私人市场上占据一席之地； SpaceX可能会破坏派对",
@@ -238,18 +250,6 @@
     "publishedAt": "2026-04-03T22:20:19.000Z",
     "language": "en",
     "category": "深度科技"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "Wired",
-    "title": "Meta在数据泄露使人工智能行业机密面临风险后暂停与Mercor的合作",
-    "originalTitle": "Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk",
-    "summary": "主要的人工智能实验室正在调查影响领先数据供应商Mercor的安全事件。这一事件可能暴露了有关他们如何训练人工智能模型的关键数据。",
-    "originalSummary": "Major AI labs are investigating a security incident that impacted Mercor, a leading data vendor. The incident could have exposed key data about how they train AI models.",
-    "url": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
-    "publishedAt": "2026-04-03T21:28:14.000Z",
-    "language": "en",
-    "category": "科技趋势"
   },
   {
     "id": "aHR0cHM6Ly9h",
