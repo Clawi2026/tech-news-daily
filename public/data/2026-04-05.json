@@ -1,5 +1,65 @@
 [
   {
+    "id": "aHR0cHM6Ly93",
+    "source": "The Verge",
+    "title": "Suno是音乐版权的噩梦",
+    "originalTitle": "Suno is a music copyright nightmare",
+    "summary": "人工智能音乐平台Suno的政策是不允许使用受版权保护的材料。您可以上传自己的曲目进行混音，或将原始歌词设置为人工智能生成的音乐。但是，假设",
+    "originalSummary": "AI music platform Suno's policy is that it does not permit the use of copyrighted material. You can upload your own tracks to remix or set your original lyrics to AI-generated music. But, it's suppose",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers",
+    "publishedAt": "2026-04-05T16:00:00.000Z",
+    "language": "en",
+    "category": "科技文化"
+  },
+  {
+    "id": "aHR0cHM6Ly90",
+    "source": "TechCrunch",
+    "title": "轨道数据中心能否帮助SpaceX进行大规模估值？",
+    "originalTitle": "Can orbital data centers help justify a massive valuation for SpaceX?",
+    "summary": "在TechCrunch的Equity播客的最新一集中，我们讨论了Elon Musk对太空数据中心的愿景。",
+    "originalSummary": "On the latest episode of TechCrunch’s Equity podcast, we debated Elon Musk's vision for data centers in space.",
+    "url": "https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/",
+    "publishedAt": "2026-04-05T15:40:58.000Z",
+    "language": "en",
+    "category": "科技创业"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "Prime Video ： 31个绝对最佳观看节目",
+    "originalTitle": "Prime Video: The 31 Absolute Best Shows to Watch",
+    "summary": "以下是一些值得一看的高评分系列，以及4月份的新增功能。",
+    "originalSummary": "Here are some highly rated series to check out, plus a look at what's new in April.",
+    "url": "https://www.cnet.com/tech/services-and-software/best-shows-to-watch-on-prime-video-april-2026/",
+    "publishedAt": "2026-04-05T15:01:11.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "我的专家建议：在我们进一步了解FCC的禁令之前，不要购买路由器",
+    "originalTitle": "My Expert Advice: Don’t Buy a Router Until We Know More About the FCC's Ban",
+    "summary": "FCC的全面禁令适用于几乎所有新Wi-Fi路由器的销售。如果没有定期更新，到2027年，您的房源可能会变成一个南瓜。",
+    "originalSummary": "The FCC’s sweeping ban applies to the sale of virtually every new Wi-Fi router. Without regular updates, yours might turn into a pumpkin by 2027.",
+    "url": "https://www.cnet.com/home/internet/my-expert-advice-dont-buy-a-router-until-we-know-more-about-the-fccs-ban/",
+    "publishedAt": "2026-04-05T15:00:00.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "2026年3月疯狂：如何观看男子和女子锦标赛总决赛",
+    "originalTitle": "March Madness 2026: How to Watch the Men's and Women's Championship Finals",
+    "summary": "男子和女子NCAA锦标赛即将结束，您可以在这里观看决赛。",
+    "originalSummary": "The men's and women's NCAA tournaments are coming to an end, here's where you can watch the finals.",
+    "url": "https://www.cnet.com/tech/services-and-software/march-madness-2026-how-to-watch-championship-finals/",
+    "publishedAt": "2026-04-05T14:30:42.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
     "id": "aHR0cHM6Ly90",
     "source": "TechCrunch",
     "title": "在日本，机器人不是为了你的工作而来；它填补了没人想要的工作",
@@ -73,30 +133,6 @@
   },
   {
     "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "我使用人工智能来帮助我保持领先于家庭维护。以下是如何",
-    "originalTitle": "I Used AI to Help Me Stay Ahead of Home Maintenance. Here's How",
-    "summary": "聊天机器人的答案可能并不总是正确的，但他们可以让你知道要注意哪些问题。",
-    "originalSummary": "The chatbots' answers may not always be right, but they can let you know what problems to watch out for.",
-    "url": "https://www.cnet.com/tech/services-and-software/i-used-ai-to-help-me-stay-ahead-of-home-maintenance-heres-how/",
-    "publishedAt": "2026-04-05T12:00:55.000Z",
-    "language": "en",
-    "category": "数码产品"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "三星Galaxy S26与谷歌Pixel 10 ：每款旗舰产品之间的巨大差异",
-    "originalTitle": "Samsung Galaxy S26 vs. Google Pixel 10: The Big Differences Between Each Flagship",
-    "summary": "最实惠的三星和谷歌旗舰机型比以往任何时候都更接近，但100 $的价格差异确实造成了一些关键差异。它们是这样堆积起来的。",
-    "originalSummary": "The most affordable Samsung and Google flagship models are closer than ever, but the $100 price difference does make for a few key differences. Here's how they stack up.",
-    "url": "https://www.cnet.com/tech/mobile/samsung-galaxy-s26-vs-google-pixel-10-the-big-differences-between-each-flagship/",
-    "publishedAt": "2026-04-05T12:00:38.000Z",
-    "language": "en",
-    "category": "数码产品"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
     "source": "The Verge",
     "title": "Grammarly's sloppelganger传奇",
     "originalTitle": "Grammarly’s sloppelganger saga",
@@ -142,18 +178,6 @@
     "publishedAt": "2026-04-05T11:04:00.000Z",
     "language": "en",
     "category": "科技趋势"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "富士Instax Mini 13评论： Instant Mini Analog",
-    "originalTitle": "Fujifilm Instax Mini 13 Review: Instant Mini Analog",
-    "summary": "这款更新的Instax增加了一个自拍定时器，但除此之外，对于那些想要在即时胶片摄影中浸泡脚趾的人来说，它保持了简单和便宜。",
-    "originalSummary": "This updated Instax adds a self-timer, but otherwise, it keeps it simple and inexpensive for those who want to dip their toes in instant film photography.",
-    "url": "https://www.cnet.com/tech/computing/fujifilm-instax-mini-13-review-instant-film-camera/",
-    "publishedAt": "2026-04-05T11:00:52.000Z",
-    "language": "en",
-    "category": "数码产品"
   },
   {
     "id": "aHR0cHM6Ly93",
@@ -288,18 +312,6 @@
     "category": "深度科技"
   },
   {
-    "id": "aHR0cHM6Ly93",
-    "source": "The Verge",
-    "title": "一位民间音乐家成为人工智能假货和版权巨魔的目标",
-    "originalTitle": "A folk musician became a target for AI fakes and a copyright troll",
-    "summary": "今年1月，民间艺术家墨菲·坎贝尔（ Murphy Campbell ）在她的Spotify个人资料中发现了几首不属于那里的歌曲。这些是她录制的歌曲，但她从未将它们上传到Spotify ，",
-    "originalSummary": "In January, folk artist Murphy Campbell discovered several songs on her Spotify profile that did not belong there. They were songs that she had recorded, but she'd never uploaded them to Spotify, and ",
-    "url": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
-    "publishedAt": "2026-04-04T17:52:10.000Z",
-    "language": "en",
-    "category": "科技文化"
-  },
-  {
     "id": "aHR0cHM6Ly90",
     "source": "TechCrunch",
     "title": "Anthropic表示， Claude Code订阅者需要为OpenClaw的使用支付额外费用",
@@ -308,18 +320,6 @@
     "originalSummary": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.",
     "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
     "publishedAt": "2026-04-04T16:32:22.000Z",
-    "language": "en",
-    "category": "科技创业"
-  },
-  {
-    "id": "aHR0cHM6Ly90",
-    "source": "TechCrunch",
-    "title": "在对抗恶意软件几十年后，这位网络安全资深人士现在正在黑客攻击无人机",
-    "originalTitle": "After fighting malware for decades, this cybersecurity veteran is now hacking drones",
-    "summary": "Mikko Hyppönen是网络安全行业最知名的面孔之一。在对抗计算机病毒、蠕虫和恶意软件超过35年后，他告诉TechCrunch ，他现在为什么要",
-    "originalSummary": "Mikko Hyppönen is one of the most recognizable faces of the cybersecurity industry. After fighting computer viruses, worms, and malware, for more than 35 years, he tells TechCrunch why he is now worki",
-    "url": "https://techcrunch.com/2026/04/04/after-fighting-malware-for-decades-this-cybersecurity-veteran-is-now-hacking-drones/",
-    "publishedAt": "2026-04-04T13:00:00.000Z",
     "language": "en",
     "category": "科技创业"
   },
