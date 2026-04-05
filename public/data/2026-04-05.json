@@ -1,6 +1,30 @@
 [
   {
     "id": "aHR0cHM6Ly93",
+    "source": "Wired",
+    "title": "Heatbit Maxi Pro评论：同时开采比特币的空间加热器",
+    "originalTitle": "Heatbit Maxi Pro Review: a Space Heater That Also Mines Bitcoin",
+    "summary": "电费率变得如此之高，以至于这个Heatbit希望通过比特币挖矿来抵消您的成本。但数学不能加起来。",
+    "originalSummary": "Electricity rates have gotten so atrocious that this Heatbit wants to offset your costs with bitcoin mining. But the math doesn't add up.",
+    "url": "https://www.wired.com/review/heatbit-maxi-pro-bitcoin-miner-heater/",
+    "publishedAt": "2026-04-05T11:04:00.000Z",
+    "language": "en",
+    "category": "科技趋势"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "富士Instax Mini 13评论： Instant Mini Analog",
+    "originalTitle": "Fujifilm Instax Mini 13 Review: Instant Mini Analog",
+    "summary": "这款更新的Instax增加了一个自拍定时器，但除此之外，对于那些想要在即时胶片摄影中浸泡脚趾的人来说，它保持了简单和便宜。",
+    "originalSummary": "This updated Instax adds a self-timer, but otherwise, it keeps it simple and inexpensive for those who want to dip their toes in instant film photography.",
+    "url": "https://www.cnet.com/tech/computing/fujifilm-instax-mini-13-review-instant-film-camera/",
+    "publishedAt": "2026-04-05T11:00:52.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
     "source": "CNET",
     "title": "人工智能能找到你的下一个痴迷吗？我测试了它的爱好建议",
     "originalTitle": "Can AI Find Your Next Obsession? I Tested Its Hobby Suggestions",
@@ -120,18 +144,6 @@
     "category": "数码产品"
   },
   {
-    "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "4月5日星期日的纽约时报迷你填字游戏答案",
-    "originalTitle": "Today's NYT Mini Crossword Answers for Sunday, April 5",
-    "summary": "以下是4月5日《纽约时报》迷你填字游戏的答案。",
-    "originalSummary": "Here are the answers for The New York Times Mini Crossword for April 5.",
-    "url": "https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-april-5/",
-    "publishedAt": "2026-04-05T04:52:07.000Z",
-    "language": "en",
-    "category": "数码产品"
-  },
-  {
     "id": "aHR0cHM6Ly8z",
     "source": "36Kr",
     "title": "高端智能投影品牌AWOL Vision获近亿元B轮融资，新品拿下近2000万美金众筹｜硬氪首发",
@@ -154,6 +166,18 @@
     "publishedAt": "2026-04-05T00:12:45.000Z",
     "language": "en",
     "category": "深度科技"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "BBC Technology",
+    "title": "50岁的苹果：三款改变我们生活方式的产品，以及三款真正没有改变我们生活方式的产品",
+    "originalTitle": "Apple at 50: Three products that changed how we live - and three that really didn't",
+    "summary": "在这家科技巨头成立50周年之际，我们要求分析师给出他们在苹果的三大成功和失误",
+    "originalSummary": "On the tech giant's 50th year, we ask analysts to give their top three Apple successes and misses",
+    "url": "https://www.bbc.com/news/articles/ckgxdn9lyd2o?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-04-04T23:56:55.000Z",
+    "language": "en",
+    "category": "综合科技"
   },
   {
     "id": "aHR0cHM6Ly90",
@@ -262,18 +286,6 @@
     "publishedAt": "2026-04-04T13:00:00.000Z",
     "language": "en",
     "category": "科技文化"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "Wired",
-    "title": "Sonos Play评测：性能与便利相得益彰",
-    "originalTitle": "Sonos Play Review: Performance Meets Convenience",
-    "summary": "这款新扬声器具有出色的声音和多功能性，可能是Sonos最好的扬声器。",
-    "originalSummary": "With great sound and versatility, this new speaker may be Sonos’ best.",
-    "url": "https://www.wired.com/review/sonos-play/",
-    "publishedAt": "2026-04-04T13:00:00.000Z",
-    "language": "en",
-    "category": "科技趋势"
   },
   {
     "id": "aHR0cHM6Ly93",
@@ -464,18 +476,6 @@
     "originalSummary": "The firm says its operations remain open but says the hack \"may result in some delays\". ",
     "url": "https://www.bbc.com/news/articles/cx24e1nryn9o?at_medium=RSS&at_campaign=rss",
     "publishedAt": "2026-04-01T16:05:37.000Z",
-    "language": "en",
-    "category": "综合科技"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "BBC Technology",
-    "title": "Claude Code用户“比预期更快”达到使用限制",
-    "originalTitle": "Claude Code users hitting usage limits 'way faster than expected'",
-    "summary": "人工智能编码助理背后的公司Anthropic表示，它正在解决阻止用户的问题。",
-    "originalSummary": "Anthropic, the company behind the AI coding assistant, said it was fixing a problem blocking users.",
-    "url": "https://www.bbc.com/news/articles/ce8l2q5yq51o?at_medium=RSS&at_campaign=rss",
-    "publishedAt": "2026-04-01T11:59:19.000Z",
     "language": "en",
     "category": "综合科技"
   }
