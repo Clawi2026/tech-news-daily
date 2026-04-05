@@ -1,5 +1,137 @@
 [
   {
+    "id": "aHR0cHM6Ly90",
+    "source": "TechCrunch",
+    "title": "在日本，机器人不是为了你的工作而来；它填补了没人想要的工作",
+    "originalTitle": "In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants",
+    "summary": "在劳动力短缺的推动下，日本正在将物理AI从试点项目推向现实世界的部署。",
+    "originalSummary": "Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment.",
+    "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+    "publishedAt": "2026-04-05T14:00:00.000Z",
+    "language": "en",
+    "category": "科技创业"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "The Verge",
+    "title": "我让双子座在谷歌地图中规划我的一天，结果出乎意料地顺利",
+    "originalTitle": "I let Gemini in Google Maps plan my day and it went surprisingly well",
+    "summary": "您可能对Gemini很熟悉，无论您是否愿意，它都是您使用的每项Google服务中必不可少的东西。虽然它一直存在于Gmail中，但有时至少在PAS中不受欢迎",
+    "originalSummary": "You may be familiar with Gemini as the thing that's in every Google service you use - whether you want it or not. While it's been a constant, sometimes unwelcome presence in Gmail for at least the pas",
+    "url": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
+    "publishedAt": "2026-04-05T14:00:00.000Z",
+    "language": "en",
+    "category": "科技文化"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "足总杯足球直播：从任何地方观看西汉姆与利兹的比赛",
+    "originalTitle": "Livestream FA Cup Soccer: Watch West Ham vs. Leeds From Anywhere",
+    "summary": "两支英超联赛球队都与降级威胁作斗争，在温布利争夺一席之地。",
+    "originalSummary": "Two Premier League teams, both fighting relegation threats, face off for a place at Wembley.",
+    "url": "https://www.cnet.com/tech/services-and-software/livestream-fa-cup-soccer-watch-west-ham-vs-leeds-from-anywhere/",
+    "publishedAt": "2026-04-05T13:30:41.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "The Verge",
+    "title": "板岩卡车是否为了自身利益而过于微不足道？",
+    "originalTitle": "Is the Slate Truck too minimal for its own good?",
+    "summary": "您首先注意到的是Slate Truck的尺寸。它很小，令人惊讶。在一个卡车经常有自己的邮政编码的国家， Slate的皮卡令人耳目一新，",
+    "originalSummary": "The first thing you notice about the Slate Truck is its size. It's small, surprisingly so. In a country where trucks often come with their own zip code, Slate's pickup is refreshingly puny, measuring ",
+    "url": "https://www.theverge.com/transportation/905947/slate-truck-ev-minimal-range-size-interior-design",
+    "publishedAt": "2026-04-05T13:00:00.000Z",
+    "language": "en",
+    "category": "科技文化"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "The Verge",
+    "title": "Amazon Echo如何学会说话和倾听",
+    "originalTitle": "How the Amazon Echo learned to talk — and listen",
+    "summary": "杰夫·贝索斯（ Jeff Bezos ）非常想要一台语音电脑。从亚马逊诞生之初，他就一直在公开说话，告诉任何愿意倾听的人，为什么语音可以让我更轻松、更自然地",
+    "originalSummary": "Jeff Bezos badly wanted a voice computer. He had been saying so publicly since the very early days of Amazon, telling anyone who would listen about why voice might make it easier and more natural to i",
+    "url": "https://www.theverge.com/podcast/907146/amazon-echo-alexa-version-history",
+    "publishedAt": "2026-04-05T12:24:45.000Z",
+    "language": "en",
+    "category": "科技文化"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "阿尔忒弥斯II登月计划值得您的敬畏，也值得您密切关注",
+    "originalTitle": "The Artemis II Moonshot Deserves Your Awe, and Your Closer Attention, Too",
+    "summary": "评论：美国宇航局将四名宇航员送入太空的距离比任何人类都要远。但关于这一切意味着什么，还有更深层次的潜台词。",
+    "originalSummary": "Commentary: NASA is sending four astronauts farther into space than any humans have ever traveled. But there's a much deeper subtext about what it all means.",
+    "url": "https://www.cnet.com/science/space/nasa-artemis-ii-moon-mission-pay-attention-commentary/",
+    "publishedAt": "2026-04-05T12:16:49.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "我使用人工智能来帮助我保持领先于家庭维护。以下是如何",
+    "originalTitle": "I Used AI to Help Me Stay Ahead of Home Maintenance. Here's How",
+    "summary": "聊天机器人的答案可能并不总是正确的，但他们可以让你知道要注意哪些问题。",
+    "originalSummary": "The chatbots' answers may not always be right, but they can let you know what problems to watch out for.",
+    "url": "https://www.cnet.com/tech/services-and-software/i-used-ai-to-help-me-stay-ahead-of-home-maintenance-heres-how/",
+    "publishedAt": "2026-04-05T12:00:55.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "三星Galaxy S26与谷歌Pixel 10 ：每款旗舰产品之间的巨大差异",
+    "originalTitle": "Samsung Galaxy S26 vs. Google Pixel 10: The Big Differences Between Each Flagship",
+    "summary": "最实惠的三星和谷歌旗舰机型比以往任何时候都更接近，但100 $的价格差异确实造成了一些关键差异。它们是这样堆积起来的。",
+    "originalSummary": "The most affordable Samsung and Google flagship models are closer than ever, but the $100 price difference does make for a few key differences. Here's how they stack up.",
+    "url": "https://www.cnet.com/tech/mobile/samsung-galaxy-s26-vs-google-pixel-10-the-big-differences-between-each-flagship/",
+    "publishedAt": "2026-04-05T12:00:38.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "The Verge",
+    "title": "Grammarly's sloppelganger传奇",
+    "originalTitle": "Grammarly’s sloppelganger saga",
+    "summary": "The Stepback是一份每周时事通讯，详细介绍了科技界的一个重要故事。有关AI起伏的更多信息，请关注Stevie Bonifield。退步到达我们的订阅者",
+    "originalSummary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the ups and downs of AI, follow Stevie Bonifield. The Stepback arrives in our subscribers' ",
+    "url": "https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga",
+    "publishedAt": "2026-04-05T12:00:00.000Z",
+    "language": "en",
+    "category": "科技文化"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "Wired",
+    "title": "2026年最佳Apple Watch表带：耐克、爱马仕等",
+    "originalTitle": "Best Apple Watch Bands of 2026: Nike, Hermés, and More",
+    "summary": "自2015年推出第一款Apple Watch以来，我们一直在测试表带。从硅胶运动表带到皮革表带，我为各种场合收集了最好的表带。",
+    "originalSummary": "We've actually been testing bands since the first Apple Watch launched in 2015. From silicone sports straps to leather bands, I've rounded up the best for every occasion.",
+    "url": "https://www.wired.com/story/best-apple-watch-bands/",
+    "publishedAt": "2026-04-05T12:00:00.000Z",
+    "language": "en",
+    "category": "科技趋势"
+  },
+  {
+    "id": "aHR0cHM6Ly9h",
+    "source": "Ars Technica",
+    "title": "海关和边境保护局的设施代码似乎已通过在线抽认卡泄露",
+    "originalTitle": "CBP facility codes sure seem to have leaked via online flashcards",
+    "summary": "Quizlet抽认卡似乎包含有关CBP地点大门安全的敏感信息。",
+    "originalSummary": "\n                        Quizlet flashcards seem to include sensitive information about gate security at CBP locations.\n                    ",
+    "url": "https://arstechnica.com/security/2026/04/cbp-facility-codes-sure-seem-to-have-leaked-via-online-flashcards/",
+    "publishedAt": "2026-04-05T11:07:27.000Z",
+    "language": "en",
+    "category": "深度科技"
+  },
+  {
     "id": "aHR0cHM6Ly93",
     "source": "Wired",
     "title": "Heatbit Maxi Pro评论：同时开采比特币的空间加热器",
@@ -20,30 +152,6 @@
     "originalSummary": "This updated Instax adds a self-timer, but otherwise, it keeps it simple and inexpensive for those who want to dip their toes in instant film photography.",
     "url": "https://www.cnet.com/tech/computing/fujifilm-instax-mini-13-review-instant-film-camera/",
     "publishedAt": "2026-04-05T11:00:52.000Z",
-    "language": "en",
-    "category": "数码产品"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "人工智能能找到你的下一个痴迷吗？我测试了它的爱好建议",
-    "originalTitle": "Can AI Find Your Next Obsession? I Tested Its Hobby Suggestions",
-    "summary": "养蜂？天文学？人工智能对如何度过你的休息时间有一些想法。",
-    "originalSummary": "Beekeeping? Astronomy? AI has some ideas for ways that you can spend your downtime.",
-    "url": "https://www.cnet.com/tech/services-and-software/i-asked-ai-to-help-me-choose-a-hobby-ranking-its-suggestions-from-beekeeping-to-astronomy/",
-    "publishedAt": "2026-04-05T10:01:17.000Z",
-    "language": "en",
-    "category": "数码产品"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "如果您的宝宝没有睡觉，请尝试使用iPhone的隐藏白噪音功能",
-    "originalTitle": "If Your Baby's Not Sleeping, Try Your iPhone's Hidden White Noise Feature",
-    "summary": "播放平静的声音，如雨水或海浪，以帮助营造宁静祥和的睡眠环境。",
-    "originalSummary": "Play calming sounds, like rain or ocean waves, to help create a peaceful and serene sleep environment.",
-    "url": "https://www.cnet.com/tech/services-and-software/if-you-babys-not-sleeping-try-your-iphones-hidden-white-noise-feature/",
-    "publishedAt": "2026-04-05T10:00:53.000Z",
     "language": "en",
     "category": "数码产品"
   },
@@ -84,18 +192,6 @@
     "category": "科技趋势"
   },
   {
-    "id": "aHR0cHM6Ly93",
-    "source": "Wired",
-    "title": "揭露叙利亚全面安全失败的黑客攻击",
-    "originalTitle": "The Hack That Exposed Syria’s Sweeping Security Failures",
-    "summary": "当叙利亚政府账户在3月份被劫持时，违规行为看起来很混乱。但它揭示了一些更令人不安的事情：一个正在与最基本的网络安全层作斗争的国家。",
-    "originalSummary": "When Syrian government accounts were hijacked in March, the breach looked chaotic. But it revealed something more troubling: a state struggling with the most basic layer of cybersecurity.",
-    "url": "https://www.wired.com/story/inside-the-hack-that-exposed-syrias-security-failures/",
-    "publishedAt": "2026-04-05T09:00:00.000Z",
-    "language": "en",
-    "category": "科技趋势"
-  },
-  {
     "id": "aHR0cHM6Ly9z",
     "source": "少数派",
     "title": "愿君多修葺，此物最相思：从我的故事谈「数字遗产」保护",
@@ -118,30 +214,6 @@
     "publishedAt": "2026-04-05T06:05:09.000Z",
     "language": "zh",
     "category": "中国科技"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "今日纽约时报Strands 4月5日提示、答案和帮助# 763",
-    "originalTitle": "Today's NYT Strands Hints, Answers and Help for April 5 #763",
-    "summary": "以下是763年4月5日纽约时报拼图的提示和答案。",
-    "originalSummary": "Here are hints and answers for the NYT Strands puzzle for April 5, No. 763.",
-    "url": "https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-5-763/",
-    "publishedAt": "2026-04-05T05:04:56.000Z",
-    "language": "en",
-    "category": "数码产品"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "今天的NYT Connections提示，答案和帮助， 4月5日， # 1029",
-    "originalTitle": "Today's NYT Connections Hints, Answers and Help for April 5, #1029",
-    "summary": "以下是4月5日纽约时报Connections拼图的一些提示和答案# 1029",
-    "originalSummary": "Here are some hints and the answers for the NYT Connections puzzle for April 5 #1029",
-    "url": "https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-5-1029/",
-    "publishedAt": "2026-04-05T04:59:11.000Z",
-    "language": "en",
-    "category": "数码产品"
   },
   {
     "id": "aHR0cHM6Ly8z",
@@ -240,30 +312,6 @@
     "category": "科技创业"
   },
   {
-    "id": "aHR0cHM6Ly93",
-    "source": "The Verge",
-    "title": "购买两款Nintendo Switch游戏，在Target上获得$ 30折扣",
-    "originalTitle": "Buy two Nintendo Switch games, get $30 off at Target",
-    "summary": "Target向一些Target Circle会员提供了大量优惠，使两款Nintendo Switch和Switch 2游戏的成本降低了30 $。促销活动将在当天剩余时间内进行，将于凌晨2:59到期",
-    "originalSummary": "Target is offering a great deal to some Target Circle members that knocks $30 off the cost of two Nintendo Switch and Switch 2 games. The sale is happening for the rest of the day, expiring at 2:59AM ",
-    "url": "https://www.theverge.com/gadgets/906843/nintendo-switch-2-game-sale-target-circle-deal",
-    "publishedAt": "2026-04-04T15:00:00.000Z",
-    "language": "en",
-    "category": "科技文化"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "The Verge",
-    "title": "我梦寐以求的AR游戏眼镜需要具备这九项功能",
-    "originalTitle": "My dream pair of AR gaming glasses needs to have these nine features",
-    "summary": "我在实验室里花了几个月的时间测试Xreal和Viture的最新AR眼镜。所谓“实验室” ，我指的是每天晚上在我的沙发上躺着，在一个巨大的虚拟屏幕上玩我的Steam Deck或Nintendo Switch 2",
-    "originalSummary": "I’ve spent months in the lab testing the latest AR glasses from Xreal and Viture. By “lab,” I mean cozied up on my couch each night, playing my Steam Deck or Nintendo Switch 2 on a huge, virtual scree",
-    "url": "https://www.theverge.com/gadgets/906586/best-ar-glasses-viture-xreal-gaming-steam-deck-switch-2",
-    "publishedAt": "2026-04-04T14:00:00.000Z",
-    "language": "en",
-    "category": "科技文化"
-  },
-  {
     "id": "aHR0cHM6Ly90",
     "source": "TechCrunch",
     "title": "在对抗恶意软件几十年后，这位网络安全资深人士现在正在黑客攻击无人机",
@@ -274,30 +322,6 @@
     "publishedAt": "2026-04-04T13:00:00.000Z",
     "language": "en",
     "category": "科技创业"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "The Verge",
-    "title": "真的吗，你没有人工智能就做了这个？证明一下",
-    "originalTitle": "Really, you made this without AI? Prove it",
-    "summary": "“这看起来像是人工智能。“作为一名涉足插画和业余摄影的作家，我害怕看到这句话。在一个生成式人工智能技术越来越擅长模仿",
-    "originalSummary": "\"This looks like AI.\" It's a phrase I dread seeing as a writer who dabbles in illustration and amateur photography. In a world where generative AI technology is increasingly adept at mimicking the wor",
-    "url": "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content",
-    "publishedAt": "2026-04-04T13:00:00.000Z",
-    "language": "en",
-    "category": "科技文化"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "The Verge",
-    "title": "Super Meat Boy 3D让苦难变得有趣",
-    "originalTitle": "Super Meat Boy 3D makes suffering fun",
-    "summary": "原版《超级肉肉男孩》是有史以来最著名的独立游戏之一。它于2010年发布，是一款极其困难的2D平台游戏，但玩起来很有趣：短关卡几乎让人感觉很快",
-    "originalSummary": "The original Super Meat Boy is one of the best-known indie games of all time. Released in 2010, it's a brutally difficult 2D platformer, but so fun to play: The short levels almost feel like speedrunn",
-    "url": "https://www.theverge.com/games/904202/super-meat-boy-3d-review",
-    "publishedAt": "2026-04-04T12:00:00.000Z",
-    "language": "en",
-    "category": "科技文化"
   },
   {
     "id": "aHR0cHM6Ly9z",
@@ -322,18 +346,6 @@
     "publishedAt": "2026-04-04T06:11:10.000Z",
     "language": "zh",
     "category": "中国科技"
-  },
-  {
-    "id": "aHR0cHM6Ly90",
-    "source": "TechCrunch",
-    "title": "Anthropic正在私人市场上占据一席之地； SpaceX可能会破坏派对",
-    "originalTitle": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
-    "summary": "Rainmaker Securities总裁Glen Anderson表示，私人股票的二级市场从未如此活跃--Anthropic是最热门的交易， OpenAI失去了市场， SpaceX的",
-    "originalSummary": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's ",
-    "url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
-    "publishedAt": "2026-04-04T01:31:00.000Z",
-    "language": "en",
-    "category": "科技创业"
   },
   {
     "id": "aHR0cHM6Ly93",
@@ -368,18 +380,6 @@
     "originalSummary": "\n                        Ice Age hunter-gatherer \"were intentionally relying on random outcomes in repeatable, rule-based ways.\"\n                    ",
     "url": "https://arstechnica.com/science/2026/04/ice-age-dice-show-early-native-americans-may-have-understood-probability/",
     "publishedAt": "2026-04-03T22:55:29.000Z",
-    "language": "en",
-    "category": "深度科技"
-  },
-  {
-    "id": "aHR0cHM6Ly9h",
-    "source": "Ars Technica",
-    "title": "当阿尔忒弥斯二世放大到月球时，一切似乎都在游泳",
-    "originalTitle": "As Artemis II zooms to the Moon, everything seems to be going swimmingly",
-    "summary": "机舱周四较冷，但机组人员已经能够调节温度。",
-    "originalSummary": "\n                        The cabin was colder on Thursday, but the crew has been able to adjust the temperature.\n                    ",
-    "url": "https://arstechnica.com/space/2026/04/as-artemis-ii-zooms-to-the-moon-everything-seems-to-be-going-swimmingly/",
-    "publishedAt": "2026-04-03T22:20:19.000Z",
     "language": "en",
     "category": "深度科技"
   },
