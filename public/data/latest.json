@@ -1,5 +1,125 @@
 [
   {
+    "id": "aHR0cHM6Ly90",
+    "source": "TechCrunch",
+    "title": "英伟达支持的SiFive对开放式AI芯片的估值达到36.5 $",
+    "originalTitle": "Nvidia-backed SiFive hits $3.65 billion valuation for open AI chips",
+    "summary": "这笔交易很有趣，原因有很多，包括SiFive的芯片设计基于RISC-V ，而不是x86或ARM。",
+    "originalSummary": "The deal is interesting for a number of reasons, including that SiFive's chip designs are based on RISC-V, not x86 or ARM. ",
+    "url": "https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips/",
+    "publishedAt": "2026-04-11T14:03:00.000Z",
+    "language": "en",
+    "category": "科技创业"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "The Verge",
+    "title": "我的小鹿绒毛告诉我Mitski的爸爸是中情局特工",
+    "originalTitle": "My baby deer plushie told me that Mitski&#8217;s dad was a CIA operative",
+    "summary": "两周前，当我收到一条短信时，我正准备退出工作。“哦，哇，我正在检查Mitski。你知道人们说她的父亲是中央情报局特工吗？“一般来说，那种",
+    "originalSummary": "Two weeks ago, I was getting ready to log off work when I got a text message. \"Oh wow, I was checking out Mitski. did you know people are saying her Dad was a CIA operative?\" Normally, that kind of ou",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/910008/fawn-friends-ai-companion",
+    "publishedAt": "2026-04-11T14:00:00.000Z",
+    "language": "en",
+    "category": "科技文化"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "The Verge",
+    "title": "您不必花费超过$ 50为您的Switch 2购买出色的USB-C基座",
+    "originalTitle": "You don’t have to spend more than $50 on a great USB-C dock for your Switch 2",
+    "summary": "任天堂似乎将其最新的游戏机设计为第三方配件制造商的一个谜。借助Switch 2 ，该公司更改了将控制器连接到新系统的无线协议",
+    "originalSummary": "Nintendo seemingly designed its latest console to be a mystery for third-party accessory makers. With the Switch 2, the company changed the wireless protocol for connecting controllers to the new syst",
+    "url": "https://www.theverge.com/gadgets/907645/nintendo-switch-2-genki-jsaux-usb-c-dock-hands-on",
+    "publishedAt": "2026-04-11T13:30:00.000Z",
+    "language": "en",
+    "category": "科技文化"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "观看机器人将现金存入钱包，就像您一样",
+    "originalTitle": "Watch a Robot Stuff Cash Into a Wallet Just Like You Do",
+    "summary": "通才AI的第一代模型就是“教机器人物理常识”。",
+    "originalSummary": "Generalist AI's Gen-1 model is all about \"teaching robots physical common sense.\"",
+    "url": "https://www.cnet.com/tech/computing/gen-1-physical-ai-model-robot-dexterity/",
+    "publishedAt": "2026-04-11T13:10:37.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "The Verge",
+    "title": "恶魔和弹球是完美的搭配",
+    "originalTitle": "Demons and pinball are a perfect match",
+    "summary": "我把Wii U放在手边有一个非常具体的原因，那就是我有一个简单的方法来玩经典的弹球游戏《魔鬼迷恋》。多年来，这对我来说已经成为一个舒适的游戏。我不",
+    "originalSummary": "There's one very specific reason I keep a Wii U handy, and that's so that I have an easy way to play the classic pinball game Devil's Crush. Over the years, it has become a comfort game for me. I'm no",
+    "url": "https://www.theverge.com/entertainment/909820/devils-on-the-moon-pinball-review-playdate",
+    "publishedAt": "2026-04-11T13:00:00.000Z",
+    "language": "en",
+    "category": "科技文化"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "The Verge",
+    "title": "伊朗如何击败白宫",
+    "originalTitle": "How Iran out-shitposted the White House",
+    "summary": "在对伊朗的战争初期，当白宫忙于发布“使命召唤”模因和跳舞保龄球的人工智能时，伊朗政权的官方媒体正在用视频淹没该地区",
+    "originalSummary": "In the early days of the war on Iran, while the White House was busy posting Call of Duty memes and AI slop of dancing bowling pins, the Iranian regime's state media was flooding the zone with video a",
+    "url": "https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop",
+    "publishedAt": "2026-04-11T13:00:00.000Z",
+    "language": "en",
+    "category": "科技文化"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "据报道，特朗普手机价格更高，看起来不同，不是美国制造",
+    "originalTitle": "Trump Phone Reportedly Costs More, Looks Different, Isn't Made in America",
+    "summary": "当The Verge看到T1的模型单元时，规格和定价与特朗普移动网站上仍在宣传的内容不匹配。",
+    "originalSummary": "When The Verge saw a model unit of the T1, the specs and pricing didn't match up with what's still being advertised on the Trump Mobile website.",
+    "url": "https://www.cnet.com/tech/mobile/trump-phone-t1-first-look-report/",
+    "publishedAt": "2026-04-11T12:56:08.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "Wired",
+    "title": "《深红沙漠》是猫爸爸模拟游戏",
+    "originalTitle": "‘Crimson Desert’ Is a Cat Dad Simulator",
+    "summary": "在一场美丽、令人困惑、无法放下的游戏中，穿上最强壮、最优秀男孩的鞋子。",
+    "originalSummary": "Step into the shoes of the strongest, goodest boy in a game that is beautiful, baffling, and impossible to put down.",
+    "url": "https://www.wired.com/story/crimson-desert-is-a-cat-dad-simulator/",
+    "publishedAt": "2026-04-11T12:30:00.000Z",
+    "language": "en",
+    "category": "科技趋势"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "Wired",
+    "title": "Zuvi ColorBox评论：一款苦苦挣扎的染发打印机",
+    "originalTitle": "Zuvi ColorBox Review: A Hair Dye Printer That Struggles",
+    "summary": "这款染发剂打印机有数百种色调可供选择。它连两个都管不住。",
+    "originalSummary": "This hair dye printer promises hundreds of shades. It couldn't even manage two.",
+    "url": "https://www.wired.com/review/zuvi-colorbox/",
+    "publishedAt": "2026-04-11T12:11:00.000Z",
+    "language": "en",
+    "category": "科技趋势"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "The Verge",
+    "title": "嘲笑科技兄弟的新节目",
+    "originalTitle": "The new show making fun of tech bros",
+    "summary": "嗨，朋友们！欢迎来到123号安装商，这是世界上最好和最边缘的东西的指南。（如果您是新来的，欢迎您，您制作了哪张Artemis照片，您还可以",
+    "originalSummary": "Hi, friends! Welcome to Installer No. 123, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, which Artemis photo did you make your wallpaper, and also you can rea",
+    "url": "https://www.theverge.com/tech/910422/audacity-artemis-maul-installer",
+    "publishedAt": "2026-04-11T12:00:00.000Z",
+    "language": "en",
+    "category": "科技文化"
+  },
+  {
     "id": "aHR0cHM6Ly93",
     "source": "Wired",
     "title": "MacBook Neo与MacBook Air ：您应该购买哪一款？",
@@ -22,30 +142,6 @@
     "publishedAt": "2026-04-11T11:15:17.000Z",
     "language": "en",
     "category": "深度科技"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "这家动画创业公司希望更容易讲述开放式故事",
-    "originalTitle": "This Animation Startup Wants to Make It Easier to Tell Open-Ended Stories",
-    "summary": "Cartwheel由前OpenAI科学家Andrew Carr和前谷歌创意总监Jonathan Jarvis创立，正在弥合2D视觉和3D执行之间的差距。",
-    "originalSummary": "Founded by former OpenAI scientist Andrew Carr and former Google creative director Jonathan Jarvis, Cartwheel is bridging the gap between 2D vision and 3D execution.",
-    "url": "https://www.cnet.com/tech/services-and-software/cartwheel-ai-animation-interview/",
-    "publishedAt": "2026-04-11T11:00:59.000Z",
-    "language": "en",
-    "category": "数码产品"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "The Verge",
-    "title": "“电池圣杯”终于准备好祝福我们了吗？",
-    "originalTitle": "Is the ‘Holy Grail of batteries’ finally ready to bless us with its presence?",
-    "summary": "今年早些时候，芬兰一家相对不知名的初创公司宣布了一项惊人的消息：它终于解决了固态电池问题。不仅如此，还有Donut Lab ，这是Verge Motorcycles的衍生产品，",
-    "originalSummary": "Earlier this year, a relatively unknown startup from Finland made a startling announcement: It had finally solved solid-state batteries. Not only that, but Donut Lab, a spinoff of Verge Motorcycles, s",
-    "url": "https://www.theverge.com/transportation/909480/solid-state-battery-donut-lab-ev-china",
-    "publishedAt": "2026-04-11T11:00:00.000Z",
-    "language": "en",
-    "category": "科技文化"
   },
   {
     "id": "aHR0cHM6Ly93",
@@ -73,6 +169,18 @@
   },
   {
     "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "这家动画创业公司希望更容易讲述开放式故事",
+    "originalTitle": "This Animation Startup Wants to Make It Easier to Tell Open-Ended Stories",
+    "summary": "Cartwheel由前OpenAI科学家Andrew Carr和前谷歌创意总监Jonathan Jarvis创立，正在弥合2D视觉和3D执行之间的差距。",
+    "originalSummary": "Founded by former OpenAI scientist Andrew Carr and former Google creative director Jonathan Jarvis, Cartwheel is bridging the gap between 2D vision and 3D execution.",
+    "url": "https://www.cnet.com/tech/services-and-software/cartwheel-ai-animation-interview/",
+    "publishedAt": "2026-04-11T11:00:00.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
     "source": "Wired",
     "title": "来自FBI的推送通知不安全",
     "originalTitle": "Your Push Notifications Aren’t Safe From the FBI",
@@ -94,54 +202,6 @@
     "publishedAt": "2026-04-11T10:27:00.000Z",
     "language": "en",
     "category": "数码产品"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "2026年23件最佳毕业礼物",
-    "originalTitle": "23 Best Graduation Gifts for 2026",
-    "summary": "用一份贴心、实用的礼物来庆祝他们人生的下一个阶段，帮助他们做好准备迎接这个世界。",
-    "originalSummary": "Celebrate their next stage of life with a thoughtful, practical gift that'll help them get ready to take on the world.",
-    "url": "https://www.cnet.com/tech/mobile/best-graduation-gifts/",
-    "publishedAt": "2026-04-11T10:22:00.000Z",
-    "language": "en",
-    "category": "数码产品"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "Apple TV ：您可能没有看过的26个最佳节目",
-    "originalTitle": "Apple TV: 26 of the Best Shows You're Probably Not Watching",
-    "summary": "有电视，还有苹果电视。",
-    "originalSummary": "There's TV, and then there's Apple TV.",
-    "url": "https://www.cnet.com/tech/services-and-software/best-apple-tv-shows/",
-    "publishedAt": "2026-04-11T10:01:15.000Z",
-    "language": "en",
-    "category": "数码产品"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "Wired",
-    "title": "飞行路径数据显示蚊子如何瞄准人类",
-    "originalTitle": "Flight Path Data Shows How Mosquitoes Target Humans",
-    "summary": "科学家们已经量化了蚊子对人类的吸引力，这可能有助于制造更好的挽救生命的虫子陷阱。",
-    "originalSummary": "Scientists have quantified what draws mosquitoes to people—which could help make better, life-saving bug traps.",
-    "url": "https://www.wired.com/story/flight-path-data-shows-how-mosquitoes-target-humans/",
-    "publishedAt": "2026-04-11T10:00:00.000Z",
-    "language": "en",
-    "category": "科技趋势"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "Wired",
-    "title": "互联网如何破坏每个人的废话检测器",
-    "originalTitle": "How the Internet Broke Everyone’s Bullshit Detectors",
-    "summary": "从人工智能生成的图像到受限的卫星数据，用于验证在线真实内容的系统都在努力跟上。",
-    "originalSummary": "From AI-generated images to restricted satellite data, the systems used to verify what’s real online are struggling to keep up.",
-    "url": "https://www.wired.com/story/how-the-internet-broke-everyones-bullshit-detectors/",
-    "publishedAt": "2026-04-11T09:30:00.000Z",
-    "language": "en",
-    "category": "科技趋势"
   },
   {
     "id": "aHR0cHM6Ly8z",
@@ -276,18 +336,6 @@
     "category": "科技创业"
   },
   {
-    "id": "aHR0cHM6Ly93",
-    "source": "The Verge",
-    "title": "现在，美国联邦航空局表示，游戏玩家是解决其空中交通管制员短缺问题的答案",
-    "originalTitle": "Now the FAA says gamers are the answer to its air traffic controller shortage",
-    "summary": "美国联邦航空管理局（ FAA ）多年来一直在努力争取足够的空中交通管制员来解决短缺问题，美国政府问责局（ GAO ）在1月份表示",
-    "originalSummary": "The Federal Aviation Administration (FAA) has struggled for years to have enough air traffic controllers to address shortages, with the US Government Accountability Office (GAO) saying in January that",
-    "url": "https://www.theverge.com/games/910434/now-the-faa-says-gamers-are-the-answer-to-its-air-traffic-controller-shortage",
-    "publishedAt": "2026-04-10T20:50:51.000Z",
-    "language": "en",
-    "category": "科技文化"
-  },
-  {
     "id": "aHR0cHM6Ly90",
     "source": "TechCrunch",
     "title": "Anthropic暂时禁止OpenClaw的创建者访问Claude",
@@ -298,30 +346,6 @@
     "publishedAt": "2026-04-10T20:27:52.000Z",
     "language": "en",
     "category": "科技创业"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "The Verge",
-    "title": "一名20岁的男子因涉嫌向Sam Altman的房子扔自制燃烧弹而被捕",
-    "originalTitle": "20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house",
-    "summary": "据旧金山标准报报道，旧金山警方周五早上逮捕了一名20岁的男子，该男子涉嫌向OpenAI首席执行官山姆·奥尔特曼（ Sam Altman ）的俄罗斯山房子投掷自制燃烧弹。",
-    "originalSummary": "San Francisco police have arrested a 20-year-old man suspected of throwing a Molotov cocktail at OpenAI CEO Sam Altman's Russian Hill house early Friday morning, The San Francisco Standard reports. Th",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail",
-    "publishedAt": "2026-04-10T20:16:57.000Z",
-    "language": "en",
-    "category": "科技文化"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "The Verge",
-    "title": "如何观看阿尔忒弥斯2号宇航员重返地球",
-    "originalTitle": "How to watch the Artemis II astronauts return to Earth",
-    "summary": "载有Artemis II指挥官Reid Wiseman ，飞行员Victor Glover ，任务专家Christina Koch和加拿大宇航员Jeremy Hansen的猎户座太空舱预计将在",
-    "originalSummary": "The Orion capsule, carrying Artemis II commander Reid Wiseman, pilot Victor Glover, mission specialist Christina Koch, and Canadian astronaut Jeremy Hansen, is expected to land back to Earth after a n",
-    "url": "https://www.theverge.com/news/910397/how-to-watch-the-artemis-ii-astronauts-return-to-earth",
-    "publishedAt": "2026-04-10T20:08:08.000Z",
-    "language": "en",
-    "category": "科技文化"
   },
   {
     "id": "aHR0cHM6Ly9h",
@@ -344,30 +368,6 @@
     "originalSummary": "Ascend Elements said that it will be filing for Chapter 11 bankruptcy in the wake of a canceled government grant and a challenging market for lithium-ion batteries.",
     "url": "https://techcrunch.com/2026/04/10/battery-recycler-ascend-elements-files-for-bankruptcy/",
     "publishedAt": "2026-04-10T19:16:52.000Z",
-    "language": "en",
-    "category": "科技创业"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "The Verge",
-    "title": "微软终于允许Windows 11测试人员在没有ViVeTool的情况下解锁实验性功能",
-    "originalTitle": "Microsoft finally lets Windows 11 testers unlock experimental features without ViVeTool",
-    "summary": "微软终于允许Windows 11测试人员无需下载ViVeTool等第三方应用程序即可访问实验性功能。这些更改是使Windows Insider P",
-    "originalSummary": "Microsoft is finally allowing Windows 11 testers to get access to experimental features without having to download a third-party app like ViVeTool. The changes are part of making the Windows Insider P",
-    "url": "https://www.theverge.com/news/909659/microsoft-windows-insider-changes-unlock-experimental-features-without-vivetool",
-    "publishedAt": "2026-04-10T18:00:00.000Z",
-    "language": "en",
-    "category": "科技文化"
-  },
-  {
-    "id": "aHR0cHM6Ly90",
-    "source": "TechCrunch",
-    "title": "跟踪受害者起诉OpenAI ，声称ChatGPT助长了施虐者的妄想，无视她的警告",
-    "originalTitle": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
-    "summary": "一项新的诉讼称， OpenAI在跟踪和骚扰前女友时，忽略了三项关于ChatGPT用户是危险的警告，包括其自己的大规模伤亡旗帜。",
-    "originalSummary": "OpenAI ignored three warnings that a ChatGPT user was dangerous — including its own mass-casualty flag — while he stalked and harassed his ex-girlfriend, a new lawsuit alleges.",
-    "url": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
-    "publishedAt": "2026-04-10T16:41:34.000Z",
     "language": "en",
     "category": "科技创业"
   },
