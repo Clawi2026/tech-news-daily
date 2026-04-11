@@ -2,6 +2,78 @@
   {
     "id": "aHR0cHM6Ly93",
     "source": "Wired",
+    "title": "MacBook Neo与MacBook Air ：您应该购买哪一款？",
+    "originalTitle": "MacBook Neo vs. MacBook Air: Which One Should You Buy?",
+    "summary": "在对MacBook Neo和MacBook Air进行长期测试后，我有一个好主意，谁应该购买哪款笔记本电脑。",
+    "originalSummary": "After conducting long-term testing on both the MacBook Neo and MacBook Air, I have a good idea who should buy which laptop.",
+    "url": "https://www.wired.com/story/macbook-neo-vs-macbook-air/",
+    "publishedAt": "2026-04-11T11:30:00.000Z",
+    "language": "en",
+    "category": "科技趋势"
+  },
+  {
+    "id": "aHR0cHM6Ly9h",
+    "source": "Ars Technica",
+    "title": "人工智能模型在押注足球方面很糟糕，尤其是xAI Grok",
+    "originalTitle": "AI models are terrible at betting on soccer—especially xAI Grok",
+    "summary": "来自谷歌、OpenAI、Anthropic和xAI的系统在英超联赛中挣扎。",
+    "originalSummary": "\n                        Systems from Google, OpenAI, Anthropic, and xAI struggle with the Premier League.\n                    ",
+    "url": "https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/",
+    "publishedAt": "2026-04-11T11:15:17.000Z",
+    "language": "en",
+    "category": "深度科技"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "这家动画创业公司希望更容易讲述开放式故事",
+    "originalTitle": "This Animation Startup Wants to Make It Easier to Tell Open-Ended Stories",
+    "summary": "Cartwheel由前OpenAI科学家Andrew Carr和前谷歌创意总监Jonathan Jarvis创立，正在弥合2D视觉和3D执行之间的差距。",
+    "originalSummary": "Founded by former OpenAI scientist Andrew Carr and former Google creative director Jonathan Jarvis, Cartwheel is bridging the gap between 2D vision and 3D execution.",
+    "url": "https://www.cnet.com/tech/services-and-software/cartwheel-ai-animation-interview/",
+    "publishedAt": "2026-04-11T11:00:59.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "The Verge",
+    "title": "“电池圣杯”终于准备好祝福我们了吗？",
+    "originalTitle": "Is the ‘Holy Grail of batteries’ finally ready to bless us with its presence?",
+    "summary": "今年早些时候，芬兰一家相对不知名的初创公司宣布了一项惊人的消息：它终于解决了固态电池问题。不仅如此，还有Donut Lab ，这是Verge Motorcycles的衍生产品，",
+    "originalSummary": "Earlier this year, a relatively unknown startup from Finland made a startling announcement: It had finally solved solid-state batteries. Not only that, but Donut Lab, a spinoff of Verge Motorcycles, s",
+    "url": "https://www.theverge.com/transportation/909480/solid-state-battery-donut-lab-ev-china",
+    "publishedAt": "2026-04-11T11:00:00.000Z",
+    "language": "en",
+    "category": "科技文化"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "Wired",
+    "title": "最佳电动货运自行车（ 2026年） ： Urban Arrow、Lectric、Tern等",
+    "originalTitle": "Best Electric Cargo Bikes (2026): Urban Arrow, Lectric, Tern, and More",
+    "summary": "您无需开车即可携带儿童和杯架。我骑了几英里的货物电动自行车，为您找到最好的。",
+    "originalSummary": "You don't need a car to tote around kids and cup holders. I rode cargo ebikes for miles to find the best one for your buck.",
+    "url": "https://www.wired.com/story/best-electric-cargo-bikes/",
+    "publishedAt": "2026-04-11T11:00:00.000Z",
+    "language": "en",
+    "category": "科技趋势"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "针对监控和车牌摄像头的州法律：最适合您隐私的方法",
+    "originalTitle": "State Laws Against Surveillance and License Plate Cams: What Works Best for Your Privacy",
+    "summary": "越来越多的州正在制定法律，限制使用人工智能车牌阅读器、汽车跟踪器和警察无人机监控。我找到了最好的例子。",
+    "originalSummary": "A growing number of states are making laws to restrict how AI license plate readers, car trackers and police drone surveillance are used. I found the best examples.",
+    "url": "https://www.cnet.com/home/security/state-laws-against-surveillance-and-license-plate-cams-what-works-best-for-your-privacy/",
+    "publishedAt": "2026-04-11T11:00:00.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "Wired",
     "title": "来自FBI的推送通知不安全",
     "originalTitle": "Your Push Notifications Aren’t Safe From the FBI",
     "summary": "此外：伊朗的互联网停电时间达到1000小时，加密货币诈骗导致美国人被盗的金额创纪录，等等。",
@@ -82,42 +154,6 @@
     "publishedAt": "2026-04-11T09:16:09.000Z",
     "language": "zh",
     "category": "中国科技"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "Wired",
-    "title": "All-Clad Factory Seconds促销活动现已回归（ 2026年）",
-    "originalTitle": "The All-Clad Factory Seconds Sale Is Back—for Now (2026)",
-    "summary": "全包装炊具是您可以购买的最好的炊具之一，与本次促销不同，它可以持续一生。或者翘曲的煎锅。",
-    "originalSummary": "All-Clad cookware is some of the best you can buy, and it lasts a lifetime—unlike this sale. Or your warped frying pan.",
-    "url": "https://www.wired.com/story/all-clad-factory-seconds-april-2026/",
-    "publishedAt": "2026-04-11T09:04:00.000Z",
-    "language": "en",
-    "category": "科技趋势"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "今天的Wordle提示，答案和帮助， # 1757年4月11日",
-    "originalTitle": "Today's Wordle Hints, Answer and Help for April 11, #1757",
-    "summary": "以下是今天4月11日第1,757号Wordle的提示和答案。",
-    "originalSummary": "Here are hints and the answer for today's Wordle for April 11, No. 1,757.",
-    "url": "https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-11-1757/",
-    "publishedAt": "2026-04-11T09:01:12.000Z",
-    "language": "en",
-    "category": "数码产品"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "今日纽约时报Strands 4月11日提示、答案和帮助# 769",
-    "originalTitle": "Today's NYT Strands Hints, Answers and Help for April 11 #769",
-    "summary": "以下是纽约时报第769期4月11日拼图的提示和答案。",
-    "originalSummary": "Here are hints and answers for the NYT Strands puzzle for April 11, No. 769.",
-    "url": "https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-11-769/",
-    "publishedAt": "2026-04-11T09:01:12.000Z",
-    "language": "en",
-    "category": "数码产品"
   },
   {
     "id": "aHR0cHM6Ly8z",
@@ -216,18 +252,6 @@
     "category": "科技创业"
   },
   {
-    "id": "aHR0cHM6Ly93",
-    "source": "Wired",
-    "title": "阿尔忒弥斯二号宇航员在绕月飞行后安全返回地球",
-    "originalTitle": "Artemis II Astronauts Safely Return to Earth After Historic Flight Around the Moon",
-    "summary": "阿耳忒弥斯二世的宇航员离开地球的距离比他们之前的任何人类都要远，他们已经安全返回家园。",
-    "originalSummary": "After traveling a greater distance from Earth than any humans before them, the astronauts of Artemis II have safely returned home.",
-    "url": "https://www.wired.com/story/artemis-ii-returns-from-historic-flight-around-the-moon/",
-    "publishedAt": "2026-04-11T00:08:17.000Z",
-    "language": "en",
-    "category": "科技趋势"
-  },
-  {
     "id": "aHR0cHM6Ly9h",
     "source": "Ars Technica",
     "title": "加州人对记录医生就诊的人工智能工具提起诉讼",
@@ -324,18 +348,6 @@
     "category": "科技创业"
   },
   {
-    "id": "aHR0cHM6Ly9h",
-    "source": "Ars Technica",
-    "title": "F1距离解决2026年混合动力问题又近了一步",
-    "originalTitle": "F1 moves a step closer to fixing its 2026 hybrid problem",
-    "summary": "算法，而不是驱动因素，决定了加速的难度，这是不好的。",
-    "originalSummary": "\n                        Algorithms, not drivers, are deciding how hard to accelerate, and that's no good.\n                    ",
-    "url": "https://arstechnica.com/cars/2026/04/f1-moves-a-step-closer-to-fixing-its-2026-hybrid-problem/",
-    "publishedAt": "2026-04-10T19:07:46.000Z",
-    "language": "en",
-    "category": "深度科技"
-  },
-  {
     "id": "aHR0cHM6Ly93",
     "source": "The Verge",
     "title": "微软终于允许Windows 11测试人员在没有ViVeTool的情况下解锁实验性功能",
@@ -344,18 +356,6 @@
     "originalSummary": "Microsoft is finally allowing Windows 11 testers to get access to experimental features without having to download a third-party app like ViVeTool. The changes are part of making the Windows Insider P",
     "url": "https://www.theverge.com/news/909659/microsoft-windows-insider-changes-unlock-experimental-features-without-vivetool",
     "publishedAt": "2026-04-10T18:00:00.000Z",
-    "language": "en",
-    "category": "科技文化"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "The Verge",
-    "title": "我的首选电动螺丝刀今天以超过50%的折扣出售",
-    "originalTitle": "My go-to electric screwdriver is on sale for over 50 percent off today",
-    "summary": "Fanttik和Hoto一样，正迅速成为家喻户晓的名字。该工具品牌的无绳器具安静、功能强大，肯定比您在当地的Ace Hardware或邻居身上找到的任何东西都更时尚",
-    "originalSummary": "Fanttik, like Hoto, is quickly becoming a household name. The tool brand’s cordless wares are quiet, capable, and certainly more stylish than anything you’d find at your local Ace Hardware or neighbor",
-    "url": "https://www.theverge.com/gadgets/909546/fanttik-s1-pro-cordless-electric-screwdriver-iniu-20w-portable-charger-deal-sale",
-    "publishedAt": "2026-04-10T17:43:17.000Z",
     "language": "en",
     "category": "科技文化"
   },
