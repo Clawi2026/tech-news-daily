@@ -1,5 +1,77 @@
 [
   {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "阿尔忒弥斯二号宇航员在月球任务后安全降落",
+    "originalTitle": "Artemis II Astronauts Splash Down Safely After Moon Mission",
+    "summary": "宇航员里德·怀斯曼（ Reid Wiseman ）、维克多·格洛弗（ Victor Glover ）、克里斯蒂娜·科赫（ Christina Koch ）和杰里米·以下是发生的一切。",
+    "originalSummary": "Astronauts Reid Wiseman, Victor Glover, Christina Koch and Jeremy Hansen returned to Earth on Friday. Here's everything that happened.",
+    "url": "https://www.cnet.com/news-live/nasa-artemis-ii-astronauts-return-home-historic-moon-mission/",
+    "publishedAt": "2026-04-11T15:34:19.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "The Verge",
+    "title": "谷歌表示，出现在新闻中的Polymarket投注是一个“错误”",
+    "originalTitle": "Google says Polymarket bets showing up in News was an ‘error’",
+    "summary": "Polymarket投注开始在Google新闻中与合法新闻文章一起出现。但现在这些结果并没有显示出来，谷歌表示他们从来没有想过这样做。发言人Ned Adriance告诉",
+    "originalSummary": "Polymarket bets started popping up in Google News alongside legitimate news articles. But now those results aren't showing, and Google says they were never supposed to. Spokesperson Ned Adriance told ",
+    "url": "https://www.theverge.com/tech/910691/google-news-polymarket-bets-error",
+    "publishedAt": "2026-04-11T15:07:47.000Z",
+    "language": "en",
+    "category": "科技文化"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "The Verge",
+    "title": "口袋妖怪英雄开局艰难",
+    "originalTitle": "Pokémon Champions is off to a rough start",
+    "summary": "与之前的许多现场直播游戏一样， Pokémon Champions的推出也很混乱。免费启动的战斗模拟，现已在Switch和Switch 2上推出（今年晚些时候也将在手机上推出）",
+    "originalSummary": "Like many live-service games before it, Pok&#233;mon Champions' launch has been messy. The free-to-start battle sim, which is out now on the Switch and Switch 2 (and also coming to mobile later this y",
+    "url": "https://www.theverge.com/games/910110/pokemon-champions-bugs-balance-issues-vgc-newcomers",
+    "publishedAt": "2026-04-11T15:00:00.000Z",
+    "language": "en",
+    "category": "科技文化"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "The Verge",
+    "title": "您关于人工智能的文章不需要人工智能艺术",
+    "originalTitle": "Your article about AI doesn’t need AI art",
+    "summary": "《纽约客》对OpenAI首席执行官山姆·奥尔特曼（ Sam Altman ）的描述是一个跳跃式的恐慌。奥尔特曼站在一件蓝色毛衣上，表情茫然。他的头周围盘旋着一群无形的面孔--",
+    "originalSummary": "The illustration for The New Yorker's profile of OpenAI CEO Sam Altman is a jump scare. Altman stands in a blue sweater with a blank expression. Around his head hovers a cluster of disembodied faces -",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
+    "publishedAt": "2026-04-11T15:00:00.000Z",
+    "language": "en",
+    "category": "科技文化"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "The Verge",
+    "title": "谷歌最新的Nest门铃刚刚触及今年的最低价格",
+    "originalTitle": "Google’s latest Nest Doorbells just hit their lowest prices of the year",
+    "summary": "如果您担心门廊海盗在您外出时偷窃包裹，视频门铃可以让您安心无忧，无论您身在何处，都可以密切关注派送情况。Google优惠",
+    "originalSummary": "If you’ve ever worried about porch pirates stealing packages while you’re away, a video doorbell can offer some peace of mind, letting you keep tabs on deliveries no matter where you are. Google offer",
+    "url": "https://www.theverge.com/gadgets/910472/google-nest-doorbell-wired-battery-powered-deal-sale",
+    "publishedAt": "2026-04-11T15:00:00.000Z",
+    "language": "en",
+    "category": "科技文化"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "三星：春天三角在这里。如何看待它",
+    "originalTitle": "A Trio of Stars: The Spring Triangle Is Here. How to See It",
+    "summary": "Arcturus、Spica和Regulus是天空中最亮的三颗恒星。",
+    "originalSummary": "Arcturus, Spica and Regulus are three of the brightest stars in the sky.",
+    "url": "https://www.cnet.com/science/space/a-trio-of-stars-the-spring-triangle-is-visible-all-spring-and-heres-how-to-see-it/",
+    "publishedAt": "2026-04-11T14:42:49.000Z",
+    "language": "en",
+    "category": "数码产品"
+  },
+  {
     "id": "aHR0cHM6Ly90",
     "source": "TechCrunch",
     "title": "英伟达支持的SiFive对开放式AI芯片的估值达到36.5 $",
@@ -10,6 +82,18 @@
     "publishedAt": "2026-04-11T14:03:00.000Z",
     "language": "en",
     "category": "科技创业"
+  },
+  {
+    "id": "aHR0cHM6Ly93",
+    "source": "CNET",
+    "title": "Hulu绝对最佳恐怖电影",
+    "originalTitle": "The Absolute Best Horror Movies on Hulu",
+    "summary": "流式传输身体恐怖电影《丑陋的继姐妹》。",
+    "originalSummary": "Stream the body horror film The Ugly Stepsister.",
+    "url": "https://www.cnet.com/culture/entertainment/best-horror-movies-on-hulu-april-2026/",
+    "publishedAt": "2026-04-11T14:00:44.000Z",
+    "language": "en",
+    "category": "数码产品"
   },
   {
     "id": "aHR0cHM6Ly93",
@@ -25,18 +109,6 @@
   },
   {
     "id": "aHR0cHM6Ly93",
-    "source": "The Verge",
-    "title": "您不必花费超过$ 50为您的Switch 2购买出色的USB-C基座",
-    "originalTitle": "You don’t have to spend more than $50 on a great USB-C dock for your Switch 2",
-    "summary": "任天堂似乎将其最新的游戏机设计为第三方配件制造商的一个谜。借助Switch 2 ，该公司更改了将控制器连接到新系统的无线协议",
-    "originalSummary": "Nintendo seemingly designed its latest console to be a mystery for third-party accessory makers. With the Switch 2, the company changed the wireless protocol for connecting controllers to the new syst",
-    "url": "https://www.theverge.com/gadgets/907645/nintendo-switch-2-genki-jsaux-usb-c-dock-hands-on",
-    "publishedAt": "2026-04-11T13:30:00.000Z",
-    "language": "en",
-    "category": "科技文化"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
     "source": "CNET",
     "title": "观看机器人将现金存入钱包，就像您一样",
     "originalTitle": "Watch a Robot Stuff Cash Into a Wallet Just Like You Do",
@@ -46,30 +118,6 @@
     "publishedAt": "2026-04-11T13:10:37.000Z",
     "language": "en",
     "category": "数码产品"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "The Verge",
-    "title": "恶魔和弹球是完美的搭配",
-    "originalTitle": "Demons and pinball are a perfect match",
-    "summary": "我把Wii U放在手边有一个非常具体的原因，那就是我有一个简单的方法来玩经典的弹球游戏《魔鬼迷恋》。多年来，这对我来说已经成为一个舒适的游戏。我不",
-    "originalSummary": "There's one very specific reason I keep a Wii U handy, and that's so that I have an easy way to play the classic pinball game Devil's Crush. Over the years, it has become a comfort game for me. I'm no",
-    "url": "https://www.theverge.com/entertainment/909820/devils-on-the-moon-pinball-review-playdate",
-    "publishedAt": "2026-04-11T13:00:00.000Z",
-    "language": "en",
-    "category": "科技文化"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "The Verge",
-    "title": "伊朗如何击败白宫",
-    "originalTitle": "How Iran out-shitposted the White House",
-    "summary": "在对伊朗的战争初期，当白宫忙于发布“使命召唤”模因和跳舞保龄球的人工智能时，伊朗政权的官方媒体正在用视频淹没该地区",
-    "originalSummary": "In the early days of the war on Iran, while the White House was busy posting Call of Duty memes and AI slop of dancing bowling pins, the Iranian regime's state media was flooding the zone with video a",
-    "url": "https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop",
-    "publishedAt": "2026-04-11T13:00:00.000Z",
-    "language": "en",
-    "category": "科技文化"
   },
   {
     "id": "aHR0cHM6Ly93",
@@ -109,18 +157,6 @@
   },
   {
     "id": "aHR0cHM6Ly93",
-    "source": "The Verge",
-    "title": "嘲笑科技兄弟的新节目",
-    "originalTitle": "The new show making fun of tech bros",
-    "summary": "嗨，朋友们！欢迎来到123号安装商，这是世界上最好和最边缘的东西的指南。（如果您是新来的，欢迎您，您制作了哪张Artemis照片，您还可以",
-    "originalSummary": "Hi, friends! Welcome to Installer No. 123, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, which Artemis photo did you make your wallpaper, and also you can rea",
-    "url": "https://www.theverge.com/tech/910422/audacity-artemis-maul-installer",
-    "publishedAt": "2026-04-11T12:00:00.000Z",
-    "language": "en",
-    "category": "科技文化"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
     "source": "Wired",
     "title": "MacBook Neo与MacBook Air ：您应该购买哪一款？",
     "originalTitle": "MacBook Neo vs. MacBook Air: Which One Should You Buy?",
@@ -157,30 +193,6 @@
   },
   {
     "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "针对监控和车牌摄像头的州法律：最适合您隐私的方法",
-    "originalTitle": "State Laws Against Surveillance and License Plate Cams: What Works Best for Your Privacy",
-    "summary": "越来越多的州正在制定法律，限制使用人工智能车牌阅读器、汽车跟踪器和警察无人机监控。我找到了最好的例子。",
-    "originalSummary": "A growing number of states are making laws to restrict how AI license plate readers, car trackers and police drone surveillance are used. I found the best examples.",
-    "url": "https://www.cnet.com/home/security/state-laws-against-surveillance-and-license-plate-cams-what-works-best-for-your-privacy/",
-    "publishedAt": "2026-04-11T11:00:00.000Z",
-    "language": "en",
-    "category": "数码产品"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "这家动画创业公司希望更容易讲述开放式故事",
-    "originalTitle": "This Animation Startup Wants to Make It Easier to Tell Open-Ended Stories",
-    "summary": "Cartwheel由前OpenAI科学家Andrew Carr和前谷歌创意总监Jonathan Jarvis创立，正在弥合2D视觉和3D执行之间的差距。",
-    "originalSummary": "Founded by former OpenAI scientist Andrew Carr and former Google creative director Jonathan Jarvis, Cartwheel is bridging the gap between 2D vision and 3D execution.",
-    "url": "https://www.cnet.com/tech/services-and-software/cartwheel-ai-animation-interview/",
-    "publishedAt": "2026-04-11T11:00:00.000Z",
-    "language": "en",
-    "category": "数码产品"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
     "source": "Wired",
     "title": "来自FBI的推送通知不安全",
     "originalTitle": "Your Push Notifications Aren’t Safe From the FBI",
@@ -190,18 +202,6 @@
     "publishedAt": "2026-04-11T10:30:00.000Z",
     "language": "en",
     "category": "科技趋势"
-  },
-  {
-    "id": "aHR0cHM6Ly93",
-    "source": "CNET",
-    "title": "在线购买阅读眼镜的9个最佳场所（无处方要求）",
-    "originalTitle": "The 9 Best Places to Buy Reading Glasses Online (Zero Prescription Required)",
-    "summary": "我查看了价格、客户评论、保修以及运输和退货政策，以找到在线购买阅读眼镜的最佳场所-无需处方。",
-    "originalSummary": "I looked at prices, customer reviews, warranties and shipping and return policies to find the best places to buy reading glasses online -- no prescription required.",
-    "url": "https://www.cnet.com/health/personal-care/best-places-to-buy-reading-glasses-online/",
-    "publishedAt": "2026-04-11T10:27:00.000Z",
-    "language": "en",
-    "category": "数码产品"
   },
   {
     "id": "aHR0cHM6Ly8z",
