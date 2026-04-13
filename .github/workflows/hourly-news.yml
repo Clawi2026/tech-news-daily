@@ -3,7 +3,7 @@ name: Hourly News Fetch
 on:
   schedule:
     # 每小时整点运行（UTC 时间，对应北京时间 00:00-23:00）
-    - cron: '0 * * * *'
+    #- cron: '0 * * * *'
   workflow_dispatch: # 允许手动触发
 
 jobs:
